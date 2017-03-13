@@ -1,5 +1,5 @@
 {
-  "Lawful": [
+  "lawful": [
     {
       "name": "Arthur Pendragon [Prototype]",
       "id": "160"
@@ -237,7 +237,7 @@
       "id": "001"
     }
   ],
-  "Good": [
+  "good": [
     {
       "name": "Arthur Pendragon [Prototype]",
       "id": "160"
@@ -547,7 +547,7 @@
       "id": "001"
     }
   ],
-  "Chaotic": [
+  "chaotic": [
     {
       "name": "Assassin of Shinjuku",
       "id": "159"
@@ -841,7 +841,7 @@
       "id": "005"
     }
   ],
-  "Evil": [
+  "evil": [
     {
       "name": "Assassin of Shinjuku",
       "id": "159"
@@ -1019,7 +1019,7 @@
       "id": "003"
     }
   ],
-  "Neutral": [
+  "neutral": [
     {
       "name": "Mysterious Heroine X [Alter]",
       "id": "155"
@@ -1243,120 +1243,6 @@
     {
       "name": "Gaius Julius Caesar",
       "id": "007"
-    }
-  ],
-  "True": [
-    {
-      "name": "Enkidu",
-      "id": "143"
-    },
-    {
-      "name": "Ryougi Shiki",
-      "id": "091"
-    },
-    {
-      "name": "Fionn Mac Cumhaill",
-      "id": "087"
-    },
-    {
-      "name": "Okita Souji",
-      "id": "068"
-    },
-    {
-      "name": "Spartacus",
-      "id": "050"
-    },
-    {
-      "name": "William Shakespeare",
-      "id": "034"
-    },
-    {
-      "name": "Emiya",
-      "id": "011"
-    },
-    {
-      "name": "Chevalier D'Eon",
-      "id": "010"
-    },
-    {
-      "name": "Gaius Julius Caesar",
-      "id": "007"
-    }
-  ],
-  "Summer": [
-    {
-      "name": "Tamamo no Mae",
-      "id": "128"
-    }
-  ],
-  "Bride": [
-    {
-      "name": "Nero Claudius [Bride]",
-      "id": "090"
-    }
-  ],
-  "(Jekyll)・": [
-    {
-      "name": "Henry Jekyll & Hyde",
-      "id": "081"
-    }
-  ],
-  "(Hyde)": [
-    {
-      "name": "Henry Jekyll & Hyde",
-      "id": "081"
-    }
-  ],
-  "Changes": [
-    {
-      "name": "Nursery Rhyme",
-      "id": "074"
-    }
-  ],
-  "according": [
-    {
-      "name": "Nursery Rhyme",
-      "id": "074"
-    }
-  ],
-  "to": [
-    {
-      "name": "Nursery Rhyme",
-      "id": "074"
-    }
-  ],
-  "her": [
-    {
-      "name": "Nursery Rhyme",
-      "id": "074"
-    }
-  ],
-  "Master": [
-    {
-      "name": "Nursery Rhyme",
-      "id": "074"
-    }
-  ],
-  "(True": [
-    {
-      "name": "Nursery Rhyme",
-      "id": "074"
-    }
-  ],
-  "Neutral)": [
-    {
-      "name": "Nursery Rhyme",
-      "id": "074"
-    }
-  ],
-  "Mad": [
-    {
-      "name": "Lancelot",
-      "id": "048"
-    },
-    {
-      "name": "Heracles",
-      "id": "047"
     }
   ]
 }
