@@ -1,99 +1,99 @@
 [
-    [
-      {
-        "name": "種火集め ＜槍・殺編＞ (Ember Gathering ＜Lancer & Assassin＞)",
-        "drop": "Lancer, Assassin, Berserker Experience Cards"
-      },
-      {
-        "name": "弓の修練場 (Archer Training Ground)",
-        "drop": "Archer Ascension and Skill Enhancement Materials"
-      },
-      {
-        "name": "宝物庫の扉を開け (Open the Treasury's Door)",
-        "drop": "QP"
-      }
-    ],
-    [
-      {
-        "name": "種火集め ＜剣・騎編＞ (Ember Gathering ＜Saber & Rider＞)",
-        "drop": "Saber, Rider, Berserker Experience Cards"
-      },
-      {
-        "name": "槍の修練場 (Lancer Training Ground)",
-        "drop": "Lancer Ascension and Skill Enhancement Materials"
-      },
-      {
-        "name": "宝物庫の扉を開け (Open the Treasury's Door)",
-        "drop": "QP"
-      }
-    ],
-    [
-      {
-        "name": "種火集め ＜弓・術編＞ (Ember Gathering ＜Archer & Caster＞)",
-        "drop": "Archer, Caster, Berserker Experience Cards"
-      },
-      {
-        "name": "狂の修練場 (Berserker Training Ground)",
-        "drop": "Berserker Ascension and Skill Enhancement Materials"
-      },
-      {
-        "name": "宝物庫の扉を開け (Open the Treasury's Door)",
-        "drop": "QP"
-      }
-    ]
-      {
-        "name": "種火集め ＜槍・殺編＞ (Ember Gathering ＜Lancer & Assassin＞)",
-        "drop": "Lancer, Assassin, Berserker Experience Cards"
-      },
-      {
-        "name": "騎の修練場 (Rider Training Ground)",
-        "drop": "Rider Ascension and Skill Enhancement Materials"
-      },
-      {
-        "name": "宝物庫の扉を開け (Open the Treasury's Door)",
-        "drop": "QP"
-      }
-    ],
-    [
-      {
-        "name": "種火集め ＜剣・騎編＞ (Ember Gathering ＜Saber & Rider＞)",
-        "drop": "Saber, Rider, Berserker Experience Cards"
-      },
-      {
-        "name": "術の修練場 (Caster Training Ground)",
-        "drop": "Caster Ascension and Skill Enhancement Materials"
-      },
-      {
-        "name": "宝物庫の扉を開け (Open the Treasury's Door)",
-        "drop": "QP"
-      }
-    ],
-    [
-      {
-        "name": "種火集め ＜弓・術編＞ (Ember Gathering ＜Archer & Caster＞)",
-        "drop": "Archer, Caster, Berserker Experience Cards"
-      },
-      {
-        "name": "殺の修練場 (Assassin Training Ground)",
-        "drop": "Assassin Ascension and Skill Enhancement Materials"
-      },
-      {
-        "name": "宝物庫の扉を開け (Open the Treasury's Door)",
-        "drop": "QP"
-      }
-    ],
-    [
-      {
-        "name": "種火集め ＜ランダム編＞ (Ember Gathering ＜Random Class＞)",
-        "drop": "Saber, Archer, Lancer, Rider, Caster, Assassin, Berserker Experience Cards (Random)"
-      },
-      {
-        "name": "剣の修練場 (Saber Training Ground)",
-        "drop": "Saber Ascension and Skill Enhancement Materials"
-      },
-      {
-        "name": "宝物庫の扉を開け (Open the Treasury's Door)",
-        "drop": "QP"
-      }
-    ]
+  [
+    {
+      "name": "種火集め ＜槍・殺編＞ (Ember Gathering ＜Lancer & Assassin＞)",
+      "drop": "Lancer, Assassin, Berserker Experience Cards"
+    },
+    {
+      "name": "弓の修練場 (Archer Training Ground)",
+      "drop": "Archer Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "宝物庫の扉を開け (Open the Treasury's Door)",
+      "drop": "QP"
+    }
+  ],
+  [
+    {
+      "name": "種火集め ＜剣・騎編＞ (Ember Gathering ＜Saber & Rider＞)",
+      "drop": "Saber, Rider, Berserker Experience Cards"
+    },
+    {
+      "name": "槍の修練場 (Lancer Training Ground)",
+      "drop": "Lancer Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "宝物庫の扉を開け (Open the Treasury's Door)",
+      "drop": "QP"
+    }
+  ],
+  [
+    {
+      "name": "種火集め ＜弓・術編＞ (Ember Gathering ＜Archer & Caster＞)",
+      "drop": "Archer, Caster, Berserker Experience Cards"
+    },
+    {
+      "name": "狂の修練場 (Berserker Training Ground)",
+      "drop": "Berserker Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "宝物庫の扉を開け (Open the Treasury's Door)",
+      "drop": "QP"
+    }
+  ]
+    {
+      "name": "種火集め ＜槍・殺編＞ (Ember Gathering ＜Lancer & Assassin＞)",
+      "drop": "Lancer, Assassin, Berserker Experience Cards"
+    },
+    {
+      "name": "騎の修練場 (Rider Training Ground)",
+      "drop": "Rider Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "宝物庫の扉を開け (Open the Treasury's Door)",
+      "drop": "QP"
+    }
+  ],
+  [
+    {
+      "name": "種火集め ＜剣・騎編＞ (Ember Gathering ＜Saber & Rider＞)",
+      "drop": "Saber, Rider, Berserker Experience Cards"
+    },
+    {
+      "name": "術の修練場 (Caster Training Ground)",
+      "drop": "Caster Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "宝物庫の扉を開け (Open the Treasury's Door)",
+      "drop": "QP"
+    }
+  ],
+  [
+    {
+      "name": "種火集め ＜弓・術編＞ (Ember Gathering ＜Archer & Caster＞)",
+      "drop": "Archer, Caster, Berserker Experience Cards"
+    },
+    {
+      "name": "殺の修練場 (Assassin Training Ground)",
+      "drop": "Assassin Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "宝物庫の扉を開け (Open the Treasury's Door)",
+      "drop": "QP"
+    }
+  ],
+  [
+    {
+      "name": "種火集め ＜ランダム編＞ (Ember Gathering ＜Random Class＞)",
+      "drop": "Saber, Archer, Lancer, Rider, Caster, Assassin, Berserker Experience Cards (Random)"
+    },
+    {
+      "name": "剣の修練場 (Saber Training Ground)",
+      "drop": "Saber Ascension and Skill Enhancement Materials"
+    },
+    {
+      "name": "宝物庫の扉を開け (Open the Treasury's Door)",
+      "drop": "QP"
+    }
+  ]
 ]
