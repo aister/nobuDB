@@ -1,0 +1,1362 @@
+{
+  "Lawful": [
+    {
+      "name": "Arthur Pendragon [Prototype]",
+      "id": "160"
+    },
+    {
+      "name": "Old Man of the Mountain",
+      "id": "154"
+    },
+    {
+      "name": "Merlin",
+      "id": "150"
+    },
+    {
+      "name": "Gilgamesh",
+      "id": "145"
+    },
+    {
+      "name": "Quetzalcoatl",
+      "id": "144"
+    },
+    {
+      "name": "Ishtar",
+      "id": "142"
+    },
+    {
+      "name": "Vlad III [EXTRA]",
+      "id": "140"
+    },
+    {
+      "name": "Cleopatra",
+      "id": "139"
+    },
+    {
+      "name": "Martha",
+      "id": "135"
+    },
+    {
+      "name": "Marie Antoinette",
+      "id": "130"
+    },
+    {
+      "name": "Artoria Pendragon",
+      "id": "129"
+    },
+    {
+      "name": "Bedivere",
+      "id": "126"
+    },
+    {
+      "name": "Hassan of Serenity",
+      "id": "124"
+    },
+    {
+      "name": "Gawain",
+      "id": "123"
+    },
+    {
+      "name": "Tristan",
+      "id": "122"
+    },
+    {
+      "name": "Lancelot",
+      "id": "121"
+    },
+    {
+      "name": "Nitocris",
+      "id": "120"
+    },
+    {
+      "name": "Artoria Pendragon",
+      "id": "119"
+    },
+    {
+      "name": "Sakata Kintoki",
+      "id": "115"
+    },
+    {
+      "name": "Genjou Sanzou",
+      "id": "113"
+    },
+    {
+      "name": "Hassan of the Hundred Faces",
+      "id": "110"
+    },
+    {
+      "name": "Thomas Edison",
+      "id": "103"
+    },
+    {
+      "name": "Rama",
+      "id": "101"
+    },
+    {
+      "name": "Nightingale",
+      "id": "097"
+    },
+    {
+      "name": "Amakusa Shirou",
+      "id": "093"
+    },
+    {
+      "name": "Karna",
+      "id": "085"
+    },
+    {
+      "name": "Arjuna",
+      "id": "084"
+    },
+    {
+      "name": "Solomon",
+      "id": "083"
+    },
+    {
+      "name": "Henry Jekyll & Hyde",
+      "id": "081"
+    },
+    {
+      "name": "Artoria Pendragon [Alter]",
+      "id": "078"
+    },
+    {
+      "name": "Artoria Pendragon [Santa Alter]",
+      "id": "073"
+    },
+    {
+      "name": "Fergus Mac Roich",
+      "id": "072"
+    },
+    {
+      "name": "Diarmuid Ua Duibhne",
+      "id": "071"
+    },
+    {
+      "name": "Scathach",
+      "id": "070"
+    },
+    {
+      "name": "Oda Nobunaga",
+      "id": "069"
+    },
+    {
+      "name": "Medea [Lily]",
+      "id": "067"
+    },
+    {
+      "name": "Hector",
+      "id": "064"
+    },
+    {
+      "name": "David",
+      "id": "063"
+    },
+    {
+      "name": "Jeanne D'Arc",
+      "id": "059"
+    },
+    {
+      "name": "Darius III",
+      "id": "055"
+    },
+    {
+      "name": "Vlad III",
+      "id": "052"
+    },
+    {
+      "name": "Sakata Kintoki",
+      "id": "051"
+    },
+    {
+      "name": "Lancelot",
+      "id": "048"
+    },
+    {
+      "name": "Charles-Henri Sanson",
+      "id": "043"
+    },
+    {
+      "name": "Hassan of the Cursed Arm",
+      "id": "040"
+    },
+    {
+      "name": "Cu Chulainn",
+      "id": "038"
+    },
+    {
+      "name": "Hans Christian Andersen",
+      "id": "033"
+    },
+    {
+      "name": "Martha",
+      "id": "030"
+    },
+    {
+      "name": "Marie Antoinette",
+      "id": "029"
+    },
+    {
+      "name": "George",
+      "id": "024"
+    },
+    {
+      "name": "Leonidas I",
+      "id": "021"
+    },
+    {
+      "name": "Cu Chulainn [Prototype]",
+      "id": "020"
+    },
+    {
+      "name": "Cu Chulainn",
+      "id": "017"
+    },
+    {
+      "name": "Gilles de Rais",
+      "id": "009"
+    },
+    {
+      "name": "Artoria Pendragon [Lily]",
+      "id": "004"
+    },
+    {
+      "name": "Artoria Pendragon [Alter]",
+      "id": "003"
+    },
+    {
+      "name": "Artoria Pendragon",
+      "id": "002"
+    },
+    {
+      "name": "Mashu Kyrielight",
+      "id": "001.5"
+    },
+    {
+      "name": "Mashu Kyrielight",
+      "id": "001"
+    }
+  ],
+  "Good": [
+    {
+      "name": "Arthur Pendragon [Prototype]",
+      "id": "160"
+    },
+    {
+      "name": "Miyamoto Musashi",
+      "id": "153"
+    },
+    {
+      "name": "Solomon",
+      "id": "152"
+    },
+    {
+      "name": "Goetia",
+      "id": "151"
+    },
+    {
+      "name": "Merlin",
+      "id": "150"
+    },
+    {
+      "name": "Medusa",
+      "id": "146"
+    },
+    {
+      "name": "Gilgamesh",
+      "id": "145"
+    },
+    {
+      "name": "Quetzalcoatl",
+      "id": "144"
+    },
+    {
+      "name": "Ishtar",
+      "id": "142"
+    },
+    {
+      "name": "Jeanne D'Arc Alter Santa Lily",
+      "id": "141"
+    },
+    {
+      "name": "Vlad III [EXTRA]",
+      "id": "140"
+    },
+    {
+      "name": "Elizabeth Bathory [Brave]",
+      "id": "138"
+    },
+    {
+      "name": "Chloe von Einzbern",
+      "id": "137"
+    },
+    {
+      "name": "Illyasviel von Einzbern",
+      "id": "136"
+    },
+    {
+      "name": "Martha",
+      "id": "135"
+    },
+    {
+      "name": "Scathach",
+      "id": "133"
+    },
+    {
+      "name": "Mordred",
+      "id": "132"
+    },
+    {
+      "name": "Marie Antoinette",
+      "id": "130"
+    },
+    {
+      "name": "Artoria Pendragon",
+      "id": "129"
+    },
+    {
+      "name": "Leonardo Da Vinci",
+      "id": "127"
+    },
+    {
+      "name": "Bedivere",
+      "id": "126"
+    },
+    {
+      "name": "Tawara Touta",
+      "id": "125"
+    },
+    {
+      "name": "Gawain",
+      "id": "123"
+    },
+    {
+      "name": "Tristan",
+      "id": "122"
+    },
+    {
+      "name": "Lancelot",
+      "id": "121"
+    },
+    {
+      "name": "Nitocris",
+      "id": "120"
+    },
+    {
+      "name": "Artoria Pendragon",
+      "id": "119"
+    },
+    {
+      "name": "Sakata Kintoki",
+      "id": "115"
+    },
+    {
+      "name": "Minamoto no Yorimitsu",
+      "id": "114"
+    },
+    {
+      "name": "Genjou Sanzou",
+      "id": "113"
+    },
+    {
+      "name": "Irisviel [Dress of Heaven]",
+      "id": "111"
+    },
+    {
+      "name": "Iskandar",
+      "id": "108"
+    },
+    {
+      "name": "Geronimo",
+      "id": "104"
+    },
+    {
+      "name": "Rama",
+      "id": "101"
+    },
+    {
+      "name": "Helena Blavatsky",
+      "id": "100"
+    },
+    {
+      "name": "Nightingale",
+      "id": "097"
+    },
+    {
+      "name": "Child Gil",
+      "id": "095"
+    },
+    {
+      "name": "Astolfo",
+      "id": "094"
+    },
+    {
+      "name": "Amakusa Shirou",
+      "id": "093"
+    },
+    {
+      "name": "Ryougi Shiki",
+      "id": "092"
+    },
+    {
+      "name": "Beowulf",
+      "id": "089"
+    },
+    {
+      "name": "Brynhildr",
+      "id": "088"
+    },
+    {
+      "name": "Mysterious Heroine X",
+      "id": "086"
+    },
+    {
+      "name": "Karna",
+      "id": "085"
+    },
+    {
+      "name": "Solomon",
+      "id": "083"
+    },
+    {
+      "name": "Henry Jekyll & Hyde",
+      "id": "081"
+    },
+    {
+      "name": "Paracelsus Von Hohenheim",
+      "id": "079"
+    },
+    {
+      "name": "Artoria Pendragon [Alter]",
+      "id": "078"
+    },
+    {
+      "name": "Nikola Tesla",
+      "id": "077"
+    },
+    {
+      "name": "Artoria Pendragon [Santa Alter]",
+      "id": "073"
+    },
+    {
+      "name": "Scathach",
+      "id": "070"
+    },
+    {
+      "name": "Medea [Lily]",
+      "id": "067"
+    },
+    {
+      "name": "Jeanne D'Arc",
+      "id": "059"
+    },
+    {
+      "name": "Tamamo Cat",
+      "id": "058"
+    },
+    {
+      "name": "Sakata Kintoki",
+      "id": "051"
+    },
+    {
+      "name": "Jing Ke",
+      "id": "042"
+    },
+    {
+      "name": "Stheno",
+      "id": "041"
+    },
+    {
+      "name": "Zhuge Liang [El-Melloi II]",
+      "id": "037"
+    },
+    {
+      "name": "Wolfgang Amadeus Mozart",
+      "id": "036"
+    },
+    {
+      "name": "Martha",
+      "id": "030"
+    },
+    {
+      "name": "Marie Antoinette",
+      "id": "029"
+    },
+    {
+      "name": "Alexander",
+      "id": "028"
+    },
+    {
+      "name": "Boudica",
+      "id": "026"
+    },
+    {
+      "name": "George",
+      "id": "024"
+    },
+    {
+      "name": "Medusa",
+      "id": "023"
+    },
+    {
+      "name": "Musashibou Benkei",
+      "id": "019"
+    },
+    {
+      "name": "Euryale",
+      "id": "015"
+    },
+    {
+      "name": "Robin Hood",
+      "id": "013"
+    },
+    {
+      "name": "Gilgamesh",
+      "id": "012"
+    },
+    {
+      "name": "Gilles de Rais",
+      "id": "009"
+    },
+    {
+      "name": "Attila",
+      "id": "008"
+    },
+    {
+      "name": "Siegfried",
+      "id": "006"
+    },
+    {
+      "name": "Nero Claudius",
+      "id": "005"
+    },
+    {
+      "name": "Artoria Pendragon [Lily]",
+      "id": "004"
+    },
+    {
+      "name": "Artoria Pendragon",
+      "id": "002"
+    },
+    {
+      "name": "Mashu Kyrielight",
+      "id": "001.5"
+    },
+    {
+      "name": "Mashu Kyrielight",
+      "id": "001"
+    }
+  ],
+  "Chaotic": [
+    {
+      "name": "Assassin of Shinjuku",
+      "id": "159"
+    },
+    {
+      "name": "Avenger of Shinjuku",
+      "id": "158"
+    },
+    {
+      "name": "Emiya [Alter]",
+      "id": "157"
+    },
+    {
+      "name": "Archer of Shinjuku",
+      "id": "156"
+    },
+    {
+      "name": "Miyamoto Musashi",
+      "id": "153"
+    },
+    {
+      "name": "Solomon",
+      "id": "152"
+    },
+    {
+      "name": "Goetia",
+      "id": "151"
+    },
+    {
+      "name": "Tiamat",
+      "id": "149"
+    },
+    {
+      "name": "Jaguar Man",
+      "id": "148"
+    },
+    {
+      "name": "Gorgon",
+      "id": "147"
+    },
+    {
+      "name": "Jeanne D'Arc Alter Santa Lily",
+      "id": "141"
+    },
+    {
+      "name": "Elizabeth Bathory [Brave]",
+      "id": "138"
+    },
+    {
+      "name": "Chloe von Einzbern",
+      "id": "137"
+    },
+    {
+      "name": "Kiyohime",
+      "id": "134"
+    },
+    {
+      "name": "Mordred",
+      "id": "132"
+    },
+    {
+      "name": "Anne Bonny & Mary Read",
+      "id": "131"
+    },
+    {
+      "name": "Leonardo Da Vinci",
+      "id": "127"
+    },
+    {
+      "name": "Ozymandias",
+      "id": "118"
+    },
+    {
+      "name": "Ibaraki Douji",
+      "id": "116"
+    },
+    {
+      "name": "Minamoto no Yorimitsu",
+      "id": "114"
+    },
+    {
+      "name": "Shuten Douji",
+      "id": "112"
+    },
+    {
+      "name": "Irisviel [Dress of Heaven]",
+      "id": "111"
+    },
+    {
+      "name": "Emiya [Assassin]",
+      "id": "109"
+    },
+    {
+      "name": "Angra Mainyu",
+      "id": "107"
+    },
+    {
+      "name": "Jeanne D'Arc [Alter]",
+      "id": "106"
+    },
+    {
+      "name": "Billy the Kid",
+      "id": "105"
+    },
+    {
+      "name": "Helena Blavatsky",
+      "id": "100"
+    },
+    {
+      "name": "Queen Medb",
+      "id": "099"
+    },
+    {
+      "name": "Cu Chulainn [Alter]",
+      "id": "098"
+    },
+    {
+      "name": "Count of Monte Cristo",
+      "id": "096"
+    },
+    {
+      "name": "Child Gil",
+      "id": "095"
+    },
+    {
+      "name": "Astolfo",
+      "id": "094"
+    },
+    {
+      "name": "Ryougi Shiki",
+      "id": "092"
+    },
+    {
+      "name": "Nero Claudius [Bride]",
+      "id": "090"
+    },
+    {
+      "name": "Beowulf",
+      "id": "089"
+    },
+    {
+      "name": "Mysterious Heroine X",
+      "id": "086"
+    },
+    {
+      "name": "Frankenstein",
+      "id": "082"
+    },
+    {
+      "name": "Henry Jekyll & Hyde",
+      "id": "081"
+    },
+    {
+      "name": "Charles Babbage",
+      "id": "080"
+    },
+    {
+      "name": "Paracelsus Von Hohenheim",
+      "id": "079"
+    },
+    {
+      "name": "Nikola Tesla",
+      "id": "077"
+    },
+    {
+      "name": "Mordred",
+      "id": "076"
+    },
+    {
+      "name": "Jack the Ripper",
+      "id": "075"
+    },
+    {
+      "name": "Anne Bonny & Mary Read",
+      "id": "066"
+    },
+    {
+      "name": "Francis Drake",
+      "id": "065"
+    },
+    {
+      "name": "Elizabeth Bathory [Halloween]",
+      "id": "061"
+    },
+    {
+      "name": "Orion",
+      "id": "060"
+    },
+    {
+      "name": "Tamamo Cat",
+      "id": "058"
+    },
+    {
+      "name": "Eric Bloodaxe",
+      "id": "057"
+    },
+    {
+      "name": "Kiyohime",
+      "id": "056"
+    },
+    {
+      "name": "Caligula",
+      "id": "054"
+    },
+    {
+      "name": "Asterios",
+      "id": "053"
+    },
+    {
+      "name": "Lu Bu Fengxian",
+      "id": "049"
+    },
+    {
+      "name": "Heracles",
+      "id": "047"
+    },
+    {
+      "name": "Carmilla",
+      "id": "046"
+    },
+    {
+      "name": "Mata Hari",
+      "id": "045"
+    },
+    {
+      "name": "Phantom of the Opera",
+      "id": "044"
+    },
+    {
+      "name": "Jing Ke",
+      "id": "042"
+    },
+    {
+      "name": "Stheno",
+      "id": "041"
+    },
+    {
+      "name": "Mephistopheles",
+      "id": "035"
+    },
+    {
+      "name": "Gilles de Rais",
+      "id": "032"
+    },
+    {
+      "name": "Ushiwakamaru",
+      "id": "027"
+    },
+    {
+      "name": "Edward Teach",
+      "id": "025"
+    },
+    {
+      "name": "Medusa",
+      "id": "023"
+    },
+    {
+      "name": "Romulus",
+      "id": "022"
+    },
+    {
+      "name": "Musashibou Benkei",
+      "id": "019"
+    },
+    {
+      "name": "Elizabeth Bathory",
+      "id": "018"
+    },
+    {
+      "name": "Arash",
+      "id": "016"
+    },
+    {
+      "name": "Euryale",
+      "id": "015"
+    },
+    {
+      "name": "Gilgamesh",
+      "id": "012"
+    },
+    {
+      "name": "Attila",
+      "id": "008"
+    },
+    {
+      "name": "Siegfried",
+      "id": "006"
+    },
+    {
+      "name": "Nero Claudius",
+      "id": "005"
+    }
+  ],
+  "Evil": [
+    {
+      "name": "Assassin of Shinjuku",
+      "id": "159"
+    },
+    {
+      "name": "Avenger of Shinjuku",
+      "id": "158"
+    },
+    {
+      "name": "Emiya [Alter]",
+      "id": "157"
+    },
+    {
+      "name": "Archer of Shinjuku",
+      "id": "156"
+    },
+    {
+      "name": "Mysterious Heroine X [Alter]",
+      "id": "155"
+    },
+    {
+      "name": "Old Man of the Mountain",
+      "id": "154"
+    },
+    {
+      "name": "Tiamat",
+      "id": "149"
+    },
+    {
+      "name": "Gorgon",
+      "id": "147"
+    },
+    {
+      "name": "Kiyohime",
+      "id": "134"
+    },
+    {
+      "name": "Hassan of Serenity",
+      "id": "124"
+    },
+    {
+      "name": "Fuuma Kotarou",
+      "id": "117"
+    },
+    {
+      "name": "Ibaraki Douji",
+      "id": "116"
+    },
+    {
+      "name": "Shuten Douji",
+      "id": "112"
+    },
+    {
+      "name": "Hassan of the Hundred Faces",
+      "id": "110"
+    },
+    {
+      "name": "Emiya [Assassin]",
+      "id": "109"
+    },
+    {
+      "name": "Angra Mainyu",
+      "id": "107"
+    },
+    {
+      "name": "Jeanne D'Arc [Alter]",
+      "id": "106"
+    },
+    {
+      "name": "Li Shuwen",
+      "id": "102"
+    },
+    {
+      "name": "Queen Medb",
+      "id": "099"
+    },
+    {
+      "name": "Cu Chulainn [Alter]",
+      "id": "098"
+    },
+    {
+      "name": "Count of Monte Cristo",
+      "id": "096"
+    },
+    {
+      "name": "Henry Jekyll & Hyde",
+      "id": "081"
+    },
+    {
+      "name": "Jack the Ripper",
+      "id": "075"
+    },
+    {
+      "name": "Anne Bonny & Mary Read",
+      "id": "066"
+    },
+    {
+      "name": "Francis Drake",
+      "id": "065"
+    },
+    {
+      "name": "Tamamo no Mae",
+      "id": "062"
+    },
+    {
+      "name": "Elizabeth Bathory [Halloween]",
+      "id": "061"
+    },
+    {
+      "name": "Kiyohime",
+      "id": "056"
+    },
+    {
+      "name": "Caligula",
+      "id": "054"
+    },
+    {
+      "name": "Asterios",
+      "id": "053"
+    },
+    {
+      "name": "Vlad III",
+      "id": "052"
+    },
+    {
+      "name": "Lu Bu Fengxian",
+      "id": "049"
+    },
+    {
+      "name": "Carmilla",
+      "id": "046"
+    },
+    {
+      "name": "Phantom of the Opera",
+      "id": "044"
+    },
+    {
+      "name": "Charles-Henri Sanson",
+      "id": "043"
+    },
+    {
+      "name": "Hassan of the Cursed Arm",
+      "id": "040"
+    },
+    {
+      "name": "Sasaki Kojirou",
+      "id": "039"
+    },
+    {
+      "name": "Mephistopheles",
+      "id": "035"
+    },
+    {
+      "name": "Gilles de Rais",
+      "id": "032"
+    },
+    {
+      "name": "Medea",
+      "id": "031"
+    },
+    {
+      "name": "Edward Teach",
+      "id": "025"
+    },
+    {
+      "name": "Elizabeth Bathory",
+      "id": "018"
+    },
+    {
+      "name": "Atalanta",
+      "id": "014"
+    },
+    {
+      "name": "Artoria Pendragon [Alter]",
+      "id": "003"
+    }
+  ],
+  "Neutral": [
+    {
+      "name": "Mysterious Heroine X [Alter]",
+      "id": "155"
+    },
+    {
+      "name": "Jaguar Man",
+      "id": "148"
+    },
+    {
+      "name": "Medusa",
+      "id": "146"
+    },
+    {
+      "name": "Enkidu",
+      "id": "143"
+    },
+    {
+      "name": "Cleopatra",
+      "id": "139"
+    },
+    {
+      "name": "Illyasviel von Einzbern",
+      "id": "136"
+    },
+    {
+      "name": "Scathach",
+      "id": "133"
+    },
+    {
+      "name": "Anne Bonny & Mary Read",
+      "id": "131"
+    },
+    {
+      "name": "Tamamo no Mae",
+      "id": "128"
+    },
+    {
+      "name": "Tawara Touta",
+      "id": "125"
+    },
+    {
+      "name": "Ozymandias",
+      "id": "118"
+    },
+    {
+      "name": "Fuuma Kotarou",
+      "id": "117"
+    },
+    {
+      "name": "Iskandar",
+      "id": "108"
+    },
+    {
+      "name": "Billy the Kid",
+      "id": "105"
+    },
+    {
+      "name": "Geronimo",
+      "id": "104"
+    },
+    {
+      "name": "Thomas Edison",
+      "id": "103"
+    },
+    {
+      "name": "Li Shuwen",
+      "id": "102"
+    },
+    {
+      "name": "Ryougi Shiki",
+      "id": "091"
+    },
+    {
+      "name": "Brynhildr",
+      "id": "088"
+    },
+    {
+      "name": "Fionn Mac Cumhaill",
+      "id": "087"
+    },
+    {
+      "name": "Arjuna",
+      "id": "084"
+    },
+    {
+      "name": "Frankenstein",
+      "id": "082"
+    },
+    {
+      "name": "Charles Babbage",
+      "id": "080"
+    },
+    {
+      "name": "Mordred",
+      "id": "076"
+    },
+    {
+      "name": "Fergus Mac Roich",
+      "id": "072"
+    },
+    {
+      "name": "Diarmuid Ua Duibhne",
+      "id": "071"
+    },
+    {
+      "name": "Oda Nobunaga",
+      "id": "069"
+    },
+    {
+      "name": "Okita Souji",
+      "id": "068"
+    },
+    {
+      "name": "Hector",
+      "id": "064"
+    },
+    {
+      "name": "David",
+      "id": "063"
+    },
+    {
+      "name": "Tamamo no Mae",
+      "id": "062"
+    },
+    {
+      "name": "Orion",
+      "id": "060"
+    },
+    {
+      "name": "Eric Bloodaxe",
+      "id": "057"
+    },
+    {
+      "name": "Darius III",
+      "id": "055"
+    },
+    {
+      "name": "Spartacus",
+      "id": "050"
+    },
+    {
+      "name": "Mata Hari",
+      "id": "045"
+    },
+    {
+      "name": "Sasaki Kojirou",
+      "id": "039"
+    },
+    {
+      "name": "Cu Chulainn",
+      "id": "038"
+    },
+    {
+      "name": "Zhuge Liang [El-Melloi II]",
+      "id": "037"
+    },
+    {
+      "name": "Wolfgang Amadeus Mozart",
+      "id": "036"
+    },
+    {
+      "name": "William Shakespeare",
+      "id": "034"
+    },
+    {
+      "name": "Hans Christian Andersen",
+      "id": "033"
+    },
+    {
+      "name": "Medea",
+      "id": "031"
+    },
+    {
+      "name": "Alexander",
+      "id": "028"
+    },
+    {
+      "name": "Ushiwakamaru",
+      "id": "027"
+    },
+    {
+      "name": "Boudica",
+      "id": "026"
+    },
+    {
+      "name": "Romulus",
+      "id": "022"
+    },
+    {
+      "name": "Leonidas I",
+      "id": "021"
+    },
+    {
+      "name": "Cu Chulainn [Prototype]",
+      "id": "020"
+    },
+    {
+      "name": "Cu Chulainn",
+      "id": "017"
+    },
+    {
+      "name": "Arash",
+      "id": "016"
+    },
+    {
+      "name": "Atalanta",
+      "id": "014"
+    },
+    {
+      "name": "Robin Hood",
+      "id": "013"
+    },
+    {
+      "name": "Emiya",
+      "id": "011"
+    },
+    {
+      "name": "Chevalier D'Eon",
+      "id": "010"
+    },
+    {
+      "name": "Gaius Julius Caesar",
+      "id": "007"
+    }
+  ],
+  "True": [
+    {
+      "name": "Enkidu",
+      "id": "143"
+    },
+    {
+      "name": "Ryougi Shiki",
+      "id": "091"
+    },
+    {
+      "name": "Fionn Mac Cumhaill",
+      "id": "087"
+    },
+    {
+      "name": "Okita Souji",
+      "id": "068"
+    },
+    {
+      "name": "Spartacus",
+      "id": "050"
+    },
+    {
+      "name": "William Shakespeare",
+      "id": "034"
+    },
+    {
+      "name": "Emiya",
+      "id": "011"
+    },
+    {
+      "name": "Chevalier D'Eon",
+      "id": "010"
+    },
+    {
+      "name": "Gaius Julius Caesar",
+      "id": "007"
+    }
+  ],
+  "Summer": [
+    {
+      "name": "Tamamo no Mae",
+      "id": "128"
+    }
+  ],
+  "Bride": [
+    {
+      "name": "Nero Claudius [Bride]",
+      "id": "090"
+    }
+  ],
+  "(Jekyll)・": [
+    {
+      "name": "Henry Jekyll & Hyde",
+      "id": "081"
+    }
+  ],
+  "(Hyde)": [
+    {
+      "name": "Henry Jekyll & Hyde",
+      "id": "081"
+    }
+  ],
+  "Changes": [
+    {
+      "name": "Nursery Rhyme",
+      "id": "074"
+    }
+  ],
+  "according": [
+    {
+      "name": "Nursery Rhyme",
+      "id": "074"
+    }
+  ],
+  "to": [
+    {
+      "name": "Nursery Rhyme",
+      "id": "074"
+    }
+  ],
+  "her": [
+    {
+      "name": "Nursery Rhyme",
+      "id": "074"
+    }
+  ],
+  "Master": [
+    {
+      "name": "Nursery Rhyme",
+      "id": "074"
+    }
+  ],
+  "(True": [
+    {
+      "name": "Nursery Rhyme",
+      "id": "074"
+    }
+  ],
+  "Neutral)": [
+    {
+      "name": "Nursery Rhyme",
+      "id": "074"
+    }
+  ],
+  "Mad": [
+    {
+      "name": "Lancelot",
+      "id": "048"
+    },
+    {
+      "name": "Heracles",
+      "id": "047"
+    }
+  ]
+}
