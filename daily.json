@@ -54,7 +54,8 @@
       "name": "宝物庫の扉を開け (Open the Treasury's Door)",
       "drop": "QP"
     }
-  ]
+  ],
+  [
     {
       "name": "種火集め ＜槍・殺編＞ (Ember Gathering ＜Lancer & Assassin＞)",
       "drop": "Lancer, Assassin, Berserker Experience Cards"
