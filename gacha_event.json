@@ -1,7 +1,7 @@
 [
   {
     "name": "Test",
-    "desc": "Test Event"
+    "desc": "Test Event",
     "servants": {
       "5": [ "068" ]
     }
