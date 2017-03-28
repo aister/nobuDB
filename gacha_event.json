@@ -1,9 +1,14 @@
 [
   {
-    "name": "Test",
-    "desc": "Test Event",
+    "name": "Rerun GUDAGUDA Honnoji Pickup Summon",
+    "desc": "From March 15, 2017 (Wednesday) 19:00 to March 31, 2016 (Wednesday) 23:59\n\nLimited Servant: Okita Souji (Saber, 5★)\nLimited CE: GUDAGUDA Poster Girl (5★), Launch Order! (4★), Fate GUDAGUDA Order (3★)",
     "servants": {
       "5": [ "068" ]
+    },
+    "ce": {
+      "5": [ "062" ],
+      "4": [ "060" ],
+      "3": [ "059" ]
     }
   }
 ]
