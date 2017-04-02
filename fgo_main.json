@@ -1114,7 +1114,7 @@
     "maxHP": "14,175",
     "maxATK": "11,113",
     "attacks": "0101020303",
-    "desc": "\r",
+    "desc": "None",
     "NP": "(Quick) Cross Calibur\nBlack Dragon Double Sword of Promised Victory\nExtremely powerful attack to a single enemy [Level]\nBonus damage against Saber-class Servants [Overcharge]\nTarget: Enemy",
     "skills": "∞ Black Anko EX\nIncrease HP Recovery (3 turns)\nRecover HP\nSelf\n\nInstinct C\nReceive numerous critical stars\nSelf\n\nInvisible Hand of the King C\nReduce the star absorption rate of an ally (1 turn)\nIncrease attack of all allies (3 turns)\nAlly / All Allies\n\nMad Enhancement C\nIncrease Buster Card performance by 6%\nPassive\n\nAlt Reactor A\nIncrease debuff resistance by 20%\nPassive\n\n",
     "note": "Limited Pickup Summon only."
@@ -1134,7 +1134,7 @@
     "maxHP": "13,685",
     "maxATK": "11,781",
     "attacks": "0102020203",
-    "desc": "\r",
+    "desc": "None",
     "NP": "(Buster) The Dynamics of an Asteroid\nCatastrophe Crime\nReduce defense (3 turns) [Overcharge]\nExtremely powerful attack to a single enemy [Level]\nTarget: Enemy",
     "skills": "Shooter of Magic Bullets EX\nIgnore invulnerability (1 turn)\nIncrease star absorption rate (1 turn)\nSelf\n\nEnd of the Spider Thread A++\n[Can only be used with 10 critical stars or higher]\nIncrease NP gauge\nIncrease NP damage\nReduce critical stars by 10 [Demerit]\nSelf\n\nCharisma of an Evil Genius A\nIncrease attack of all allies (3 turns)\nIncrease attack of [Evil] except self (3 turns)\nAll Allies\n\nMagic Resistance D\nIncrease debuff resistance by 12.5%\nPassive\n\nIndependent Action A+\nIncrease critical damage by 11%\nPassive\n\n",
     "note": "Limited Pickup Summon only."
@@ -1154,7 +1154,7 @@
     "maxHP": "12,250",
     "maxATK": "8,996",
     "attacks": "0101020203",
-    "desc": "\r",
+    "desc": "None",
     "NP": "(Arts) Unlimited Lost Works\nInfinite Creation of Swords\nExtremely powerful attack to a single enemy that ignores defense [Level]\nChance to reduce NP charge [Overcharge]\nTarget: Enemy",
     "skills": "Bulletproof Treatment A\nIncrease defense (3 turns)\nReduce overall damage received (1 time)\nSelf\n\nProjection Magic C\nIncrease Arts Card performance (1 turn)\nIncrease Quick Card performance (1 turn)\nIncrease Buster Card performance (1 turn)\nSelf\n\nMocking Conviction A\nIncrease attack (3 times) (5 turns)\nSelf\n\nMagic Resistance D\nIncrease debuff resistance by 12.5%\nPassive\n\nIndependent Action A\nIncrease critical damage by 10%\nPassive\n\n",
     "note": "Shinjuku must be completed before he becomes available as a Story Summon."
@@ -1174,7 +1174,7 @@
     "maxHP": "9,949",
     "maxATK": "10,628",
     "attacks": "0101020203",
-    "desc": "\r",
+    "desc": "None",
     "NP": "(Quick) Frieren Scharfrichter\nBeheading Someone From A Distance\nIgnore evasion (1 turn)\nExtremely powerful attack to a single enemy [Level]\nChance to inflict instant kill [Overcharge]\nTarget: Enemy",
     "skills": "Fallen Demon of Heaven A+\nIncrease star absorption rate (1 turn)\nIncrease defense (1 turn)\nSelf\n\nMonstrous Strength B\nIncrease attack (2 turns)\nSelf\n\nThose Shrouded In Death A\nReduce instant kill resistance (1 turn)\nReduce attack (1 turn)\nRemove buffs\nEnemy\n\nAvenger A\nIncrease NP gain when receiving damage by 20%\nReduce debuff resistance of all allies except self  by 10% [Demerit]\nPassive\n\nOblivion Compensation B\nIncrease critical damage by 8%\nPassive\n\nSelf Recovery (Mana) B\nIncrease NP gauge each turn by 3.5%\nPassive\n\n",
     "note": "None"
@@ -1194,7 +1194,7 @@
     "maxHP": "11,637",
     "maxATK": "8,661",
     "attacks": "0101010203",
-    "desc": "\r",
+    "desc": "None",
     "NP": "(Quick) Juumei Maifuku: Muei no Gotoku\nAmbush in Ten Directions, As Though Shadowless\nExtremely powerful attack to a single enemy [Level]\nReduce critical damage (3 turns) [Overcharge]\nTarget: Enemy",
     "skills": "Chinese Martial Arts EX\nIncrease star absorption rate (1 turn)\nIncrease NP gain (1 turn)\nSelf\n\nSecret Intel A\nIncrease critical star rate (3 turns)\nSelf\n\nSkillful Star A+\nReduce star absorption rate (1 turn)\nReceive critical stars\nSelf\n\nPresence Concealment C\nIncrease critical star rate by 6%\nPassive\n\nRuffian A\nIncrease Quick Card performance by 5%\nIncrease critical damage by 5%\nPassive\n\n",
     "note": "None"
@@ -1214,7 +1214,7 @@
     "maxHP": "13,975",
     "maxATK": "12,465",
     "attacks": "0102020303",
-    "desc": "\r",
+    "desc": "None",
     "NP": "(Buster) Excalibur\nSword of Promised Victory\nIncrease own NP damage [Overcharge]\nPowerful attack to all enemies [Level]\n\nTarget: All Enemies",
     "skills": "Mana Burst A\nIncrease Buster Card performance (1 turn)\nSelf\n\nInstinct A\nReceive numerous critical stars\nSelf\n\nGiant Beast Hunt A\nIncrease damage against [Massive] enemies (1 turn)\nIncrease NP gauge\nSelf\n\nMagic Resistance A\nIncrease debuff resistance by 20%\nPassive\n\nRiding B\nIncrease Quick Card performance by 8%\nPassive\n\n",
     "note": "Limited Pickup Summon only."
