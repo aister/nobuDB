@@ -1,25 +1,4 @@
 {
-  "161": {
-    "id": "161",
-    "alignment": "Lawful Evil",
-    "rarity": "5",
-    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_1611.png",
-    "name": "	Hijikata Toshizou",
-    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=161",
-    "item": "Berserker Piece: 4\n\nBerserker Piece: 12\nHero's Proof (ID: A1): 22\n\nBerserker Monument: 5\nChain of Fools (ID: A5): 29\nTearstone of Blood (ID: C6): 3\n\nBerserker Monument: 12\nTearstone of Blood (ID: C6): 6\nCursed Beast Gallstone (ID: C11): 5",
-    "servantClass": "Berserker",
-    "cost": "16",
-    "baseHP": "1,764",
-    "baseATK": "1,868",
-    "maxHP": "12,028",
-    "maxATK": "12,089",
-    "attacks": "0101020303",
-    "desc": "Vice-captain of the Shinsengumi, a security organization active around Kyoto during the Bakumatsu period, Hijikata Toshizou.\n Upholding strictly absolute discipline within the squad, he is a feared demon of a vice-captain even amongst the peerless swordsmen that are his squad-mates.\n In battle, he rages wildly like a devil yet retains his rational aspect as a tactician, a rare type of Berserker.\n The demonic vice-captain bearing the brand of loyalty ---Shinsengumi, advance! \r",
-    "NP": "(Buster) Shinsengumi・Fumetsu no Makoto\n Shinsengumi, Undying Integrity \nDeals Powerful Damage To A Single Target.\n[Overcharge] Deals EXTRA Damage to the Same Target based on his remaining HP. \nExtra Damage Formula = Multiplier Based on Overcharge * [1 - (Current HP/Max HP)] ",
-    "skills": "Mana Tuning C\nIncrease NP guage\nAll Allies\n\nMahatma A\nReceive critical stars each turn (5 turns)\nChance to increase NP damage by 50% (1 turn)\nSelf\n\nPursuit for the Unknown B\nIncrease Buster Card performance (3 turns)\nIncrease Arts Card performance (3 turns)\nIncrease Quick Card performance (3 turns)\nAll Allies\n\nTerritory Creation A\nIncrease Arts Card performance by 10%\nPassive\n\nItem Creation B\nIncrease debuff rate by 8%\nPassive\n\n",
-    "note": "None"
-  },
-  
   "100": {
     "id": "100",
     "alignment": "Chaotic Good",
