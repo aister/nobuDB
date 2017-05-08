@@ -15,8 +15,8 @@
     "maxATK": "12,089",
     "attacks": "0101020303",
     "desc": "Vice-captain of the Shinsengumi, a security organization active around Kyoto during the Bakumatsu period, Hijikata Toshizou.\n Upholding strictly absolute discipline within the squad, he is a feared demon of a vice-captain even amongst the peerless swordsmen that are his squad-mates.\n In battle, he rages wildly like a devil yet retains his rational aspect as a tactician, a rare type of Berserker.\n The demonic vice-captain bearing the brand of loyalty ---Shinsengumi, advance! \r",
-    "NP": "(Buster) Shinsengumi・Fumetsu no Makoto\n Shinsengumi, Undying Integrity \nDeals Powerful Damage To A Single Target.[Level]\n Deals EXTRA Damage to the Same Target based on his remaining HP.[Overcharge] \nExtra Damage Formula = Multiplier Based on Overcharge * [1 - (Current HP/Max HP)] ",
-    "skills": "Mana Tuning C\nIncrease NP guage\nAll Allies\n\nMahatma A\nReceive critical stars each turn (5 turns)\nChance to increase NP damage by 50% (1 turn)\nSelf\n\nPursuit for the Unknown B\nIncrease Buster Card performance (3 turns)\nIncrease Arts Card performance (3 turns)\nIncrease Quick Card performance (3 turns)\nAll Allies\n\nTerritory Creation A\nIncrease Arts Card performance by 10%\nPassive\n\nItem Creation B\nIncrease debuff rate by 8%\nPassive\n\n",
+    "NP": "(Buster) Shinsengumi・Fumetsu no Makoto\n Shinsengumi, Undying Integrity \nDeals Powerful Damage To A Single Target. [Level]\nDeals EXTRA Damage to the Same Target based on his remaining HP. [Overcharge] \nExtra Damage Formula = Multiplier Based on Overcharge * [1 - (Current HP/Max HP)] ",
+    "skills": "Demon of the Battlefield B\nIncrease Buster Card performance (3 turns)\nIncrease critical star rate (3 turns)\nAll Allies\n\nDisengage C\nRemove debuffs\nRecover HP\nSelf\n\nKyokuchuu Hatto EX\nIncrease star absorption rate (3 turns)\nIncrease critical damage when HP is low (3 turns)\nReduce HP [Demerit]\n※ Critical Damage = 20 + 80 * (1 - Current HP / Max HP)\nSelf",
     "note": "None"
   },
   
