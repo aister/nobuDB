@@ -18,8 +18,28 @@
     "NP": "(Buster) Shinsengumi・Fumetsu no Makoto\n Shinsengumi, Undying Integrity \nDeals Powerful Damage To A Single Target.[Level]\n Deals EXTRA Damage to the Same Target based on his remaining HP.[Overcharge] \nExtra Damage Formula = Multiplier Based on Overcharge * [1 - (Current HP/Max HP)] ",
 "skills": "Demon of the Battlefield B\nIncrease Buster Card performance (3 turns)\nIncrease critical star rate (3 turns)\nAll Allies\n\nDisengage C\nRemove debuffs\nRecover HP\nSelf\n\nKyokuchuu Hatto EX\nIncrease star absorption rate (3 turns)\nIncrease critical damage when HP is low (3 turns)\nReduce HP [Demerit]\n Critical Damage = 20 + 80 * (1 - Current HP / Max HP)\nSelf",
     "note": "None"
-
+    
   },
+  "162": {
+    "id": "162",
+    "alignment": "Chaotic Neutral",
+    "rarity": "4",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_1621.png",
+    "name": "Chacha",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=162",
+    "item": "Ranjatai: 1\n\nRanjatai: 1\n\nRanjatai: 1\n\nRanjatai: 1",
+    "servantClass": "Berserker",
+    "cost": "12",
+    "baseHP": "1,764",
+    "baseATK": "1,490",
+    "maxHP": "11,025",
+    "maxATK": "8,945",
+    "attacks": "0102030303",
+    "desc": "Niece of Oda Nobunaga, the Conqueror of the Warring States, and concubine of Toyotomi Hideyoshi. Also known as the Child of the Sun. Happy-go-lucky and insolent and a super wastrel with luxurious tastes, at any rate she is a troublesome and expensive woman.\n Even though her stubborness can make the Tenkabito (Toyotomi Hideyoshi) clutch his head, for some reason she is a beloved playful-type princess that cannot be hated.\n \"So quickly bring me what I want!\".\n A happy-go-lucky and dramatic, gorgeous and luxurious violent beauty!",
+    "NP": "(Buster) Kenran Makai Nichirinjou\nDazzling Castle of the Sun in the Demonic Realm\nDeals damage to all enemies.\nDecreases enemies critical hit rate by 20% for 3 turns. [Overcharge]\nInflict Burn Stats to All enemies for 5 turns.\nTarget: All Enemies",
+    "skills": "Golden Rule (Misfortune) B\nIncrease NP gauge each turn (3 turns)\nIncrease NP gain when attacked (3 turns)\nSelf\n\nInnocent Monster (Flame) C\nReceive critical stars each turn (3 turns)\nReduce star absorption rate of all allies except self (3 turns)\nSelf\n\nBeloved Mistress of the Sun EX\nReduce defense (5 turns)\nReduce defense even more each turn (5 turns)\nEnemy\n\nMad Enhancement E+\nIncrease Buster Card performance by 3%\npassive\n\n",
+    "note": "Fate/GUDAGUDA Meiji Ishin only"
+},
   
   "100": {
     "id": "100",
