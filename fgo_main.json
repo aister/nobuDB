@@ -39,6 +39,50 @@
     "NP": "(Buster) Kenran Makai Nichirinjou\nDazzling Castle of the Sun in the Demonic Realm\nDeals damage to all enemies.\nDecreases enemies critical hit rate by 20% for 3 turns. [Overcharge]\nInflict Burn Stats to All enemies for 5 turns.\nTarget: All Enemies",
     "skills": "Golden Rule (Misfortune) B\nIncrease NP gauge each turn (3 turns)\nIncrease NP gain when attacked (3 turns)\nSelf\n\nInnocent Monster (Flame) C\nReceive critical stars each turn (3 turns)\nReduce star absorption rate of all allies except self (3 turns)\nSelf\n\nBeloved Mistress of the Sun EX\nReduce defense (5 turns)\nReduce defense even more each turn (5 turns)\nEnemy\n\nMad Enhancement E+\nIncrease Buster Card performance by 3%\npassive\n\n",
     "note": "Fate/GUDAGUDA Meiji Ishin only"
+    
+       
+  },
+  "163": {
+    "id": "163",
+    "alignment": "Lawful Good",
+    "rarity": "5",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_1631.png",
+    "name": "Meltlilith",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=163",
+    "item": "Lancer Piece: 5\nAssassin Piece: 5\n\nLancer Piece: 12\nAssassin Piece: 12\n\nLancer Monument: 5\nAssassin Monument: 5\n\nLancer Monument: 12\\nAssassin Monument: 12",
+    "servantClass": "Alterego",
+    "cost": "16",
+    "baseHP": "1,965",
+    "baseATK": "1,807",
+    "maxHP": "13,402",
+    "maxATK": "11,692",
+    "attacks": "0101020303",
+    "desc": "None",
+    "NP": "Saraswati Meltout\nBenzaiten's Five-String Biwa\nExtremely powerful attack to a single enemy\nRemove all buffs\nIncrease Quick Card performance (3 turns) [Overcharge]\nTarget: Enemy",
+    "skills": "Crime Ballet A\nEvasion (2 times・3 turns)\nReceive critical stars\nSelf\n\nSadistic Constitution A\nIncrease attack (3 turns)\nReduce defense (3 turns) [Demerit]\nSelf\n\nMelt Virus EX\nReduce NP damage of all enemies (1 turn)\nReduce NP damage of all allies except self (1 turn) [Demerit]'nIncrease NP damage after a turn passes (1 turn)\nAll Enimies/All Allies/Self\n\nMagic Resistance B\nIncrease debuff resistance by 17.5%\nPassive\n\nRiding B\nIncrease Quick Card performance by 8%\nPassive\n\nIndependent Action A\nIncrease critical damage by 10%\nPassive\n\nDivine Goddess Core B\nIncrease overall damage by 225\nIncrease debuff resistance by 25.5%\nPassive\n\nHigh Servant A\nNo effect\nPassive\n\n",
+    "note": "BB-chan's Counterattack / Meeting at the Electronic Sea only"
+    
+     },
+  "164": {
+    "id": "164",
+    "alignment": "Lawful Good",
+    "rarity": "4",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_1641.png",
+    "name": "Passionlip",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=164",
+    "item": "Archer Piece: 5\nBerserker Piece: 5\n\nArcher Piece: 12\nBerserker Piece: 12\n\nArcher Monument: 5\nBerserker Monument: 5\n\nArcher Monument: 12\\nBerserker Monument: 12",
+    "servantClass": "Alterego",
+    "cost": "12",
+    "baseHP": "1,744",
+    "baseATK": "1,716",
+    "maxHP": "10,901",
+    "maxATK": "10,299",
+    "attacks": "0102030303",
+    "desc": "None",
+    "NP": "(Buster) Brynhildr Romantia\nUntil Death Do Us Part\nPowerful attack to all enemies [Level]\nRecover HP of all allies [Overcharge]\nTarget: All Enemies",
+    "skills": "Breast Valley A\nReduce damage received (3 times・5 turns)\nNegate debuffs (3 times・5 turns)\nSelf\n\nMasochistic Constitution A\nTaunt enemies to attack the user (1 turn)\nIncrease defense (1 turn)\nSelf\n\nTrash & Crash EX\nIncrease attack (3 turns)\nChance to instant kill with each attack (1 time・3 turns)\nIncrease defense (1 turn)\nIgnore evasion & invulnerability (3 turns)\nInflicts stun on herself (1 turn) [Demerit]\nSelf\n\nMagic Resistance C\nIncrease debuff resistance by 15%\nPassive\nPassive\n\nIndependent Action C\nIncrease critical damage by 6%\nPassive\n\nPresence Concealment A+\nIncrease critical star rate by 10.5%\nPassive\n\nDivine Goddess Core C\nIncrease overall damage by 200\nIncrease debuff resistance by 20%\nPassive\n\nHigh Servant A\nNo effect\nPassive\n\n",
+    "note": "BB-chan's Counterattack / Meeting at the Electronic Sea only"
+
 },
   
   "100": {
