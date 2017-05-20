@@ -58,7 +58,7 @@
     "maxATK": "11,692",
     "attacks": "0101020303",
     "desc": "None",
-    "NP": "Saraswati Meltout\nBenzaiten's Five-String Biwa\nExtremely powerful attack to a single enemy\nRemove all buffs\nIncrease Quick Card performance (3 turns) [Overcharge]\nTarget: Enemy",
+    "NP": "(Quick) Saraswati Meltout\nBenzaiten's Five-String Biwa\nExtremely powerful attack to a single enemy\nRemove all buffs\nIncrease Quick Card performance (3 turns) [Overcharge]\nTarget: Enemy",
     "skills": "Crime Ballet A\nEvasion (2 times・3 turns)\nReceive critical stars\nSelf\n\nSadistic Constitution A\nIncrease attack (3 turns)\nReduce defense (3 turns) [Demerit]\nSelf\n\nMelt Virus EX\nReduce NP damage of all enemies (1 turn)\nReduce NP damage of all allies except self (1 turn) [Demerit]'nIncrease NP damage after a turn passes (1 turn)\nAll Enimies/All Allies/Self\n\nMagic Resistance B\nIncrease debuff resistance by 17.5%\nPassive\n\nRiding B\nIncrease Quick Card performance by 8%\nPassive\n\nIndependent Action A\nIncrease critical damage by 10%\nPassive\n\nDivine Goddess Core B\nIncrease overall damage by 225\nIncrease debuff resistance by 25.5%\nPassive\n\nHigh Servant A\nNo effect\nPassive\n\n",
     "note": "BB-chan's Counterattack / Meeting at the Electronic Sea only"
     
@@ -80,7 +80,49 @@
     "attacks": "0102030303",
     "desc": "None",
     "NP": "(Buster) Brynhildr Romantia\nUntil Death Do Us Part\nPowerful attack to all enemies [Level]\nRecover HP of all allies [Overcharge]\nTarget: All Enemies",
-    "skills": "Breast Valley A\nReduce damage received (3 times・5 turns)\nNegate debuffs (3 times・5 turns)\nSelf\n\nMasochistic Constitution A\nTaunt enemies to attack the user (1 turn)\nIncrease defense (1 turn)\nSelf\n\nTrash & Crash EX\nIncrease attack (3 turns)\nChance to instant kill with each attack (1 time・3 turns)\nIncrease defense (1 turn)\nIgnore evasion & invulnerability (3 turns)\nInflicts stun on herself (1 turn) [Demerit]\nSelf\n\nMagic Resistance C\nIncrease debuff resistance by 15%\nPassive\nPassive\n\nIndependent Action C\nIncrease critical damage by 6%\nPassive\n\nPresence Concealment A+\nIncrease critical star rate by 10.5%\nPassive\n\nDivine Goddess Core C\nIncrease overall damage by 200\nIncrease debuff resistance by 20%\nPassive\n\nHigh Servant A\nNo effect\nPassive\n\n",
+    "skills": "Breast Valley A\nReduce damage received (3 times・5 turns)\nNegate debuffs (3 times・5 turns)\nSelf\n\nMasochistic Constitution A\nTaunt enemies to attack the user (1 turn)\nIncrease defense (1 turn)\nSelf\n\nTrash & Crash EX\nIncrease attack (3 turns)\nChance to instant kill with each attack (1 time・3 turns)\nIncrease defense (1 turn)\nIgnore evasion & invulnerability (3 turns)\nInflicts stun on herself (1 turn) [Demerit]\nSelf\n\nMagic Resistance C\nIncrease debuff resistance by 15%\nPassive\n\nIndependent Action C\nIncrease critical damage by 6%\nPassive\n\nPresence Concealment A+\nIncrease critical star rate by 10.5%\nPassive\n\nDivine Goddess Core C\nIncrease overall damage by 200\nIncrease debuff resistance by 20%\nPassive\n\nHigh Servant A\nNo effect\nPassive\n\n",
+    "note": "BB-chan's Counterattack / Meeting at the Electronic Sea only"
+    
+    },
+  "165": {
+    "id": "165",
+    "alignment": "Neutral Evil",
+    "rarity": "4",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_1651.png",
+    "name": "Suzuka Gozen",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=165",
+    "item": "Saber Piece: 4\n\nSaber Piece: 10\nUnlucky Bone: 18\n\nSaber Monument: 4\nYggdrassil Seed: 10\nPhoenix Plume: 4\n\nSaber Monument: 10\nPhoenix Plume: 7\nScarab of Wisdom: 4",
+    "servantClass": "Saber",
+    "cost": "12",
+    "baseHP": "1,880",
+    "baseATK": "1,590",
+    "maxHP": "11,753",
+    "maxATK": "9,544",
+    "attacks": "0102020303",
+    "desc": "None",
+    "NP": "(Buster) Tenkiame\nHeavenly Demon Rain\nPowerful attack to all enemies [Level]\nIncrease critical damage (3 turns) [Overcharge]\nTarget: All Enemy",
+    "skills": "Supernatural Power B\nIncrease Buster Card performance (1 turn)\nIncrease critical star rate (1 turn)\nSelf\n\nMystic Eyes B+\nChance to charm [Male] (1 turn)\nReduce attack (1 turn)\nEnemy\n\nBlessing of Wisdom C\nIncrease NP gauge each turn (5 turns)\nIgnore evasion (3 turn)\nIncrease NP damage (3 turns)\nSelf\n\nMagic Resistance A\nIncrease debuff resistance by 20%\nPassive\n\nRiding B\nIncrease Quick Card performance by 8%\nPassive\n\nDivinity A\nIncrease overall damage by 200\nPassive\n\n",
+    "note": "none"
+    
+      },
+  "166": {
+    "id": "166",
+    "alignment": "Chaotic Good",
+    "rarity": "4",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_1661.png",
+    "name": "BB",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=166",
+    "item": "Ribbon of Memories: 1\n\nRibbon of Memories: 1\n\nRibbon of Memories: 1\n\nRibbon of Memories: 1",
+    "servantClass": "Moon Cancer",
+    "cost": "12",
+    "baseHP": "2,182",
+    "baseATK": "1,366",
+    "maxHP": "13,643",
+    "maxATK": "8,197",
+    "attacks": "0101020203",
+    "desc": "None",
+    "NP": "Cursed Cupid Cleanser\nC.C.C.\nExtremely powerful attack to a single enemy [Level]\nReduce debuff resistance (3 turns) [Overcharge]\nIncrease NP gauge of all allies\nTarget: Enemy",
+    "skills": "Ten Crowns D\nRemove debuffs\nRecover HP\nNegate debuffs (1 time・3 turns)\nAlly\n\nAurea Boura C\nRemove invulnerability\nChance to inflict stun (1 turn)\nEnemy\n\nSelf-Modification EX\nIncrease critical damage (3 turns)\nIncrease critical absorption rate (3 turns)\nSelf\n\nMagic Resistance B\nIncrease debuff resistance by 17.5%\nPassive\n\nItem Creation A\nIncrease debuff rate by 10%\nPassive\n\nTerritory Creation A\nIncrease Arts Card performance by 10%\nPassive\n\n",
     "note": "BB-chan's Counterattack / Meeting at the Electronic Sea only"
 
 },
