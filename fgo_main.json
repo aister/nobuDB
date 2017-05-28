@@ -59,7 +59,7 @@
     "attacks": "0101020303",
     "desc": "None",
     "NP": "(Quick) Saraswati Meltout\nBenzaiten's Five-String Biwa\nExtremely powerful attack to a single enemy\nRemove all buffs\nIncrease Quick Card performance (3 turns) [Overcharge]\nTarget: Enemy",
-    "skills": "Crime Ballet A\nEvasion (2 times・3 turns)\nReceive critical stars\nSelf\n\nSadistic Constitution A\nIncrease attack (3 turns)\nReduce defense (3 turns) [Demerit]\nSelf\n\nMelt Virus EX\nReduce NP damage of all enemies (1 turn)\nReduce NP damage of all allies except self (1 turn) [Demerit]'nIncrease NP damage after a turn passes (1 turn)\nAll Enimies/All Allies/Self\n\nMagic Resistance B\nIncrease debuff resistance by 17.5%\nPassive\n\nRiding B\nIncrease Quick Card performance by 8%\nPassive\n\nIndependent Action A\nIncrease critical damage by 10%\nPassive\n\nDivine Goddess Core B\nIncrease overall damage by 225\nIncrease debuff resistance by 25.5%\nPassive\n\nHigh Servant A\nNo effect\nPassive\n\n",
+    "skills": "Crime Ballet A\nEvasion (2 times・3 turns)\nReceive critical stars\nSelf\n\nSadistic Constitution A\nIncrease attack (3 turns)\nReduce defense (3 turns) [Demerit]\nSelf\n\nMelt Virus EX\nReduce NP damage of all enemies (1 turn)\nReduce NP damage of all allies except self (1 turn) [Demerit]'nIncrease NP damage after a turn passes (1 turn)\nAll Enemies/All Allies/Self\n\nMagic Resistance B\nIncrease debuff resistance by 17.5%\nPassive\n\nRiding B\nIncrease Quick Card performance by 8%\nPassive\n\nIndependent Action A\nIncrease critical damage by 10%\nPassive\n\nDivine Goddess Core B\nIncrease overall damage by 225\nIncrease debuff resistance by 25.5%\nPassive\n\nHigh Servant A\nNo effect\nPassive\n\n",
     "note": "BB-chan's Counterattack / Meeting at the Electronic Sea only"
     
      },
@@ -124,6 +124,49 @@
     "NP": "Cursed Cupid Cleanser\nC.C.C.\nExtremely powerful attack to a single enemy [Level]\nReduce debuff resistance (3 turns) [Overcharge]\nIncrease NP gauge of all allies\nTarget: Enemy",
     "skills": "Ten Crowns D\nRemove debuffs\nRecover HP\nNegate debuffs (1 time・3 turns)\nAlly\n\nAurea Boura C\nRemove invulnerability\nChance to inflict stun (1 turn)\nEnemy\n\nSelf-Modification EX\nIncrease critical damage (3 turns)\nIncrease critical absorption rate (3 turns)\nSelf\n\nMagic Resistance B\nIncrease debuff resistance by 17.5%\nPassive\n\nItem Creation A\nIncrease debuff rate by 10%\nPassive\n\nTerritory Creation A\nIncrease Arts Card performance by 10%\nPassive\n\n",
     "note": "BB-chan's Counterattack / Meeting at the Electronic Sea only"
+    
+    },
+  "167": {
+    "id": "167",
+    "alignment": "Chaotic Evil",
+    "rarity": "5",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_1671.png",
+    "name": "Sessyoin Kiara",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=167",
+    "item": "Saber Piece: 5\nCaster Piece: 5\n\nSaber Piece: 12\nCaster Piece: 12\n\nSaber Monument: 5\nCaster Monument: 5\n\nSaber Monument: 12\\nCaster Monument: 12",
+    "servantClass": "Alterego",
+    "cost": "16",
+    "baseHP": "2,124",
+    "baseATK": "1,803",
+    "maxHP": "14,606",
+    "maxATK": "17,272",
+    "attacks": "0102020303",
+    "desc": "None",
+    "NP": "(Arts) Amida Amidura: Heaven's Hole\nPleasure Heaven: Womb Realm Mandala\nIgnore evasion & invulnerability (1 turn)\nPowerful attack to all enemies that ignores defense [Level]\nRecover own HP [Overcharge]\nTarget: All Enemy",
+    "skills": "Clairvoyance (Beast) D\nReduce debuff resistance (1 turn)\nIncrease own NP gauge\nEnemy/Self\n\nFive Thought-Stopping Meditations A\nReduce NP charge\nReduce defense (3 turns)\nAll Enemies\n\nGoddess Metamorphosis EX\nInvulnerability (1 turn)\nIncrease critical damage, NP gain, debuff resist, HP recovery (1 turn)\nReduce HP [Demerit]\nSelf\n\nAuthority of the Beast D\nIncrease critical damage by 8%\nPassive\n\nIndependent Manifestation E\nIncrease critical damage by 2%\nIncrease instant kill resistance by 2%\nIncrease mental debuff resistance by 2%\nPassive\n\nLogs Eater C\nIncrease defense against [Humanoid] enemies by 16%\nPassive\n\nNega Savior A\nIncrease damage against [Ruler] class by 150%\nPassive\n\n",
+    "note": "BB-chan's Counterattack / Meeting at the Electronic Sea only"
+    
+     },
+  "168": {
+    "id": "168",
+    "alignment": "Chaotic Evil",
+    "rarity": "5",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_1681.png",
+    "name": "Beast III/R",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=168",
+    "item": "none",
+    "servantClass": "Beast",
+    "cost": "16",
+    "baseHP": "2,745",
+    "baseATK": "2,121",
+    "maxHP": "18,720",
+    "maxATK": "13,728",
+    "attacks": "0102020303",
+    "desc": "None",
+    "NP": "(Arts) Sukhavati: Heaven's Hole \nThird Pleasure Heaven of Overwhelming Joy\nPowerful attack to all enemies\nInflict NP seal (1 turn)\nInflict skill seal (1 turn)\nRecover own HP\nTarget: All Enemy",
+    "skills": "none",
+    "note": "Enemy Servant only"
+    
 
 },
   
