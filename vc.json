@@ -305,7 +305,7 @@
         "skill": [
           {
             "name": "Skill: Bullet Tour",
-            "value": "Activations: 3\nMin Level Effect: All enemies' DEF 25% down / 15% chance\nMax Level Effect:  All enemies' DEF 25% down / 20% chance"
+            "value": "Activations: 3\nMin Level Effect: All enemies' DEF 25% down / 15% chance\nMax Level Effect:  All enemies' DEF 25% down / 20% chance"
           }
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/d/d8/Guide_Master.png",
@@ -1007,7 +1007,7 @@
         "skill": [
           {
             "name": "Skill: Mindless Charge",
-            "value": "Activations:  1\nMin Level Effect:  Deal 250% Passion DMG to a single enemy / 10% chance\nMax Level Effect: Deal 350% Passion DMG to a single enemy / 15% chance"
+            "value": "Activations:  1\nMin Level Effect:  Deal 250% Passion DMG to a single enemy / 10% chance\nMax Level Effect: Deal 350% Passion DMG to a single enemy / 15% chance"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/8/8e/Beleth.png",
@@ -2567,7 +2567,7 @@
         "skill": [
           {
             "name": "Skill: Happy Humming",
-            "value": "Activations:  Infinite\nMin Level Effect:  A single ally recovers 50% / 15% chance\nMax Level Effect: A single ally recovers 70% / 20% chance"
+            "value": "Activations:  Infinite\nMin Level Effect:  A single ally recovers 50% / 15% chance\nMax Level Effect: A single ally recovers 70% / 20% chance"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/3/3b/Woodland_Guide.png",
@@ -2994,7 +2994,7 @@
         "skill": [
           {
             "name": "Skill: Burning Robe",
-            "value": "Activations:  1\nMin Level Effect:  All Passion allies' ATK up 100% / 15% chance\nMax Level Effect: All Passion allies' ATK up 100% / 20% chance"
+            "value": "Activations:  1\nMin Level Effect:  All Passion allies' ATK up 100% / 15% chance\nMax Level Effect: All Passion allies' ATK up 100% / 20% chance"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/6/6d/Cthugha.png",
@@ -3845,7 +3845,7 @@
         "skill": [
           {
             "name": "Skill: Steadfast Chivalry",
-            "value": "Activations:  1\nMin Level Effect:  All Passion allies attack 100% up / 15% chance\nMax Level Effect: All Passion allies attack 100% up / 20% chance"
+            "value": "Activations:  1\nMin Level Effect:  All Passion allies attack 100% up / 15% chance\nMax Level Effect: All Passion allies attack 100% up / 20% chance"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/0/0b/Nova.png",
@@ -3986,7 +3986,7 @@
         "skill": [
           {
             "name": "Skill: Red Wing Dance",
-            "value": "Activations:  1\nMin Level Effect:  All enemies' DEF 60% down / 15% chance\nMax Level Effect: All enemies' DEF 60% down / 20% chance"
+            "value": "Activations:  1\nMin Level Effect:  All enemies' DEF 60% down / 15% chance\nMax Level Effect: All enemies' DEF 60% down / 20% chance"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/d/d1/Passion_Fairy.png",
@@ -4098,7 +4098,7 @@
         "skill": [
           {
             "name": "Skill: Gluttonous Surge",
-            "value": "Activations:  1\nMin Level Effect:  Own ATK 300% up / 10% chance\nMax Level Effect: Own ATK 300% up / 15% chance"
+            "value": "Activations:  1\nMin Level Effect:  Own ATK 300% up / 10% chance\nMax Level Effect: Own ATK 300% up / 15% chance"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/e/ea/Queen_Momo.png",
@@ -5548,11 +5548,11 @@
         "skill": [
           {
             "name": "Skill: Demon Fire",
-            "value": "Activations:  3\nMin Level Effect:  Deal 250% Passion DMG to all enemies / Absorb 20% / 15% chance\nMax Level Effect: Deal 350% Passion DMG to all enemies / Absorb 20% / 20% chance\n"
+            "value": "Activations:  3\nMin Level Effect:  Deal 250% Passion DMG to all enemies / Absorb 20% / 15% chance\nMax Level Effect: Deal 350% Passion DMG to all enemies / Absorb 20% / 20% chance\n"
           },
           {
             "name": "Awoken: Demon Fire",
-            "value": "Activations: 3\nMin Level Effect:  Deal 250% Passion DMG to all enemies / Absorb 20% / 15% chance\nMax Level Effect: Deal 400% Passion DMG to all enemies / Absorb 20% / 20% chance"
+            "value": "Activations: 3\nMin Level Effect:  Deal 250% Passion DMG to all enemies / Absorb 20% / 15% chance\nMax Level Effect: Deal 400% Passion DMG to all enemies / Absorb 20% / 20% chance"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/e/e6/Goetia.png",
@@ -10476,7 +10476,7 @@
         "skill": [
           {
             "name": "Skill: Peace Monument",
-            "value": "Activations:  Infinite\nMin Level Effect:  Deal 250% Cool DMG to all enemies / 15% chance\nMax Level Effect:  Deal 350% Cool DMG to all enemies / 20% chance"
+            "value": "Activations:  Infinite\nMin Level Effect:  Deal 250% Cool DMG to all enemies / 15% chance\nMax Level Effect:  Deal 350% Cool DMG to all enemies / 20% chance"
           }
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d1/Consort_Wu.png",
@@ -10489,7 +10489,7 @@
         "skill": [
           {
             "name": "Skill: Circle of Silence",
-            "value": "Activations:  2\nMin Level Effect:  All enemies can't move for 3 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 15% chance"
+            "value": "Activations:  2\nMin Level Effect:  All enemies can't move for 3 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 15% chance"
           }
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/6/6e/Cool_Fairy.png",
@@ -12404,7 +12404,7 @@
         "skill": [
           {
             "name": "Skill: Time Distortion",
-            "value": "Activations:  1\nMin Level Effect:  【Autoskill】Skill nullification of enemy's attacking skill / 35% chance\nMax Level Effect: 【Autoskill】Skill nullification of enemy's attacking skill / 50% chance"
+            "value": "Activations:  1\nMin Level Effect:  【Autoskill】Skill nullification of enemy's attacking skill / 35% chance\nMax Level Effect: 【Autoskill】Skill nullification of enemy's attacking skill / 50% chance"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/e/e2/Vassago.png",
@@ -13491,11 +13491,11 @@
         "skill": [
           {
             "name": "Skill: Elemental Blessing",
-            "value": "Activations:  1\nMin Level Effect:  All allies ATK • DEF 100% up / 15% chance\nMax Level Effect: All allies ATK • DEF 100% up / 20% chance\n"
+            "value": "Activations:  1\nMin Level Effect:  All allies ATK • DEF 100% up / 15% chance\nMax Level Effect: All allies ATK • DEF 100% up / 20% chance\n"
           },
           {
             "name": "Awoken: ☆Elemental Blessing",
-            "value": "Activations:  1\nMin Level Effect:  All allies ATK • DEF 200% up / 15% chance\nMax Level Effect: All allies ATK • DEF 200% up / 20% chance"
+            "value": "Activations:  1\nMin Level Effect:  All allies ATK • DEF 200% up / 15% chance\nMax Level Effect: All allies ATK • DEF 200% up / 20% chance"
           }
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/c/cc/Elemental_Queen.png",
@@ -13604,7 +13604,7 @@
             "value": "Activations: 2\nEffect: 【Autoskill】 Deal 200% DMG to all enemies after an attack / Unable to move 2 turns / Can't be nullified / 20% chance / Max 2 times"
           }
         ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/1e/Flower_Murakumo_H.png/revision",
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/1e/Flower_Murakumo_H.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Flower_Murakumo"
       },
       {
@@ -13965,7 +13965,7 @@
             "value": "Activations: 3\nMin Level Effect: Resurrect and fully recover all allies / 15% chance\nMax Level Effect: Resurrect and fully recover all allies / 20% chance"
           }
         ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/f0/Kaede.png/revision",
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/f0/Kaede.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Kaede"
       },
       {
@@ -15598,7 +15598,7 @@
         "skill": [
           {
             "name": "Skill: Perky Hammer",
-            "value": "Activations: Infinite\nMin Level Effect: All allies recover 15% / 10% chance\nMax Level Effect: All allies recover 25% / 15% chance"
+            "value": "Activations: Infinite\nMin Level Effect: All allies recover 15% / 10% chance\nMax Level Effect: All allies recover 25% / 15% chance"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/f/ff/Angel_Child.png",
@@ -17253,11 +17253,11 @@
         "skill": [
           {
             "name": "Skill: Heavy-Tone Pipe",
-            "value": "Activations:  2\nMin Level Effect:  Critical Light DMG to a single enemy / 15% chance\nMax Level Effect: Critical Light DMG to a single enemy / 20% chance\n"
+            "value": "Activations:  2\nMin Level Effect:  Critical Light DMG to a single enemy / 15% chance\nMax Level Effect: Critical Light DMG to a single enemy / 20% chance\n"
           },
           {
             "name": "Awoken: ☆Heavy-Tone Pipe",
-            "value": "Activations:  2\nMin Level Effect:  Critical Light DMG to a single enemy / 20% chance\nMax Level Effect: Critical Light DMG to a single enemy / 25% chance"
+            "value": "Activations:  2\nMin Level Effect:  Critical Light DMG to a single enemy / 20% chance\nMax Level Effect: Critical Light DMG to a single enemy / 25% chance"
           }
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/f/f2/Amadeus.png",
@@ -18013,7 +18013,7 @@
         "skill": [
           {
             "name": "Skill: Faithful Fighter",
-            "value": "Activations:  1\nMin Level Effect:  Critical Light DMG to a single enemy / 15% chance\nMax Level Effect: Critical Light DMG to a single enemy / 20% chance"
+            "value": "Activations:  1\nMin Level Effect:  Critical Light DMG to a single enemy / 15% chance\nMax Level Effect: Critical Light DMG to a single enemy / 20% chance"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/1/19/Gamigin.png",
@@ -18341,7 +18341,7 @@
         "skill": [
           {
             "name": "Skill: Butterfly Effect",
-            "value": "Activations:  4\nMin Level Effect:  All allies recover 30% / 10% chance\nMax Level Effect: All allies recover 45% / 15% chance"
+            "value": "Activations:  4\nMin Level Effect:  All allies recover 30% / 10% chance\nMax Level Effect: All allies recover 45% / 15% chance"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/6/61/Light_Fairy.png",
@@ -19565,7 +19565,7 @@
         "skill": [
           {
             "name": "Skill: Ultimate Guard",
-            "value": "Activations:  1\nMin Level Effect:  Reduce gain damage 60%Counter attack 500% / 20%\nMax Level Effect: Reduce gain damage 90%Counter attack 500% / 30%\n"
+            "value": "Activations:  1\nMin Level Effect:  Reduce gain damage 60%Counter attack 500% / 20%\nMax Level Effect: Reduce gain damage 90%Counter attack 500% / 30%\n"
           },
           {
             "name": "Awoken: ☆Ultimate Guard",
@@ -19684,11 +19684,11 @@
         "skill": [
           {
             "name": "Skill: Anti-Deity Cannon",
-            "value": "Activations:  3\nMin Level Effect:  Deal 250% Light DMG to all enemies / Absorb 20% / 15% chance\nMax Level Effect: Deal 350% Light DMG to all enemies / Absorb 20% / 20% chance\n"
+            "value": "Activations:  3\nMin Level Effect:  Deal 250% Light DMG to all enemies / Absorb 20% / 15% chance\nMax Level Effect: Deal 350% Light DMG to all enemies / Absorb 20% / 20% chance\n"
           },
           {
             "name": "Awoken: ☆Anti-Deity Cannon",
-            "value": "Activations:  3\nMin Level Effect:  Deal 250% Light DMG to all enemies / Absorb 20% / 20% chance\nMax Level Effect: Deal 400% Light DMG to all enemies / Absorb 20% / 25% chance"
+            "value": "Activations:  3\nMin Level Effect:  Deal 250% Light DMG to all enemies / Absorb 20% / 20% chance\nMax Level Effect: Deal 400% Light DMG to all enemies / Absorb 20% / 25% chance"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/1/1e/Android_Warrior.png",
@@ -21694,7 +21694,7 @@
         "skill": [
           {
             "name": "Skill: Elemental Strike",
-            "value": "Activations:  2\nMin Level Effect:  Critical Light DMG to a single enemy / 10% chance\nMax Level Effect: Critical Light DMG to a single enemy / 15% chance"
+            "value": "Activations:  2\nMin Level Effect:  Critical Light DMG to a single enemy / 10% chance\nMax Level Effect: Critical Light DMG to a single enemy / 15% chance"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/2/24/Salomonis.png",
@@ -21863,7 +21863,7 @@
             "value": "Activations: 4\nMin Level Effect: 【Autoskill】Own ATK 60% up after every attack / Max 4 times\nMax Level Effect: 【Autoskill】Own ATK 65% up after every attack / Max 4 times"
           }
         ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/be/Skoll_The_Hunter.png/revision",
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/be/Skoll_The_Hunter.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Skoll_The_Hunter"
       },
       {
@@ -24489,7 +24489,7 @@
         "skill": [
           {
             "name": "Skill: Purple Pherormones",
-            "value": "Activations:  1\nMin Level Effect:  Critical Dark DMG to a single enemy / 15% chance\nMax Level Effect: Critical Dark DMG to a single enemy / 20% chance"
+            "value": "Activations:  1\nMin Level Effect:  Critical Dark DMG to a single enemy / 15% chance\nMax Level Effect: Critical Dark DMG to a single enemy / 20% chance"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/d/dc/Dark_Fairy.png",
@@ -25180,7 +25180,7 @@
         "skill": [
           {
             "name": "Skill: Dust of Despair",
-            "value": "Activations:  4\nMin Level Effect:  Deal 250% Dark DMG to a single enemy / Absorb 20% / 15% chance\nMax Level Effect: Deal 350% Dark DMG to a single enemy / Absorb 20% / 20% chance"
+            "value": "Activations:  4\nMin Level Effect:  Deal 250% Dark DMG to a single enemy / Absorb 20% / 15% chance\nMax Level Effect: Deal 350% Dark DMG to a single enemy / Absorb 20% / 20% chance"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/b/ba/Lost_Fairy.png",
