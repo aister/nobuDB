@@ -786,7 +786,7 @@
         "skill": [
           {
             "name": "Skill: Private Lesson",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Battle EXP +10% \nMax Level Effect: 【Autoskill】 Battle EXP +20%"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/6/6f/Teacher.png",
@@ -2242,7 +2242,7 @@
         "skill": [
           {
             "name": "Skill: Cheer",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit ATK +5% \nMax Level Effect: 【Autoskill】 Unit ATK +18%"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/8/89/Rotte.png",
@@ -2450,7 +2450,7 @@
         "skill": [
           {
             "name": "Skill: Summer Sky",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit ATK +5% \nMax Level Effect: 【Autoskill】 Unit ATK +18%"
           }
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/8/81/Sunflower.png",
@@ -2734,7 +2734,7 @@
         "skill": [
           {
             "name": "Skill: Gift of Magic",
-            "value": "Activations: 1\nMin Level Effect: Deal 150% Passion DMG 3 times to the enemy / 40% chance\nMax Level Effect: Deal 150% Passion icon DMG 3 times to the enemy / 55% chance"
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Passion DMG 3 times to the enemy / 40% chance\nMax Level Effect: Deal 150% Passion DMG 3 times to the enemy / 55% chance"
           },
     	  {
             "name": "Awoken: ☆Gift of Magic",
@@ -3020,7 +3020,7 @@
         "skill": [
           {
             "name": "Skill: Partner",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】Battle EXP +60%\nMax Level Effect: 【Autoskill】Battle EXP +80%"
           }
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/5/5f/Cu_Sith.png",
@@ -3277,11 +3277,11 @@
         "skill": [
           {
             "name": "Skill: Probability control",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Battle EXP +80% \nMax Level Effect: 【Autoskill】 Battle EXP +100%\n"
           },
           {
             "name": "Awoken: ☆Probability control",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Battle EXP +100% \nMax Level Effect: 【Autoskill】 Battle EXP +120%"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/1/14/Fortuna.png",
@@ -4008,6 +4008,23 @@
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/b/bf/Patience.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Patience"
+      },
+      {
+        "name": "Pianta",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Celestial Herbs",
+            "value": "Activations: 2\nMin Level Effect: Deal 100% Passion DMG to all enemies / Absorb 20% / 30% chance\nMax Level Effect: Deal 100% Passion DMG to all enemies / Absorb 20% / 35% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Celestial Herbs",
+            "value": "Activations: 2\nMin Level Effect: Deal 150% Passion DMG to all enemies / Absorb 20% / 35% chance\nMax Level Effect: Deal 150% Passion DMG to all enemies / Absorb 20% / 40% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/53/Pianta.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Pianta"
       },
       {
         "name": "Pheme",
@@ -8040,7 +8057,7 @@
         "skill": [
           {
             "name": "Skill: Counsel",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Battle EXP +20% \nMax Level Effect: 【Autoskill】 Battle EXP +40%"
           }
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/c/cc/Sage_%28Old%29.png",
@@ -8326,7 +8343,7 @@
         "skill": [
           {
             "name": "Skill: Navigation",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit ATK +5% \nMax Level Effect: 【Autoskill】 Unit ATK +18%"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/4/4b/Assistant_Loid.png",
@@ -8638,7 +8655,7 @@
         "skill": [
           {
             "name": "Skill: Deduction",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Battle EXP +40% \nMax Level Effect: 【Autoskill】 Battle EXP +60% "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Battle EXP +40% \nMax Level Effect: 【Autoskill】 Battle EXP +60%"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/7/7f/Detective.png",
@@ -9041,7 +9058,7 @@
         "skill": [
           {
             "name": "Skill: Kama Sutra",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit ATK +5% \nMax Level Effect: 【Autoskill】 Unit ATK +18%"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/f/f0/Kama.png",
@@ -9353,7 +9370,7 @@
         "skill": [
           {
             "name": "Skill: Heavenly Feast",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit ATK +5% \nMax Level Effect: 【Autoskill】 Unit ATK +18%"
           }
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/d/d2/Oiran.png",
@@ -9639,7 +9656,7 @@
         "skill": [
           {
             "name": "Skill: World of Illusion",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit DEF +5% \nMax Level Effect: 【Autoskill】 Unit DEF +25%"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/0/0c/Shen.png",
@@ -9834,7 +9851,7 @@
         "skill": [
           {
             "name": "Skill: Horoscope",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Battle EXP +40% \nMax Level Effect: 【Autoskill】 Battle EXP +60%"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/9/91/Star_Reader.png",
@@ -11142,7 +11159,7 @@
         "skill": [
           {
             "name": "Skill: Bibliomania",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Battle EXP +60% \nMax Level Effect: 【Autoskill】 Battle EXP +80%"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/5/55/Librarian.png",
@@ -11696,7 +11713,7 @@
         "skill": [
           {
             "name": "Skill: Grand Captain",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit ATK +10% \nMax Level Effect: 【Autoskill】 Unit ATK +25%"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/5/51/Queen_of_Pirates.png",
@@ -16235,7 +16252,7 @@
         "skill": [
           {
             "name": "Skill: Pageant Winner",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit ATK +5% \nMax Level Effect: 【Autoskill】 Unit ATK +18%"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/1/17/Grace.png",
@@ -17106,7 +17123,7 @@
         "skill": [
           {
             "name": "Skill: Time Warp",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nEffect: 【Autoskill】 Battle EXP +5%"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/f/f6/Time_Traveler.png",
@@ -17459,7 +17476,7 @@
         "skill": [
           {
             "name": "Skill: Wisdom",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】Battle EXP +60%\nMax Level Effect: 【Autoskill】Battle EXP +80%\n"
           },
           {
             "name": "Second Skill: Witch Hunt",
@@ -18242,7 +18259,7 @@
         "skill": [
           {
             "name": "Skill: Matchmaking",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit ATK +15% \nMax Level Effect: 【Autoskill】 Unit ATK +30%\n"
           },
           {
             "name": "Second Skill: Witch Hunt",
@@ -22267,6 +22284,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Vegie"
       },
       {
+        "name": "Viele",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Bear Blaster",
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Light DMG to all enemies / Unable to move 3 turns / 30% chance\nMax Level Effect: Deal 300% Light DMG to all enemies / Unable to move 3 turns / 45% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Bear Blaster",
+            "value": "Activations: 2\nMin Level Effect: Deal 350% Light DMG to all enemies / Unable to move 3 turns / 45% chance\nMax Level Effect: Deal 400% Light DMG to all enemies / Unable to move 3 turns / 55% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/85/Viele.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Viele"
+      },
+      {
         "name": "Walpurgis",
         "element": "Light",
         "rarity": "UR",
@@ -23158,7 +23192,7 @@
         "skill": [
           {
             "name": "Skill: Deal with the devil",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Battle EXP +40% \nMax Level Effect: 【Autoskill】 Battle EXP +60%"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/2/2a/Devil.png",
@@ -24922,11 +24956,11 @@
         "skill": [
           {
             "name": "Skill: Loyalty",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit ATK +10% \nMax Level Effect: 【Autoskill】 Unit ATK +25%\n"
           },
           {
             "name": "Awoken: ☆Loyalty",
-            "value": "Activations: Always On\nMin Level Effect: "
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit ATK +30% \nMax Level Effect: 【Autoskill】 Unit ATK +50%"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/0/06/High_Vampire.png",
@@ -25892,6 +25926,27 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Susa-No-O"
       },
       {
+        "name": "Sylphis",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Extreme Exorcism",
+            "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 10% chance\nMax Level Effect: Unleash a single ally's skill / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Extreme Exorcism",
+            "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 10% chance\nMax Level Effect: Unleash a single ally's skill / 15% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Extreme Exorcism",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +200%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/26/Sylphis.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Sylphis"
+      },
+      {
         "name": "Takamine",
         "element": "Dark",
         "rarity": "SR",
@@ -26526,6 +26581,23 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/4a/Blue_Surtr_H.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Blue_Surtr"
+      },
+      {
+        "name": "Blushing Lucy",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Sword Dance",
+            "value": "Activations: 1\nMin Level Effect: Deal 500% Dark DMG 4 times to the enemy / 15% chance\nMax Level Effect: Deal 500% Dark DMG 4 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Sword Dance",
+            "value": "Activations: 1\nEffect: 【Autoskill】Own ATK 200% up after every attack / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/0d/Blushing_Lucy_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Blushing_Lucy"
       },
       {
         "name": "Bondage Babe",
@@ -27814,6 +27886,23 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/19/Lil%27_Alchemist.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Lil%27_Alchemist"
+      },
+      {
+        "name": "Lucy",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Sonic Slice",
+            "value": "Activations: 1\nMin Level Effect: Deal 400% Dark DMG 3 times to the enemy / 10% chance\nMax Level Effect: Deal 400% Dark DMG 3 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Sonic Slice",
+            "value": "Activations: 1\nMin Level Effect: Deal 500% Dark DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 500% Dark DMG 4 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/05/Lucy.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Lucy"
       },
       {
         "name": "Magic Whip",
@@ -29175,7 +29264,7 @@
           },
           {
             "name": "Awoken: ☆Bewitching Charm",
-            "value": "Activations: 1\nMin Level Effect: All Dark allies' ATK 600% • DEF 400% up / 15% chance\nMax Level Effect: All Dark allies' ATK 600% • DEF 400% up / 15% chance\n"
+            "value": "Activations: 1\nMin Level Effect: All Dark allies' ATK 600% • DEF 400% up / 15% chance\nMax Level Effect: All Dark allies' ATK 600% • DEF 400% up / 25% chance\n"
           },
           {
             "name": "Awoken Second Skill: ☆Bewitching Charm",
