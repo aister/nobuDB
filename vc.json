@@ -7597,6 +7597,31 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/True_Victoria"
       },
       {
+        "name": "Vernal",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Godspeed Arrow",
+            "value": "Activations: 1\nMin Level Effect: All allies' ATK 700% • DEF 200% up / 5% chance\nMax Level Effect: All allies' ATK 700% • DEF 200% up / 20% chance\n"
+          },
+          {
+            "name": "Second Skill: Godspeed Arrow",
+            "value": "Activations: 4\nEffect: 【Autoskill】When own soldiers fall below a certain amount, all allies recover 50% / 50% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Godspeed Arrow",
+            "value": "Activations: 1\nMin Level Effect: All allies' ATK 800% • DEF 300% up / 5% chance\nMax Level Effect: All allies' ATK 800% • DEF 300% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Godspeed Arrow",
+            "value": "Activations: 5\nEffect: 【Autoskill】When own soldiers fall below a certain amount, all allies recover 50% / 70% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/56/Vernal.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Vernal"
+      },
+      {
         "name": "Wise Oracle",
         "element": "Passion",
         "rarity": "LR",
@@ -17264,6 +17289,19 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Alnair"
       },
       {
+        "name": "Alpheratz",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Basic Lance",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Light DMG 3 times to the enemy / 10% chance\nMax Level Effect: Deal 150% Light DMG 3 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/b1/Alpheratz.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Alpheratz"
+      },
+      {
         "name": "Amadeus",
         "element": "Light",
         "rarity": "SR",
@@ -20930,6 +20968,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Kukunochi"
       },
       {
+        "name": "Lancer Alpheratz",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Comet Lance",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Light DMG 9 times to the enemy / 15% chance\nMax Level Effect: Deal 350% Light DMG 9 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Comet Lance",
+            "value": "Activations: 1\nEffect: All Light allies' ATK 300% up / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/96/Lancer_Alpheratz_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Lancer_Alpheratz"
+      },
+      {
         "name": "Last Army",
         "element": "Light",
         "rarity": "UR",
@@ -22199,6 +22254,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Troy"
       },
       {
+        "name": "True Alpheratz",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Starfall Lance",
+            "value": "Activations: 2\nMin Level Effect: Deal 150% Light DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 200% Light DMG 4 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Starfall Lance",
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Light DMG 6 times to the enemy / 15% chance\nMax Level Effect: Deal 300% Light DMG 6 times to the enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/74/True_Alpheratz.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/True_Alpheratz"
+      },
+      {
         "name": "Tsukijo",
         "element": "Light",
         "rarity": "UR",
@@ -22448,6 +22520,31 @@
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/3/3c/Zeus.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Zeus"
+      },
+      {
+        "name": "Divine Alpheratz",
+        "element": "Light",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Andromeda Lance",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Light DMG 12 times to the enemy / 15% chance\nMax Level Effect: Deal 350% Light DMG 12 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Second Skill: Andromeda Lance",
+            "value": "Activations: 1\nEffect: All Light allies' ATK 400% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Andromeda Lance",
+            "value": "Activations: 1\nMin Level Effect: Deal 350% Light DMG 13 times to the enemy / 15% chance\nMax Level Effect: Deal 400% Light DMG 13 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Andromeda Lance",
+            "value": "Activations: 1\nEffect: All Light allies' ATK 400% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/9b/Divine_Alpheratz.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Divine_Alpheratz"
       },
       {
         "name": "Holly",
@@ -24693,6 +24790,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Elisabeth"
       },
       {
+        "name": "Erakis",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Pretty Priestess",
+            "value": "Activations: 1\nMin Level Effect: Deal 40% Dark DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 40% Dark DMG 4 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Pretty Priestess",
+            "value": "Activations: 1\nMin Level Effect: Deal 40% Dark DMG 5 times to the enemy / 10% chance\nMax Level Effect: Deal 40% Dark DMG 5 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/eb/Erakis.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Erakis"
+      },
+      {
         "name": "Evelyne",
         "element": "Dark",
         "rarity": "SR",
@@ -24704,6 +24818,23 @@
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/e/ea/Evelyne.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Evelyne"
+      },
+      {
+        "name": "Farris",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Test Chemicals",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Dark DMG to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: Deal 100% Dark DMG to all enemies / Unable to move 3 turns / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Test Chemicals",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Dark DMG to all enemies / Unable to move 3 turns / 20% chance\nMax Level Effect: Deal 150% Dark DMG to all enemies / Unable to move 3 turns / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/dd/Farris.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Farris"
       },
       {
         "name": "Flu",
@@ -25857,6 +25988,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Sorbet"
       },
       {
+        "name": "Star Erakis",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Pretty Priestess",
+            "value": "Activations: 1\nMin Level Effect: Deal 40% Dark DMG 5 times to the enemy / 10% chance\nMax Level Effect: Deal 40% Dark DMG 5 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Pretty Priestess",
+            "value": "Activations: 1\nEffect: All Dark allies' ATK 50% up / 50% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/01/Star_Erakis_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Star_Erakis"
+      },
+      {
         "name": "Subleader One",
         "element": "Dark",
         "rarity": "SR",
@@ -26287,6 +26435,23 @@
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/2/2d/Alien_Maxwell.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Alien_Maxwell"
+      },
+      {
+        "name": "Almach",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Peppy Jump",
+            "value": "Activations: 3\nMin Level Effect: Deal 400% Dark DMG to all enemies / Unable to move 4 turns / 15% chance\nMax Level Effect: Deal 500% Dark DMG to all enemies / Unable to move 4 turns / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Peppy Jump",
+            "value": "Activations: 3\nMin Level Effect: Deal 500% Dark DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Deal 600% Dark DMG to all enemies / Unable to move 4 turns / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/19/Almach.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Almach"
       },
       {
         "name": "Amduscias",
@@ -28024,6 +28189,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Merkur"
       },
       {
+        "name": "Mirach",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Passive Jump",
+            "value": "Activations: 2\nMin Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Dark allies / 10% chance\nMax Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Dark allies / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Passive Jump",
+            "value": "Activations: 2\nMin Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Dark allies / 15% chance\nMax Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Dark allies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/98/Mirach.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Mirach"
+      },
+      {
         "name": "Moloch",
         "element": "Dark",
         "rarity": "UR",
@@ -28760,6 +28942,40 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Spirit_Lantern"
       },
       {
+        "name": "Star Almach",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Peppy Jump",
+            "value": "Activations: 3\nMin Level Effect: Deal 500% Dark DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Deal 600% Dark DMG to all enemies / Unable to move 4 turns / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Peppy Jump",
+            "value": "Activations: 1\nEffect: 【Autoskill】When own soldiers fall below a certain amount, all allies recover 100% / 50% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/74/Star_Almach_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Star_Almach"
+      },
+      {
+        "name": "Star Mirach",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Passive Jump",
+            "value": "Activations: 2\nMin Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Dark allies / 15% chance\nMax Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Dark allies / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Passive Jump",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/46/Star_Mirach_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Star_Mirach"
+      },
+      {
         "name": "Starlight",
         "element": "Dark",
         "rarity": "UR",
@@ -29469,6 +29685,19 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Medal_Girl_(SR)"
       },
       {
+        "name": "Meteoric Lance",
+        "element": "Special",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Meteoric Lance",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d4/Meteoric_Lance_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Meteoric_Lance"
+      },
+      {
         "name": "Mirror Maiden (SR)",
         "element": "Special",
         "rarity": "SR",
@@ -29534,6 +29763,19 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Slime_Queen"
       },
       {
+        "name": "Stellar Tiara",
+        "element": "Special",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Stellar Tiara",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/48/Stellar_Tiara.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Stellar_Tiara"
+      },
+      {
         "name": "Swordsmith's Jewel",
         "element": "Special",
         "rarity": "SR",
@@ -29545,6 +29787,19 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/f0/Swordsmith%27s_Jewel.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Swordsmith%27s_Jewel"
+      },
+      {
+        "name": "Azure Vest",
+        "element": "Special",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Azure Vest",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/42/Azure_Vest.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Azure_Vest"
       },
       {
         "name": "Blazing Necklace",
@@ -29625,6 +29880,19 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Mirror_Maiden_(UR)"
       },
       {
+        "name": "Scarlet Vest",
+        "element": "Special",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Scarlet Vest",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/28/Scarlet_Vest.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Scarlet_Vest"
+      },
+      {
         "name": "Slime Queen＋",
         "element": "Special",
         "rarity": "UR",
@@ -29688,6 +29956,19 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/5f/Royal_Tiara.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Royal_Tiara"
+      },
+      {
+        "name": "Stellar Lance",
+        "element": "Special",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Stellar Lance",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/1a/Stellar_Lance.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Stellar_Lance"
       },
       {
         "name": "War Goddess Dress",
