@@ -20487,6 +20487,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Frostbite"
       },
       {
+        "name": "Furyu",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Redstorm Lance",
+            "value": "Activations: 1\nMin Level Effect: All Light allies' ATK • DEF 200% up / 10% chance\nMax Level Effect: All Light allies' ATK • DEF 200% up / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Redstorm Lance",
+            "value": "Activations: 1\nMin Level Effect: All Light allies' ATK • DEF 300% up / 15% chance\nMax Level Effect: All Light allies' ATK • DEF 300% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/6f/Furyu.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Furyu"
+      },
+      {
         "name": "Fusehime",
         "element": "Light",
         "rarity": "UR",
@@ -29439,6 +29456,31 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/af/Karma.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Karma"
+      },
+      {
+        "name": "Lil' Crimson Eyes",
+        "element": "Dark",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Crimson Tempest",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Dark DMG 10 times to the enemy / 5% chance\nMax Level Effect: Deal 100% Dark DMG 10 times to the enemy / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Crimson Tempest",
+            "value": "Activations: 1\nEffect: 【Autoskill】Deal DMG to each enemy equivalent to 40% of that enemy's remaining soldiers after a successful attack / 30% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Crimson Tempest",
+            "value": "Activations: 4\nMin Level Effect: Deal 100% Dark DMG 12 times to the enemy / 10% chance\nMax Level Effect: Deal 100% Dark DMG 12 times to the enemy / 35% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Crimson Tempest",
+            "value": "Activations: 3\nEffect: 【Autoskill】Deal DMG to each enemy equivalent to 45% of that enemy's remaining soldiers after a successful attack / 35% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/44/Lil%27_Crimson_Eyes.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Lil%27_Crimson_Eyes"
       },
       {
         "name": "Roskva &amp; Thialfi",
