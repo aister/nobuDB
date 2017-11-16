@@ -4221,6 +4221,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Sacred_Fire"
       },
       {
+        "name": "Salir",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Lost Magic",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 3 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Lost Magic",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 3 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/82/Salir.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Salir"
+      },
+      {
         "name": "Scathach",
         "element": "Passion",
         "rarity": "SR",
@@ -4856,6 +4873,23 @@
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/6/60/Bounty_Knight.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Bounty_Knight"
+      },
+      {
+        "name": "Brook",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Whimsical Smile",
+            "value": "Activations: 1\nMin Level Effect: Deal 40% Passion DMG 7 times to the enemy / 10% chance\nMax Level Effect: Deal 40% Passion DMG 7 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Whimsical Smile",
+            "value": "Activations: 1\nMin Level Effect: Deal 50% Passion DMG 10 times to the enemy / 10% chance\nMax Level Effect: Deal 50% Passion DMG 10 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/55/Brook.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Brook"
       },
       {
         "name": "Bumpkin",
@@ -5544,6 +5578,23 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/5/53/Furries.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Furries"
+      },
+      {
+        "name": "Gianna",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Flying Compass",
+            "value": "Activations: 1\nMin Level Effect: All Passion allies' ATK 600% up / 15% chance\nMax Level Effect: All Passion allies' ATK 600% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Flying Compass",
+            "value": "Activations: 1\nMin Level Effect: All Passion allies' ATK 650% up / 15% chance\nMax Level Effect: All Passion allies' ATK 650% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/8c/Gianna.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Gianna"
       },
       {
         "name": "Gilgamesh",
@@ -11861,6 +11912,19 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Scarlet_Hades"
       },
       {
+        "name": "Scue",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Bottled Panacea",
+            "value": "Activations: 1\nMin Level Effect: All Cool allies' ATK • DEF 50% up / 10% chance\nMax Level Effect: All Cool allies' ATK • DEF 50% up / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/aa/Scue.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Scue"
+      },
+      {
         "name": "Seashell",
         "element": "Cool",
         "rarity": "SR",
@@ -12168,6 +12232,19 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/1/16/Stylist.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Stylist"
+      },
+      {
+        "name": "Sukis",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Wham Blade",
+            "value": "Activations: 1\nMin Level Effect: Fully resurrect a single ally / 10% chance\nMax Level Effect: Fully resurrect a single ally / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/28/Sukis.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Sukis"
       },
       {
         "name": "Super Chimry (Cool)",
@@ -13692,6 +13769,19 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Folk_Singer"
       },
       {
+        "name": "Formal Sucia",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Wave of Calamity",
+            "value": "Activations: Infinite\nMin Level Effect: Deal 300% DMG to all enemies / 15% chance\nMax Level Effect: Deal 400% DMG to all enemies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/da/Formal_Sucia_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Formal_Sucia"
+      },
+      {
         "name": "Foxie",
         "element": "Cool",
         "rarity": "UR",
@@ -14278,6 +14368,23 @@
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/f/f4/Master_Sparky_H.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Master_Sparky"
+      },
+      {
+        "name": "Minister Sucia",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Telepathic Love",
+            "value": "Activations: 2\nMin Level Effect: Deal 200% DMG to all enemies / 15% chance\nMax Level Effect: Deal 300% DMG to all enemies / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Telepathic Love",
+            "value": "Activations: 2\nMin Level Effect: Deal 300% DMG to all enemies / 15% chance\nMax Level Effect: Deal 350% DMG to all enemies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/f5/Minister_Sucia.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Minister_Sucia"
       },
       {
         "name": "Mithra",
@@ -15396,6 +15503,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Windup"
       },
       {
+        "name": "Wirbel",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Arrow Trap",
+            "value": "Activations: 4\nMin Level Effect: 【Autoskill】Own ATK 50% up after every attack / Max 4 times\nMax Level Effect: 【Autoskill】Own ATK 60% up after every attack / Max 4 times\n"
+          },
+          {
+            "name": "Awoken: ☆Arrow Trap",
+            "value": "Activations: 4\nMin Level Effect: 【Autoskill】Own ATK 60% up after every attack / Max 4 times\nMax Level Effect: 【Autoskill】Own ATK 70% up after every attack / Max 4 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/7e/Wirbel.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Wirbel"
+      },
+      {
         "name": "Ying Long",
         "element": "Cool",
         "rarity": "UR",
@@ -15532,6 +15656,31 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/8/83/Holy_Angel.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Holy_Angel"
+      },
+      {
+        "name": "Krene",
+        "element": "Cool",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Soothing Spring",
+            "value": "Activations: 1\nMin Level Effect: Deal 1000% Cool DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 1000% Cool DMG 4 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Second Skill: Soothing Spring",
+            "value": "Activations: 3\nEffect: 【Autoskill】When own soldiers fall below a certain amount, all allies recover 100% / 30% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Soothing Spring",
+            "value": "Activations: 1\nMin Level Effect: Deal 1200% Cool DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 1200% Cool DMG 4 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Soothing Spring",
+            "value": "Activations: 3\nEffect: 【Autoskill】When own soldiers fall below a certain amount, all allies recover 100% / 40% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/c0/Krene.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Krene"
       },
       {
         "name": "Lord Leviathan",
@@ -22635,8 +22784,8 @@
             "value": "Activations: 1\nEffect: 【Autoskill】Resurrect and fully recover all allies after an attack / 60% chance / Max 1 time"
           }
         ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/3f/Joan_Of_Arc.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Joan_Of_Arc"
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/4b/Jodie_Adventurer.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Jodie_Adventurer"
       },
       {
         "name": "Lazy Alchemist",
