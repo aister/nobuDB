@@ -2728,6 +2728,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Amphis"
       },
       {
+        "name": "Amy",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Greedy Guile",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 3 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Greedy Guile",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 3 turn(s) / 20% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/2a/Amy.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Amy"
+      },
+      {
         "name": "Anna",
         "element": "Passion",
         "rarity": "SR",
@@ -4068,6 +4085,23 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/b/bb/Poltergeist.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Poltergeist"
+      },
+      {
+        "name": "Precious Amy",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Greedy Guile",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 3 turn(s) / 20% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Greedy Guile",
+            "value": "Activations: 1\nEffect: 【Autoskill】When own soldiers fall below a certain amount, all allies recover 30% / 50% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/33/Precious_Amy_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Precious_Amy"
       },
       {
         "name": "Princess",
@@ -5955,6 +5989,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Kinkan"
       },
       {
+        "name": "Klein",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Praise Power",
+            "value": "Activations: 1\nMin Level Effect: Deal 400% DMG to a single enemy with a simultaneous attack by all Passion allies / 10% chance\nMax Level Effect: Deal 450% DMG to a single enemy with a simultaneous attack by all Passion allies / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Praise Power",
+            "value": "Activations: 1\nMin Level Effect: Deal 450% DMG to a single enemy with a simultaneous attack by all Passion allies / 15% chance\nMax Level Effect: Deal 500% DMG to a single enemy with a simultaneous attack by all Passion allies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/1e/Klein.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Klein"
+      },
+      {
         "name": "Kruenelle",
         "element": "Passion",
         "rarity": "UR",
@@ -6038,6 +6089,40 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/5/5d/Lapis.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Lapis"
+      },
+      {
+        "name": "Lapis Lazuli",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Detective's Sense",
+            "value": "Activations: 3\nMin Level Effect: Deal 400% Passion DMG to all enemies / Unable to move 4 turns / 15% chance\nMax Level Effect: Deal 500% Passion DMG to all enemies / Unable to move 4 turns / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Detective's Sense",
+            "value": "Activations: 3\nMin Level Effect: Deal 500% Passion DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Deal 600% Passion DMG to all enemies / Unable to move 4 turns / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/9f/Lapis_Lazuli.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Lapis_Lazuli"
+      },
+      {
+        "name": "Laudable Klein",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Max Praise Power",
+            "value": "Activations: 1\nMin Level Effect: Deal 500% DMG to a single enemy with a simultaneous attack by all Passion allies / 15% chance\nMax Level Effect: Deal 550% DMG to a single enemy with a simultaneous attack by all Passion allies / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Praise Power",
+            "value": "Activations: 1\nEffect: 【Autoskill】Deal 250% Passion DMG to all enemies after an attack / Unable to move 2 turns / Can't be nullified / 30% chance / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/13/Laudable_Klein_G.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Laudable_Klein"
       },
       {
         "name": "Launcher",
@@ -6712,6 +6797,40 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Praline"
       },
       {
+        "name": "Precious Lazuli",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Detective's Sense",
+            "value": "Activations: 3\nMin Level Effect: Deal 500% Passion DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Deal 600% Passion DMG to all enemies / Unable to move 4 turns / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Detective's Sense",
+            "value": "Activations: 1\nEffect: 【Autoskill】Skill nullification of any enemy skills / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/79/Precious_Lazuli_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Precious_Lazuli"
+      },
+      {
+        "name": "Precious Quoise",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Sweet Thinker",
+            "value": "Activations: 1\nMin Level Effect: All allies' ATK 500% up / 15% chance\nMax Level Effect: All allies' ATK 600% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Sweet Thinker",
+            "value": "Activations: 1\nEffect: 【Autoskill】All enemies' ATK 30% down after a successful attack / 100% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/75/Precious_Quoise_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Precious_Quoise"
+      },
+      {
         "name": "President Nina",
         "element": "Passion",
         "rarity": "UR",
@@ -7252,6 +7371,23 @@
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/9/93/The_Stupendous_Robin.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/The_Stupendous_Robin"
+      },
+      {
+        "name": "Turquoise",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Sweet Thinker",
+            "value": "Activations: 1\nMin Level Effect: All allies' ATK 400% up / 10% chance\nMax Level Effect: All allies' ATK 500% up / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Sweet Thinker",
+            "value": "Activations: 1\nMin Level Effect: All allies' ATK 500% up / 15% chance\nMax Level Effect: All allies' ATK 600% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/aa/Turquoise.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Turquoise"
       },
       {
         "name": "Toy Box",
@@ -11675,6 +11811,19 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Pemphredo"
       },
       {
+        "name": "Petitrite",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Holy Watering Can",
+            "value": "Activations: 2\nMin Level Effect: Unleash a single ally's skill / 10% chance\nMax Level Effect: Unleash a single ally's skill / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/fe/Petitrite.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Petitrite"
+      },
+      {
         "name": "Phanuel",
         "element": "Cool",
         "rarity": "SR",
@@ -13417,8 +13566,8 @@
             "value": "Activations: 2\nEffect: 【Autoskill】 All Cool allies' ATK • DEF 50% up during every turn"
           }
         ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/b/b5/Dark_Succubus.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Dark_Succubus"
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/7e/Dark_Tome_Mia_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Dark_Tome_Mia"
       },
       {
         "name": "Delusion",
@@ -14184,6 +14333,23 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/0/02/Krueger.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Krueger"
+      },
+      {
+        "name": "Lady Spinel",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Crystal Orb",
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 15% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Crystal Orb",
+            "value": "Activations: 1\nEffect: 【Autoskill】Deal DMG to each enemy equivalent to 15% of that enemy's remaining soldiers after a successful attack / 20% chance / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/22/Lady_Spinel_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Lady_Spinel"
       },
       {
         "name": "Landscaper",
@@ -15009,6 +15175,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Spell_Master"
       },
       {
+        "name": "Spinel",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Crystal Guardian",
+            "value": "Activations: 2\nMin Level Effect: Unleash a single ally's skill / 20% chance\nMax Level Effect: Unleash a single ally's skill / 25% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Crystal Guardian",
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 5% chance\nMax Level Effect: Unleash all allies' skills / 10% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e7/Spinel.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Spinel"
+      },
+      {
         "name": "Suiren",
         "element": "Cool",
         "rarity": "UR",
@@ -15270,7 +15453,7 @@
           },
           {
             "name": "Awoken: ☆Alternate Memory",
-            "value": "Activations: 1\nMin Level Effect: Deal 400% Cool DMG 6 times to the enemy / 10% chance\nMax Level Effect: Deal 400% Cool DMG 4 times to the enemy / 15% chance"
+            "value": "Activations: 1\nMin Level Effect: Deal 400% Cool DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 400% Cool DMG 4 times to the enemy / 15% chance"
           }
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d8/True_Tome_Mia.png",
@@ -15556,6 +15739,31 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/6c/Arava.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Arava"
+      },
+      {
+        "name": "Azurite",
+        "element": "Cool",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Crystal Breath",
+            "value": "Activations: 2\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Crystal Breath",
+            "value": "Activations: 1\nEffect: 【Autoskill】 Deal DMG to each enemy equivalent to 20% of that enemy's remaining soldiers after a successful attack / 20% chance / Max 1 time\n"
+          },
+          {
+            "name": "Awoken: ☆Crystal Breath",
+            "value": "Activations: 2\nMin Level Effect: Unleash all allies' skills / 15% chance\nMax Level Effect: Unleash all allies' skills / 35% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Crystal Breath",
+            "value": "Activations: 1\nEffect: 【Autoskill】 Deal DMG to each enemy equivalent to 20% of that enemy's remaining soldiers after a successful attack / 30% chance / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/ee/Azurite.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Azurite"
       },
       {
         "name": "Bright Amaterasu",
@@ -22671,6 +22879,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Yggdrasil"
       },
       {
+        "name": "Yuzuriha",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Side Ear Rod",
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Light DMG to all enemies / Unable to move 3 turns / 30% chance\nMax Level Effect: Deal 300% Light DMG to all enemies / Unable to move 3 turns / 45% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Side Ear Rod",
+            "value": "Activations: 2\nMin Level Effect: Deal 350% Light DMG to all enemies / Unable to move 3 turns / 45% chance\nMax Level Effect: Deal 400% Light DMG to all enemies / Unable to move 3 turns / 55% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d8/Yuzuriha.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Yuzuriha"
+      },
+      {
         "name": "Zeus",
         "element": "Light",
         "rarity": "UR",
@@ -26334,6 +26559,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Trident"
       },
       {
+        "name": "Vallee",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Prison Chains",
+            "value": "Activations: 2\nMin Level Effect: Unleash a single ally's skill / 30% chance\nMax Level Effect: Unleash a single ally's skill / 35% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Prison Chains",
+            "value": "Activations: 2\nMin Level Effect: Unleash a single ally's skill / 30% chance\nMax Level Effect: Unleash a single ally's skill / 40% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/52/Vallee.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Vallee"
+      },
+      {
         "name": "Vampire",
         "element": "Dark",
         "rarity": "SR",
@@ -29457,6 +29699,31 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Zhong_Kui"
       },
       {
+        "name": "Aisling",
+        "element": "Dark",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Ultimate Rod",
+            "value": "Activations: 4\nMin Level Effect: Resurrect and fully recover all allies / 15% chance\nMax Level Effect: Resurrect and fully recover all allies / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Ultimate Rod",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill / 30% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Ultimate Rod",
+            "value": "Activations: 4\nMin Level Effect: Resurrect and fully recover all allies / 30% chance\nMax Level Effect: Resurrect and fully recover all allies / 35% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Ultimate Rod",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill / 50% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/25/Aisling.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Aisling"
+      },
+      {
         "name": "Deep Succubus",
         "element": "Dark",
         "rarity": "LR",
@@ -29824,32 +30091,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Gold_Girl_(SR)"
       },
       {
-        "name": "Kaede Shard (Yang)",
-        "element": "Special",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Kaede Shard (Yang)",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/da/Kaede_Shard_%28Yang%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Kaede_Shard_(Yang)"
-      },
-      {
-        "name": "Kaede Shard (Yin)",
-        "element": "Special",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Kaede Shard (Yin)",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/ed/Kaede_Shard_%28Yin%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Kaede_Shard_(Yin)"
-      },
-      {
         "name": "Laevatein",
         "element": "Special",
         "rarity": "SR",
@@ -29913,6 +30154,19 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/75/Ruby_Crest.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Ruby_Crest"
+      },
+      {
+        "name": "Seed Of Hope",
+        "element": "Special",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Seed of Hope",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/96/Seed_Of_Hope.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Seed_Of_Hope"
       },
       {
         "name": "Serpent Slayer",
@@ -29980,6 +30234,19 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Swordsmith%27s_Jewel"
       },
       {
+        "name": "Water Of Grace",
+        "element": "Special",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Water of Grace",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/7e/Water_Of_Grace_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Water_Of_Grace"
+      },
+      {
         "name": "Azure Vest",
         "element": "Special",
         "rarity": "UR",
@@ -30017,6 +30284,19 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/fd/Blazing_Ornament.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Blazing_Ornament"
+      },
+      {
+        "name": "Crystal Ore",
+        "element": "Special",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Crystal Ore",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/85/Crystal_Ore.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Crystal_Ore"
       },
       {
         "name": "Dandelion Dress",
@@ -30071,6 +30351,19 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Mirror_Maiden_(UR)"
       },
       {
+        "name": "Sage Dress",
+        "element": "Special",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Sage Dress",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d6/Sage_Dress.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Sage_Dress"
+      },
+      {
         "name": "Scarlet Vest",
         "element": "Special",
         "rarity": "UR",
@@ -30108,6 +30401,19 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/62/War_Maiden_Weapon.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/War_Maiden_Weapon"
+      },
+      {
+        "name": "Crystal Dragon",
+        "element": "Special",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Crystal Dragon",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/68/Crystal_Dragon.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Crystal_Dragon"
       },
       {
         "name": "Flaming Laevatein",
