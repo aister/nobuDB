@@ -1,0 +1,229 @@
+{
+  "B1": {
+    "name": "Yggdrasil Seed (世界樹の種)",
+    "drop": [
+      {
+        "name": "Orleans",
+        "value": "Jula (ジュラ)\nBordeaux (ボルドー)"
+      },
+      {
+        "name": "Rome",
+        "value": "Britannia (ブリタニア)"
+      },
+      {
+        "name": "Okeanos",
+        "value": "Caldera Island (カルデラの島)\nBountiful Sea (豊かな海)"
+      },
+      {
+        "name": "America",
+        "value": "Des Moines (デモイン)\nBountiful Sea (豊かな海)"
+      },
+      {
+        "name": "Babylonia",
+        "value": "Abandoned City Babylon (廃都バビロン)\nNorthern Hill (北の高台)\nBlack Cedar Forest(黒い杉の森)\nUr (ウル)\nPlateau (高原)\nMount Ebih (エビフ山)\nTemple of Fresh Blood (鮮血神殿)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Campsite (野営地)\nRiverside Town (川辺の町)\nJungle at the Foothills (山裾の密林)\nSubterranean River (地底大河)\nEl Dorado (エルドラド)"
+      },
+      {
+        "name": "Shimousa",
+        "value": "Farm (田んぼ)\nVillage (里)\nJungle at the Foothills (山裾の密林)\nSubterranean River (地底大河)\nEl Dorado (エルドラド)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Archer Training Ground (All except 10AP)\nLancer Training Ground (All except 10AP)\nAssassin Training Ground (All except 10AP)\nSaber Training Ground (All except 10AP)"
+      }
+    ],
+    "img": "http://vignette1.wikia.nocookie.net/fategrandorder/images/4/41/Yggdrasil_seed.png"
+  },
+  "B2": {
+    "name": "Ghost Lantern (ゴーストランタン)",
+    "drop": [
+      {
+        "name": "Rome",
+        "value": "Mt. Etna (エトナ火山)"
+      },
+      {
+        "name": "Okeanos",
+        "value": "Stormy Seas (嵐の海域)"
+      },
+      {
+        "name": "Camelot",
+        "value": "Evening Bell Mausoleum (晩鐘廟)"
+      },
+      {
+        "name": "Babylonia",
+        "value": "Cuthah (クタ)"
+      },
+      {
+        "name": "Shimousa",
+        "value": "Farm (田んぼ)\nHermitage (庵)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Assassin Training Ground (All levels)"
+      }
+    ],
+    "img": "http://vignette1.wikia.nocookie.net/fategrandorder/images/b/b1/Ghost_lantern.png"
+  },
+  "B3": {
+    "name": "Octuplet Twin Crystals (八連双晶)",
+    "drop": [
+      {
+        "name": "Rome",
+        "value": "Gaul (ガリア)\nAlliance Capital (連合首都)"
+      },
+      {
+        "name": "Okeanos",
+        "value": "Two-Current Sea (潮目の海)"
+      },
+      {
+        "name": "Camelot",
+        "value": "Holy City District (聖都市街)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Peach Blossom Village (桃源郷)"
+      },
+      {
+        "name": "Shimousa",
+        "value": "Mountain Behind (裏山)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Berserker Training Ground (All levels)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/8/84/Octuplet_twin_crystals.png"
+  },
+  "B4": {
+    "name": "Snake Jewel (蛇の宝玉)\n",
+    "drop": [
+      {
+        "name": "Okeanos",
+        "value": "Sunken Rock Seas (暗礁海域)"
+      },
+      {
+        "name": "Camelot",
+        "value": "Dune of Dawn (明けの砂丘)"
+      },
+      {
+        "name": "Babylon",
+        "value": "Marshland (湿原)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Fissure of the Land (大地の裂け目)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Caster Training Ground (All levels)"
+      }
+    ],
+    "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/2/28/Snake_jewel.png"
+  },
+
+  "B5": {
+    "name": "Phoenix Plume (鳳凰の羽根)",
+    "drop": [
+      {
+        "name": "Okeanos",
+        "value": "Bountiful Sea (豊かな海)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Campsite (野営地)\nRiverside Town (川辺の町)\nJungle at the Foothills (山裾の密林)\nSubterranean River (地底大河)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Archer Training Ground (All except 10AP)\nLancer Training Ground (30AP and 40AP)\nSaber Training Ground (30AP and 40AP)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/c/c4/Phoenix_plume.png"
+  },
+  "B6": {
+    "name": "Infinity Gear (無間の歯車)",
+    "drop": [
+      {
+        "name": "London",
+        "value": "Old Street (オールドストリート)\nWhite Chapel (ホワイトチャペル)\nSoho (ソーホー)\nRegent Park (リージェントパーク)\nClerkenwell (クラーケンウェル)"
+      },
+      {
+        "name": "America",
+        "value": "Black Hills (ブラックヒルズ)\nDenver (デンバー)\nChicago (シカゴ)"
+      },
+      {
+        "name": "Shibuya",
+        "value": "Kabukicho (歌舞伎町)\nBarrel Tower (バレルタワー)\nParty Venue (パーティ会場)\nTower Top Floor (タワー最上階)"
+      }
+    ],
+    "img": "http://vignette1.wikia.nocookie.net/fategrandorder/images/d/d5/Infinity_gear.png"
+  },
+  "B7": {
+    "name": "Forbidden Page (禁断の頁)",
+    "drop": [
+      {
+        "name": "London",
+        "value": "Regent Park (リージェントパーク)\nHyde Park (ハイドパーク)"
+      },
+      {
+        "name": "Camelot",
+        "value": "Atlas Academy (アトラス院)"
+      },
+      {
+        "name": "Shibuya",
+        "value": "Shinjuku 2-Choume (新宿二丁目)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/e/e6/Forbidden_page.png"
+  },
+  "B8": {
+    "name": "Homunculus Baby (ホムンクルスベビー)",
+    "drop": [
+      {
+        "name": "London",
+        "value": "City of London (シティ・オブ・ロンドン)\nSoho (ソーホー)\nWestminster (ウェストミンスター)\nSouthwark (サザーク)"
+      }
+    ],
+    "img": "http://vignette4.wikia.nocookie.net/fategrandorder/images/3/3c/Homunculus_baby.png"
+  },
+  "B9": {
+    "name": "Meteoric Horseshoe (隕蹄鉄)",
+    "drop": [
+      {
+        "name": "Okeanos",
+        "value": "Caldera Island (カルデラの島)"
+      },
+      {
+        "name": "Camelot",
+        "value": "Vast Land of Nothingness (無の大地)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/3/34/Meteoric_horseshoe.png"
+  },
+  "B10": {
+    "name": "Great Knight Medal (大騎士勲章)",
+    "drop": [
+      {
+        "name": "Camelot",
+        "value": "Holy City Main Gates (聖都正門)\n Fortress of the Round Table (円卓の砦)\nRoyal Castle (王城)"
+      }
+    ],
+    "img": "http://vignette1.wikia.nocookie.net/fategrandorder/images/6/67/Medal_of_Great_Knight.png"
+  },
+  "B11": {
+    "name": "Shell of Recollection (追憶の貝殻)",
+    "drop": [
+      {
+        "name": "Okeanos",
+        "value": "Archipelago - Hidden Island (群島 - 隠された島)"
+      },
+      {
+        "name": "Babylon",
+        "value": "Observatory (観測所)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/e/eb/Seashell.png"
+  }
+}
