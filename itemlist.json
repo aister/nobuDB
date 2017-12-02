@@ -1,4 +1,190 @@
 {
+  "A1": {
+    "name": "Hero's Proof (英雄の証)",
+    "drop": [
+      {
+        "name": "Orleans",
+        "value": "Domremy (ドンレミ)\nLa Charite (ラ・シャリテ)\nLyon (リヨン)\nMarseilles (マルセイユ)"
+      },
+      {
+        "name": "Rome",
+        "value": "Appia Road (アッビア街道)\nRome (ローマ)\nFlorence (フロレンティア)\nMediolanum (メディオラヌム)\nMassilia (マッシリア)\nGaul (ガリア)\nAlliance Capital (連合首都)"
+      },
+      {
+        "name": "Okeanos",
+        "value": "Pirate Ship (海賊船)\nPirate Island (海賊島)\nKing's Abode Island (王の住まう島)\nTwo-Current Sea (潮目の海)\nArchipelago - Quiet Bay(群島 - 静かな入り江)"
+      },
+      {
+        "name": "America",
+        "value": "Riverton (リバートン)\nLubbock (ラボック)\nDallas (ダラス)\nAlexandria (アレクサンドリア)\nAlcatraz (アルカトラズ)\nKearney (カーニー)\nMontgomery (モントゴメリー)\nCharlotte (シャーロット)\nWashington (ワシントン)"
+      },
+      {
+        "name": "Camelot",
+        "value": "Fortress of the Round Table (円卓の砦)\nHoly City District (聖都市街)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Ys (イース)\nDragon Imperial Palace (竜宮城)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "All of Saber, Archer, Lancer and Berserker Training Ground"
+      }
+    ],
+    "img": "http://vignette1.wikia.nocookie.net/fategrandorder/images/a/a7/Heros_proof.png"
+  },
+  "A2": {
+    "name": "Unlucky Bones (凶骨)",
+    "drop": [
+      {
+        "name": "Fuyuki",
+        "value": "All stages except Mobile Coordinate No.0 (変動座標点0号)"
+      },
+      {
+        "name": "Orleans",
+        "value": "Vaucouleurs (ヴォークルール)\nOrleans (オルレアン)\nParis (パリ)"
+      },
+      {
+        "name": "Rome",
+        "value": "Germania (ゲルマニア)\nShapely Island (形ある島)"
+      },
+      {
+        "name": "Okeanos",
+        "value": "Sunken Rock Seas (暗礁海域)"
+      },
+      {
+        "name": "London",
+        "value": "Clerkenwell (クラーケンウェル)\nSouthwark (サザーク)\nHyde Park (ハイドパーク)"
+      },
+      {
+        "name": "Camelot",
+        "value": "Desert Sandstorm (砂嵐の砂漠)"
+      },
+      {
+        "name": "Shimousa",
+        "value": "Battlefield (合戦場)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Lancer and Archer Training Ground (10AP and 20AP)\nSaber Training Ground (10AP)"
+      }
+    ],
+    "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/c/ca/Unlucky_bone.png"
+  },
+  "A3": {
+    "name": "Dragon Fang (竜の牙)",
+    "drop": [
+      {
+        "name": "Fuyuki",
+        "value": "Mobile Coordinate No.0 (変動座標点0号)"
+      },
+      {
+        "name": "Orleans",
+        "value": "Vaucouleurs (ヴォークルール)\nLa Charite (ラ・シャリテ)\nJula (ジュラ)\nThiers (ティエール)\nOrleans (オルレアン)\nParis (パリ)"
+      },
+      {
+        "name": "Okeanos",
+        "value": "Mapped Island (地図に記された島)\nIsland of Wyverns (翼竜の島)\nArchipelago - Quiet Bay (群島 - 静かな入り江)"
+      },
+      {
+        "name": "America",
+        "value": "Deming (デミング)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Jungle at the Foothills (山裾の密林)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Archer Training Ground (10AP and 20AP)\nAll Rider and Assassin Training Ground\nSaber Training Ground (10AP)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/6/6f/Dragon_fang.png"
+  },
+  "A4": {
+    "name": "Void's Refuse (虚影の塵)",
+    "drop": [
+      {
+        "name": "Fuyuki",
+        "value": "Unknown Coordinates X-E\nUnknown Coordinates X-F\nUnknown Coordinates X-G\nMobile Coordinate No.0"
+      },
+      {
+        "name": "Orleans",
+        "value": "Jula (ジュラ)\nLyon (リヨン)\nThiers (ティエール)\nOrleans (オルレアン)\nParis (パリ)"
+      },
+      {
+        "name": "Rome",
+        "value": "Appia Road (アッビア街道)\nMassilia (マッシリア)\nGaul (ガリア)\nShapely Island (形ある島)\nAlliance Capital (連合首都)"
+      },
+      {
+        "name": "Okeanos",
+        "value": "Pirate Island (海賊島)\nKing's Abode Island (王の住まう島)\nMapped Island (地図に記された島)\nArchipelago - Quiet Bay (群島 - 静かな入り江)"
+      },
+      {
+        "name": "London",
+        "value": "White Chapel (ホワイトチャペル)\nSoho (ソーホー)\nWestminster (ウェストミンスター)"
+      },
+      {
+        "name": "America",
+        "value": "Riverton (リバートン)\nDenver (デンバー)\nAlcatraz (アルカトラズ)\nDes Moines (デモイン)\nMontgomery (モントゴメリー)\nCharlotte (シャーロット)"
+      },
+      {
+        "name": "Camelot",
+        "value": "West Village Ruins (西の村跡)\nRoyal Castle (王城)"
+      },
+      {
+        "name": "Shinjuku",
+        "value": "National Highway 20 (国道20号)\nKabukicho (歌舞伎町)\nParty Venue (パーティ会場)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Ys (イース)\nFuyajo (不夜城)\nEl Dorado (エルドラド)"
+      },
+      {
+        "name": "Shimousa",
+        "value": "Village (里)\nBattlefield (合戦場)\nToke Castle (土気城)\nMountain Behind (裏山)\nArakawa Plains (荒川の原)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "All of Training Ground Missions"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/4/43/Voids_refuse.png"
+  },
+  "A5": {
+    "name": "Chain of Fools (愚者の鎖)",
+    "drop": [
+      {
+        "name": "Camelot",
+        "value": "Great Temple (大神殿)\nWastelands of Death (死の荒野)\nHidden Village (隠れ村)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Northern Cliff (北の断崖)\nFuyajo (不夜城)"
+      }
+    ],
+    "img": "http://vignette4.wikia.nocookie.net/fategrandorder/images/5/55/Chains_of_The_Fool.png"
+  },
+  "A6": {
+    "name": "Deadly Poison Stinger (万死の毒針)",
+    "drop": [
+      {
+        "name": "Babylon",
+        "value": "Plateau (高原)\nMarshland (湿原)\nReed Fields (葦の原)\nNorth Wall (北壁)\nNippur (ニップル)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/c/cc/Stinger_of_Certain_Death.png"
+  },
+  "A7": {
+    "name": "Magical Cerebrospinal Fluid (魔術髄液)",
+    "drop": [
+      {
+        "name": "Shinjuku",
+        "value": "Yoyogi 2-Choume (代々木二丁目)\nNational Highway 20 (国道20号)\nShinjuku Station (新宿駅)\nShinjuku 4-Choume (新宿四丁目)\nParty Venue (パーティ会場)\nShinjuku Imperial Garden (新宿御苑)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/b/bc/Magical_Cerebrospinal_Fluid_icon.png"
+  },
   "B1": {
     "name": "Yggdrasil Seed (世界樹の種)",
     "drop": [
@@ -16,7 +202,7 @@
       },
       {
         "name": "America",
-        "value": "Des Moines (デモイン)\nBountiful Sea (豊かな海)"
+        "value": "Des Moines (デモイン)"
       },
       {
         "name": "Babylonia",
@@ -225,5 +411,171 @@
       }
     ],
     "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/e/eb/Seashell.png"
+  },
+  "C1": {
+    "name": "Chaos Claw (混沌の爪)",
+    "drop": [
+      {
+        "name": "Rome",
+        "value": "Germania (ゲルマニア)"
+      },
+      {
+        "name": "America",
+        "value": "Des Moines (デモイン)"
+      },
+      {
+        "name": "Babylon",
+        "value": "Ur (ウル)"
+      },
+      {
+        "name": "Shinjuku",
+        "value": "Shinjuku 4-Choume (新宿四丁目)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Subterranean Plain (地底平原)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Berserker Training Ground (all except 10AP)"
+      }
+    ],
+    "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/6/67/Talon_of_chaos.png"
+  },
+  "C2": {
+    "name": "Heart of a Foreign God (蛮神の心臓)",
+    "drop": [
+      {
+        "name": "Shinjuku",
+        "value": "Shinjuku Imperial Garden (新宿御苑)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Caster Training Ground (30AP and 40AP)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/e/ec/Heart_of_a_foreign_god.png"
+  },
+  "C3": {
+    "name": "Dragon's Reverse Scale (竜の逆鱗)",
+    "drop": [
+      {
+        "name": "Babylon",
+        "value": "Nippur (ニップル)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Rider Training Ground (30AP and 40AP)"
+      }
+    ],
+    "img": "http://vignette1.wikia.nocookie.net/fategrandorder/images/c/c8/Dragons_reverse_scale.png"
+  },
+  "C4": {
+    "name": "Spirit Root (精霊根)",
+    "drop": [
+      {
+        "name": "America",
+        "value": "Washington (ワシントン)"
+      },
+      {
+        "name": "Camelot",
+        "value": "Holy City District (聖都市街)"
+      },
+      {
+        "name": "Shinjuku",
+        "value": "Tower Top Floor (タワー最上階)"
+      }
+    ],
+    "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/7/7b/Spiritroot.png"
+  },
+  "C5": {
+    "name": "War Horse's Small Horn (戦馬の幼角)",
+    "drop": [
+      {
+        "name": "America",
+        "value": "Kearney (カーニー)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Campsite (野営地)"
+      }
+    ],
+    "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/b/b9/Horsehorn.png"
+  },
+  "C6": {
+    "name": "Tear Stone of Blood (血の涙石)",
+    "drop": [
+      {
+        "name": "America",
+        "value": "Alexandria (アレクサンドリア)"
+      },
+      {
+        "name": "Shinjuku",
+        "value": "Shinjuku 2-Choume (国道20号)"
+      }
+    ],
+    "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/f/ff/Bloodtear.png"
+  },
+  "C7": {
+    "name": "Black Tallow (黒獣脂)",
+    "drop": [
+      {
+        "name": "America",
+        "value": "Lubbock (ラボック)"
+      },
+      {
+        "name": "Babylon",
+        "value": "Northern Hill (北の高台)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Northern Cliff (北の断崖)"
+      }
+    ],
+    "img": "http://vignette1.wikia.nocookie.net/fategrandorder/images/4/49/Blacktallow.png"
+  },
+  "C8": {
+    "name": "Lamp of Sealed Evil (封魔のランプ)",
+    "drop": [
+      {
+        "name": "Camelot",
+        "value": "Dune of Dawn (明けの砂丘)\nHidden Village (隠れ村)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/8/88/Lamp_of_Demon_Sealing.png"
+  },
+  "C9": {
+    "name": "Scarab of Wisdom (智慧のスカラベ)",
+    "drop": [
+      {
+        "name": "Camelot",
+        "value": "Desert Sandstorm (砂嵐の砂漠)\nGreat Temple (大神殿)"
+      }
+    ],
+    "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/c/c2/Scarab_of_Wisdom.png"
+  },
+  "C10": {
+    "name": "Primordial Lanugo (原初の産毛)",
+    "drop": [
+      {
+        "name": "Babylon",
+        "value": "Black Cedar Forest (黒い杉の森)\nNorth Wall (北壁)\nTemple of Fresh Blood (鮮血神殿)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/f/f6/Primordial_Lanugo.png"
+  },
+  "C11": {
+    "name": "Cursed Beast Gallstone (呪獣胆石)",
+    "drop": [
+      {
+        "name": "Babylon",
+        "value": "Mount Ebih (エビフ山)"
+      },
+      {
+        "name": "Shimousa",
+        "value": "Arakawa Plains (荒川の原)"
+      }
+    ],
+    "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/5/59/Cursed_Beast_Cholecyst.png"
   }
 }
