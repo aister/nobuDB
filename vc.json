@@ -14229,7 +14229,7 @@
             "value": "Activations: 1\nMin Level Effect: All Cool allies' element ATK 450% up / 15% chance\nMax Level Effect: All Cool allies' element ATK 450% up / 20% chance"
           }
         ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/5/53/Juliet.png",
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/53/Juliet.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Juliet"
       },
       {
@@ -23036,6 +23036,31 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/6/65/Lazy_Alchemist.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Lazy_Alchemist"
+      },
+      {
+        "name": "Sacred Pixie",
+        "element": "Light",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Calming Aura",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Light DMG 4 times to all enemies / 5% chance\nMax Level Effect: Deal 100% Light DMG 4 times to all enemies / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Calming Aura",
+            "value": "Activations: 1\nEffect: 【Autoskill】Own ATK 400% up after every attack / Max 1 time\n"
+          },
+          {
+            "name": "Awoken: ☆Calming Aura",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Light DMG 4 times to all enemies / 5% chance\nMax Level Effect: Deal 150% Light DMG 4 times to all enemies / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Calming Aura",
+            "value": "Activations: 1\nEffect: 【Autoskill】Own ATK 500% up after every attack / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/a5/Sacred_Pixie.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Sacred_Pixie"
       },
       {
         "name": "Sleepy Hades",
