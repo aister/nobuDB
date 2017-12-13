@@ -1,0 +1,46 @@
+.border {
+  margin: 10px auto 0;
+  padding: 0px;
+  border-color: #bcb2a3;
+  border-width: 1px;
+  border-style: solid;
+  background-color: #fff;
+  box-sizing: border-box;
+  box-shadow: 1px 1px 2px rgba(4,4,4,0.1);
+}
+.border > div {
+  position: relative;
+}
+.coordinate a {
+  display: block;
+  width: 130px;
+  height: 130px;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  box-sizing: border-box;
+  position: absolute;
+  text-decoration: none;
+  cursor: pointer;
+}
+.coordinate a .mapicon {
+  max-width: 90px;
+  max-height: 90px;
+  margin: 10px;
+}
+.coordinate a:hover .mapicon {
+  max-width: 100px;
+  max-height: 100px;
+  margin: 0 0 10px 0;
+}
+.coordinate a div {
+  font-size: 12px;
+  padding: 5px 10px;
+  margin-top: -5px;
+  background-image: url(http://fate-go.cirnopedia.org/icons/map/coordinate.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-family: 'robotoregular','メイリオ',Meiryo,'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','ＭＳ Ｐゴシック',sans-serif;
+}
