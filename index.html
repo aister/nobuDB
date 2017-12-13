@@ -1,0 +1,184 @@
+
+<style>
+  body {
+    background: #cacaca;
+  }
+  input {
+    display: block;
+    width: 100%;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+  }
+  button {
+    width: 100%;
+    padding: 5px 0;
+  }
+  h2, h3 {
+    margin: 0;
+    margin-top: 20px;
+  }
+  #header {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  #header div {
+    margin-top: 100px;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  #content {
+    background: white;
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-bottom: 100px;
+  }
+  #itemList {
+    display: none;
+  }
+  .item {
+    float: left;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    height: 100px;
+  }
+  .item div {
+    padding: 5px;
+    float: left;
+  }
+  .id {
+    width: 10%;
+    text-align: right;
+    font-weight: bold;
+  }
+  .thumb {
+    width: 30%;
+  }
+  .thumb img {
+    width: 100%;
+  }
+  .name {
+    width: 60%;
+  }
+  #itemToggle {
+    color: white;
+    background: #3c3c3c;
+    clear: both;
+    display: block;
+    padding: 10px 0;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 10px;
+  }
+  #result, #noresult {
+    display: none;
+  }
+  #thumbnail {
+    float: right;
+    height: 80px;
+    padding-left: 10px;
+  }
+  #title {
+    font-size: 25px;
+    margin: 0;
+    padding: 11.5px 0;
+    color: #525252;
+  }
+  #loading {
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: black;
+    transition: 0.8s;
+  }
+</style>
+<div id="header">
+  <div>FGO Item Drop list</div>
+  By Aister
+</div>
+<div id="content">
+  <div id="itemList"></div>
+  <a href="#" id="itemToggle" onclick="showItem(this)">Show Item List</a>
+  <form onsubmit="event.preventDefault(); search()" style="clear: both">
+    <input type="text" id="item">
+    <button type="submit">Search</button>
+  </form>
+  <div id="result">
+    <img id="thumbnail">
+    <h1 id="title"></h1>
+    <div id="list" style="clear: both"></div>
+  </div>
+  <div id="noresult">
+    <div style='font-size: 20px; text-align: center'>Can't find such item, please check your input again</div>
+  </div>
+</div>
+<div id="loading"></div>
+<script>
+  function ID (id) { return document.getElementById(id); }
+  let items = {};
+  function load() {
+    fetch('item.json').then(response => response.json()).then(result => {
+      items = result;
+      ID('loading').style.opacity = 0;
+      setTimeout(function() {
+        ID('loading').style.display = 'none';
+      }, 1000);
+      itemList();
+    });
+  }
+  load();
+  function showItem(obj) {
+    let itemList = ID('itemList');
+    if (itemList.style.display == "block") {
+      itemList.style.display = 'none';
+      obj.innerHTML = 'Show Item List';
+    } else {
+      itemList.style.display = 'block';
+      obj.innerHTML = 'Hide Item List';
+    }
+  }
+  function itemList() {
+    let itemList = [];
+    for (index in items) {
+      let item = items[index];
+      itemList.push(`<div class="id">${index}</div><div class="thumb"><img src="${item.img}"></div><div class="name">${item.name}</div>`);
+    }
+    ID('itemList').innerHTML = `<div class="item">${itemList.join('</div><div class="item">')}</div>`;
+  }
+  function search (searchTerm) {
+    ID('thumbnail').src = "";
+    ID('title').innerHTML = "";
+    ID('list').innerHTML = "";
+    let input = searchTerm || ID('item').value;
+    ID('item').value = "";
+    ID('item').blur();
+
+    if (!(item = items[input.toUpperCase()])) {
+      for (index in items) {
+        i = items[index];
+        if (i.name.toLowerCase().includes(input.toLowerCase())) {
+          input = index;
+          item = i;
+        }
+      }
+    } 
+    if (item) {
+      ID('title').innerHTML = `${item.name}<br>ID: ${input}`;
+      ID('thumbnail').src = item.img;
+      let html = item.location.map(function (item) {
+        return `<h3>${item.name}</h3><div>${item.value}</div>`;
+      });
+      ID('list').innerHTML = `<h2>Most efficient</h2><div>${item.AP}</div><h2>Highest Drop Rate</h2><div>${item.drop}</div><h2>Other Drop Locations</h2><div style="margin-left: 30px">${html.join('')}</div>`.replace(/\n/g, '<br>').replace(/\[[^)]+\)/g, '');
+      ID('result').style.display = 'block';
+      ID('noresult').style.display = 'none';
+    } else {
+      ID('noresult').style.display = 'block';
+      ID('result').style.display = 'none';
+    }
+    return false;
+  }
+</script>
