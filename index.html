@@ -1,4 +1,3 @@
-
 <style>
   body {
     background: #cacaca;
@@ -137,8 +136,10 @@
         itemList().then(function() {
           ID('loading').style.opacity = 0;
           setTimeout(function() {
-            ID('loading').style.display = 'none';
-          }, 1000);
+            setTimeout(function() {
+              ID('loading').style.display = 'none';
+            }, 1000);
+          }, 3000);
         });
       });
     });
