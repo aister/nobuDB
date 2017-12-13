@@ -1,3 +1,4 @@
+
 <style>
   body {
     background: #cacaca;
@@ -92,7 +93,6 @@
     left: 0;
     right: 0;
     background-color: black;
-    background-image: url('images/loading.gif');
     background-position: center;
     background-repeat: no-repeat;
     transition: 0.8s;
@@ -120,16 +120,27 @@
 </div>
 <div id="loading"></div>
 <script>
+  function loadImage(data) {
+    return new Promise(function (resolve, reject) {
+      let load = new Image();
+      load.onload = function() { resolve(data); }
+      load.src = data.img;
+    });
+  }
   function ID (id) { return document.getElementById(id); }
   let items = {};
   function load() {
-    fetch('item.json').then(response => response.json()).then(result => {
-      items = result;
-      ID('loading').style.opacity = 0;
-      setTimeout(function() {
-        ID('loading').style.display = 'none';
-      }, 1000);
-      itemList();
+    loadImage({img: 'images/loading.gif'}).then(data => {
+      ID('loading').style.backgroundImage = `url("${data.img}")`;      
+      fetch('item.json').then(response => response.json()).then(result => {
+        items = result;
+        itemList().then(function() {
+          ID('loading').style.opacity = 0;
+          setTimeout(function() {
+            ID('loading').style.display = 'none';
+          }, 1000);
+        });
+      });
     });
   }
   load();
@@ -144,12 +155,21 @@
     }
   }
   function itemList() {
-    let itemList = [];
-    for (index in items) {
-      let item = items[index];
-      itemList.push(`<div class="id">${index}</div><div class="thumb"><img src="${item.img}"></div><div class="name">${item.name}</div>`);
-    }
-    ID('itemList').innerHTML = `<div class="item">${itemList.join('</div><div class="item">')}</div>`;
+    return new Promise(function (resolve, reject) {
+      let itemList = [];
+      for (index in items) {
+        let item = items[index];
+        item.id = index;
+        itemList.push(loadImage(item));
+      }
+      Promise.all(itemList).then(function(item) {
+        itemList = item.map(function(index) {
+          return `<div class="id">${index.id}</div><div class="thumb"><img src="${index.img}"></div><div class="name">${index.name}</div>`
+        });
+        ID('itemList').innerHTML = `<div class="item">${itemList.join('</div><div class="item">')}</div>`;
+        resolve();
+      });
+    });
   }
   function search (searchTerm) {
     ID('thumbnail').src = "";
