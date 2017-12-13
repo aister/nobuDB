@@ -105,6 +105,64 @@
         background-repeat: no-repeat;
         transition: 0.8s;
       }
+      #map_container {
+        position: fixed;
+        background: #000000ab;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 1;
+        display: none;
+        opacity: 0;
+        transition: opacity 0.8s;
+      }
+      .border {
+        margin: 10px auto 0;
+        padding: 0px;
+        border-color: #bcb2a3;
+        border-width: 1px;
+        border-style: solid;
+        background-color: #fff;
+        box-sizing: border-box;
+        box-shadow: 1px 1px 2px rgba(4,4,4,0.1);
+      }
+      .border > div {
+        position: relative;
+      }
+      .coordinate a {
+        display: block;
+        width: 130px;
+        height: 130px;
+        color: #ffffff;
+        font-size: 16px;
+        font-weight: 400;
+        text-align: center;
+        box-sizing: border-box;
+        position: absolute;
+        text-decoration: none;
+        cursor: pointer;
+      }
+      .coordinate a .mapicon {
+        max-width: 90px;
+        max-height: 90px;
+        margin: 10px;
+      }
+      .coordinate a:hover .mapicon {
+        max-width: 100px;
+        max-height: 100px;
+        margin: 0 0 10px 0;
+      }
+      .coordinate a div {
+        font-size: 12px;
+        padding: 5px 10px;
+        margin-top: -5px;
+        background-image: url(http://fate-go.cirnopedia.org/icons/map/coordinate.png);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        font-family: 'robotoregular','メイリオ',Meiryo,'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','ＭＳ Ｐゴシック',sans-serif;
+      }
     </style>
   </head>
   <body>
@@ -129,6 +187,9 @@
       </div>
     </div>
     <div id="loading"></div>
+    <div id="map_container">
+      <div id="map"></div>
+    </div>
     <script>
       function loadImage(data) {
         return new Promise(function (resolve, reject) {
@@ -204,7 +265,8 @@
           ID('title').innerHTML = `${item.name}<br>ID: ${input}`;
           ID('thumbnail').src = item.img;
           let html = item.location.map(function (item) {
-            return `<h3>${item.name}</h3><div>${item.value}</div>`;
+            if (item.name != "Daily Missions")
+            return `<h3><a href="javascript: map('${item.name.toLowerCase()}');">${item.name}</a></h3><div>${item.value}</div>`;
           });
           ID('list').innerHTML = `<h2>Most efficient</h2><div>${item.AP}</div><h2>Highest Drop Rate</h2><div>${item.drop}</div><h2>Other Drop Locations</h2><div style="margin-left: 30px">${html.join('')}</div>`.replace(/\n/g, '<br>').replace(/\[[^)]+\)/g, '');
           ID('result').style.display = 'block';
@@ -215,6 +277,21 @@
           ID('result').style.display = 'none';
           ID('noresult').scrollIntoView();
         }
+      }
+      function map(location) {
+        fetch(`${location}.html`).then((result) => result.text()).then(function(result) {
+          ID('map').innerHTML = result;
+          ID('map_container').style.display = "block";
+          setTimeout(function() {
+            ID('map_container').style.opacity = 1;
+          }, 1);
+        });
+      }
+      ID('map_container').onclick = function() {
+        ID('map_container').style.opacity = 0;
+        setTimeout(function() {
+          ID('map_container').style.display = "none";
+        }, 1000);
       }
     </script>
   </body>
