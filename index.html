@@ -134,8 +134,8 @@
       fetch('item.json').then(response => response.json()).then(result => {
         items = result;
         itemList().then(function() {
-          ID('loading').style.opacity = 0;
           setTimeout(function() {
+            ID('loading').style.opacity = 0;
             setTimeout(function() {
               ID('loading').style.display = 'none';
             }, 1000);
