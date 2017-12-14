@@ -269,8 +269,8 @@
           ID('title').innerHTML = `${item.name}<br>ID: ${input}`;
           ID('thumbnail').src = item.img;
           let html = item.location.map(function (item) {
-            if (item.name != "Daily Missions")
-            return `<h3><a href="javascript: map('${item.name.toLowerCase()}');">${item.name}</a></h3><div>${item.value}</div>`;
+            if (item.name != "Daily Missions") return `<h3><a href="javascript: map('${item.name.toLowerCase()}');">${item.name}</a></h3><div>${item.value}</div>`;
+            else return `<h3>${item.name}</h3><div>${item.value}</div>`;
           });
           ID('list').innerHTML = `<h2>Most efficient</h2><div>${item.AP}</div><h2>Highest Drop Rate</h2><div>${item.drop}</div><h2>Other Drop Locations</h2><div style="margin-left: 30px">${html.join('')}</div>`.replace(/\n/g, '<br>').replace(/\[[^)]+\)/g, '');
           ID('result').style.display = 'block';
