@@ -2745,6 +2745,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Amy"
       },
       {
+        "name": "Anise",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Potion Experiment",
+            "value": "Activations: 1\nMin Level Effect: Min Level Effect: All enemies can't move for 3 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Potion Experiment",
+            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 4 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 4 turn(s) / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/fe/Anise.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Anise"
+      },
+      {
         "name": "Anna",
         "element": "Passion",
         "rarity": "SR",
@@ -6878,6 +6895,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Pure_Oracle"
       },
       {
+        "name": "Ran",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Fierce Fealty",
+            "value": "Activations: 1\nMin Level Effect: Deal 400% Passion DMG 3 times to the enemy / 10% chance\nMax Level Effect: Deal 400% Passion DMG 3 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Fierce Fealty",
+            "value": "Activations: 1\nMin Level Effect: Deal 500% Passion DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 500% Passion DMG 4 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/64/Ran.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Ran"
+      },
+      {
         "name": "Reaper",
         "element": "Passion",
         "rarity": "UR",
@@ -7561,6 +7595,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Vigilent"
       },
       {
+        "name": "Wa Ran",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Extreme Fealty",
+            "value": "Activations: 1\nMin Level Effect: Deal 500% Passion DMG 4 times to the enemy / 15% chance\nMax Level Effect: Deal 500% Passion DMG 4 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Extreme Fealty",
+            "value": "Activations: 1\nEffect: 【Autoskill】Own ATK 200% up after a successful attack / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/88/Wa_Ran_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Wa_Ran"
+      },
+      {
         "name": "Wadatsumi",
         "element": "Passion",
         "rarity": "UR",
@@ -7657,6 +7708,31 @@
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/f/f5/Winged_Vigilent_H.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Winged_Vigilent"
+      },
+      {
+        "name": "Everi",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Everi's Magic Box",
+            "value": "Activations: 2\nMin Level Effect: Activate Awoken Burst for all allies / 5% chance\nMax Level Effect: Activate Awoken Burst for all allies / 20% chance\n"
+          },
+          {
+            "name": "Second Skill: Everi's Magic Box",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Unit ATK • DEF +300%\n"
+          },
+          {
+            "name": "Awoken: ☆Everi's Magic Box",
+            "value": "Activations: 2\nMin Level Effect: Activate Awoken Burst for all allies / 10% chance\nMax Level Effect: Activate Awoken Burst for all allies / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Everi's Magic Box",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Unit ATK • DEF +350%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/c7/Everi.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Everi"
       },
       {
         "name": "God Scheherazade",
@@ -14229,7 +14305,7 @@
             "value": "Activations: 3\nMin Level Effect: Unleash single Allies skill / 25% chance\nMax Level Effect: Unleash single Allies skill / 30% chance"
           }
         ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/2/2e/Jean.png",
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/2e/Jean.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Jean"
       },
       {
