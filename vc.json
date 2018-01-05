@@ -2145,19 +2145,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Ratatoskr"
       },
       {
-        "name": "Red Crown",
-        "element": "Passion",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Red Crown",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/6/62/Red_Crown.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Red_Crown"
-      },
-      {
         "name": "Red Dragon",
         "element": "Passion",
         "rarity": "R",
@@ -2169,58 +2156,6 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/9/95/Red_Dragon.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Red_Dragon"
-      },
-      {
-    	"name": "Red Grimoire",
-    	"element": "Passion",
-    	"rarity": "R",
-    	"skill": [
-    		{
-    			"name": "Skill: Red Grimoire",
-    			"value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-    		}
-    	],
-    	"image" : "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/2e/Red_Grimoire.png",
-    	"link": "http://valkyriecrusade.wikia.com/wiki/Red_Grimoire"
-      },
-      {
-    	"name": "Red Pw Piece",
-    	"element": "Passion",
-    	"rarity": "R",
-    	"skill": [
-    		{
-    			"name": "Skill: PW PIECE",
-    			"value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-    		}
-    	],
-    	"image" : "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/8a/Red_Pw_Piece.png",
-    	"link": "http://valkyriecrusade.wikia.com/wiki/Red_Pw_Piece"
-      },
-      {
-    	"name": "Red Tone",
-    	"element": "Passion",
-    	"rarity": "R",
-    	"skill": [
-    		{
-    			"name": "Skill: Red Tone",
-    			"value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-    		}
-    	],
-    	"image" : "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e3/Red_Tone.png",
-    	"link": "http://valkyriecrusade.wikia.com/wiki/Red_Tone"
-      },
-      {
-    	"name": "Red Wings",
-    	"element": "Passion",
-    	"rarity": "R",
-    	"skill": [
-    		{
-    			"name": "Skill: Red Wings",
-    			"value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-    		}
-    	],
-    	"image" : "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/9f/Red_Wings.png",
-    	"link": "http://valkyriecrusade.wikia.com/wiki/Red_Wings"
       },
       {
         "name": "Rose Knight",
@@ -5122,7 +5057,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Celestial Glasses",
+            "name": "Awoken: ☆Celestial Glasses",
             "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 25% chance\nMax Level Effect: Unleash a single ally's skill / 30% chance\n"
           },
           {
@@ -5176,12 +5111,29 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Circo"
       },
       {
+        "name": "Circo New Year",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Circo's Prayers",
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Passion DMG to all enemies / Unable to move 2 turns / 15% chance\nMax Level Effect: Deal 250% Passion DMG to all enemies / Unable to move 2 turns / 25% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Circo's Prayers",
+            "value": "Activations: 5\nMin Level Effect: Deal 300% Passion DMG to all enemies / Unable to move 2 turns / 25% chance\nMax Level Effect: Deal 300% Passion DMG to all enemies / Unable to move 2 turns / 35% chance\n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/f1/Circo_New_Year.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Circo_New_Year"
+      },
+      {
         "name": "Cosplay Vamp",
         "element": "Passion",
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Happy Halloween!",
+            "name": "Awoken: ☆Happy Halloween!",
             "value": "Activations: Infinite\nMin Level Effect: Deal 250% Passion DMG to all enemies / 15% chance\nMax Level Effect: Deal 400% Passion DMG to all enemies / 20% chance\n"
           },
           {
@@ -5364,7 +5316,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆Dimensional Adapt",
+            "name": "Awoken: ☆Dimensional Adapt",
             "value": "Activations: 2\nMin Level Effect: 【Autoskill】If an ally has died in battle, fully resurrect a single ally / 100% chance\nMax Level Effect: 【Autoskill】If an ally has died in battle, fully resurrect a single ally / 100% chance\n"
           },
           {
@@ -5415,7 +5367,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆Supernova",
+            "name": "Awoken: ☆Supernova",
             "value": "Activations: 1\nMin Level Effect: All Passion allies' ATK • DEF 400% up / 15% chance\nMax Level Effect: All Passion allies' ATK • DEF 400% up / 20% chance"
           }
         ],
@@ -5572,7 +5524,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Fiery Inferno Dance",
+            "name": "Awoken: ☆Fiery Inferno Dance",
             "value": "Activations: 4\nMin Level Effect: 【Autoskill】Own ATK 75% up after every attack / Max 4 times\nMax Level Effect: 【Autoskill】Own ATK 80% up after every attack / Max 4 times"
           }
         ],
@@ -5585,7 +5537,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆Elemental Dancer",
+            "name": "Awoken: ☆Elemental Dancer",
             "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 25% chance\nMax Level Effect: Unleash a single ally's skill / 30% chance\n"
           },
           {
@@ -6287,7 +6239,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Inferno Dance",
+            "name": "Awoken: ☆Inferno Dance",
             "value": "Activations: 4\nMin Level Effect: 【Autoskill】Own ATK 70% up after every attack / Max 4 times\nMax Level Effect: 【Autoskill】Own ATK 75% up after every attack / Max 4 times"
           }
         ],
@@ -6853,7 +6805,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Executive Authority",
+            "name": "Awoken: ☆Executive Authority",
             "value": "Activations: 2\nMin Level Effect: Deal 650% Passion DMG 2 times to the enemy / 15% chance\nMax Level Effect: Deal 700% Passion DMG 2 times to the enemy / 20% chance"
           }
         ],
@@ -6883,7 +6835,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Pure Aura",
+            "name": "Awoken: ☆Pure Aura",
             "value": "Activations: 4\nMin Level Effect: 【Autoskill】Own ATK • DEF 55% up after every attack / Max 4 times\nMax Level Effect: 【Autoskill】Own ATK • DEF 60% up after every attack / Max 4 times\n"
           },
           {
@@ -6929,38 +6881,12 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Reaper"
       },
       {
-        "name": "Red Harmony",
-        "element": "Passion",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Red Harmony",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/e/e1/Red_Harmony.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Red_Harmony"
-      },
-      {
-        "name": "Red Lantern",
-        "element": "Passion",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Red Lantern",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/a/a6/Red_Lantern.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Red_Lantern"
-      },
-      {
         "name": "Red Sally",
         "element": "Passion",
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆Magical Dress",
+            "name": "Awoken: ☆Magical Dress",
             "value": "Activations: 1\nMin Level Effect: Deal 500% DMG to a single enemy with a simultaneous attack by all Passion allies / 15% chance\nMax Level Effect: Deal 500% DMG to a single enemy with a simultaneous attack by all Passion allies / 20% chance\n"
           },
           {
@@ -7011,7 +6937,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Saber of Light",
+            "name": "Awoken: ☆Saber of Light",
             "value": "Activations: 1\nMin Level Effect: Own ATK • DEF 500% up / 10% chance\nMax Level Effect: Own ATK • DEF 500% up / 15% chance"
           }
         ],
@@ -7024,7 +6950,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Saber of Darkness",
+            "name": "Awoken: ☆Saber of Darkness",
             "value": "Activations: 1\nMin Level Effect: Own ATK • DEF 450% up / 5% chance\nMax Level Effect: Own ATK • DEF 450% up / 10% chance"
           }
         ],
@@ -7054,7 +6980,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆Sleepy Sax",
+            "name": "Awoken: ☆Sleepy Sax",
             "value": "Activations: 2\nMin Level Effect: Deal 500% DMG to a single enemy with a simultaneous attack by all Passion allies / 15% chance\nMax Level Effect: Deal 500% DMG to a single enemy with a simultaneous attack by all Passion allies / 20% chance\n"
           },
           {
@@ -7305,7 +7231,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Golden Elixir",
+            "name": "Awoken: ☆Golden Elixir",
             "value": "Activations: 1\nMin Level Effect: All allies' ATK • DEF 250% UP / 15% chance\nMax Level Effect: All allies' ATK • DEF 250% UP / 20% chance\n"
           },
           {
@@ -7668,7 +7594,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Draconian Lessons",
+            "name": "Awoken: ☆Draconian Lessons",
             "value": "Activations: 1\nMin Level Effect: All enemies' ATK • DEF 55% down / 15% chance\nMax Level Effect: All enemies' ATK • DEF 55% down / 20% chance"
           }
         ],
@@ -7698,7 +7624,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆True Spirit Eye",
+            "name": "Awoken: ☆True Spirit Eye",
             "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 25% chance\nMax Level Effect: Unleash a single ally's skill / 35% chance\n"
           },
           {
@@ -8701,71 +8627,6 @@
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/2/23/Bishamonten.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Bishamonten"
-      },
-      {
-        "name": "Blue Crown",
-        "element": "Cool",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Blue Crown",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/3/3d/Blue_Crown.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Blue_Crown"
-      },
-      {
-    	"name": "Blue Grimoire",
-    	"element": "Cool",
-    	"rarity": "R",
-    	"skill": [
-    		{
-    			"name": "Skill: Blue Grimoire",
-    			"value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-    		}
-    	],
-    	"image" : "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e0/Blue_Grimoire.png",
-    	"link": "http://valkyriecrusade.wikia.com/wiki/Blue_Grimoire"
-      },
-      {
-    	"name": "Blue Pw Piece",
-    	"element": "Cool",
-    	"rarity": "R",
-    	"skill": [
-    		{
-    			"name": "Skill: PW PIECE",
-    			"value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-    		}
-    	],
-    	"image" : "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/1c/Blue_Pw_Piece.png",
-    	"link": "http://valkyriecrusade.wikia.com/wiki/Blue_Pw_Piece"
-      },
-      {
-        "name": "Blue Tone",
-        "element": "Cool",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Blue Tone",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/8/81/Blue_Tone.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Blue_Tone"
-      },
-      {
-    	"name": "Blue Wings",
-    	"element": "Cool",
-    	"rarity": "R",
-    	"skill": [
-    		{
-    			"name": "Skill: Blue Wings",
-    			"value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-    		}
-    	],
-    	"image" : "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/c5/Blue_Wings.png",
-    	"link": "http://valkyriecrusade.wikia.com/wiki/Blue_Wings"
       },
       {
         "name": "Brave",
@@ -13217,7 +13078,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Despot Essence",
+            "name": "Awoken: ☆Despot Essence",
             "value": "Activations: 3\nMin Level Effect: 【Autoskill】Skill nullification of any enemy skills / 40% chance\nMax Level Effect: 【Autoskill】Skill nullification of any enemy skills / 50% chance"
           }
         ],
@@ -13240,32 +13101,6 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/e/e9/Blade_Dragon.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Blade_Dragon"
-      },
-      {
-        "name": "Blue Harmony",
-        "element": "Cool",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Blue Harmony",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/d/dd/Blue_Harmony.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Blue_Harmony"
-      },
-      {
-        "name": "Blue Lantern",
-        "element": "Cool",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Blue Lantern",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/3/30/Blue_Lantern.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Blue_Lantern"
       },
       {
         "name": "Boreas",
@@ -13698,7 +13533,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆Doomsday Summons",
+            "name": "Awoken: ☆Doomsday Summons",
             "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 45% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 50% chance\n"
           },
           {
@@ -14186,7 +14021,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Nether Mistletoe",
+            "name": "Awoken: ☆Nether Mistletoe",
             "value": "Activations: 1\nMin Level Effect: All enemies' ATK 80% down / 20% chance\nMax Level Effect: All enemies' ATK 80% down / 25% chance"
           }
         ],
@@ -14621,7 +14456,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Massive Fireworks",
+            "name": "Awoken: ☆Massive Fireworks",
             "value": "Activations: 3\nMin Level Effect: 【Autoskill】Deal 300% DMG to all enemies after an attack / Unable to move 2 turns / Can't be nullified / 30% chance / Max 3 times\nMax Level Effect: 【Autoskill】Deal 350% DMG to all enemies after an attack / Unable to move 2 turns / Can't be nullified / 30% chance / Max 3 times"
           }
         ],
@@ -15077,7 +14912,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆Citadel Skyforce",
+            "name": "Awoken: ☆Citadel Skyforce",
             "value": "Activations: 2\nMin Level Effect: Deal 350% Cool DMG to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: Deal 400% Cool DMG to all enemies / Unable to move 3 turns / 20% chance\n"
           },
           {
@@ -15128,7 +14963,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Dive Right In",
+            "name": "Awoken: ☆Dive Right In",
             "value": "Activations: 1\nMin Level Effect: All Cool allies' ATK 250% up / 20% chance\nMax Level Effect: All Cool allies' ATK 250% up / 25% chance"
           }
         ],
@@ -15158,7 +14993,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆Sacred Stone",
+            "name": "Awoken: ☆Sacred Stone",
             "value": "Activations: 3\nMin Level Effect: 【Autoskill】Deal 250% DMG to all enemies after an attack / Unable to move 3 turns / Can't be nullified / 30% chance / Max 3 times\nMax Level Effect: 【Autoskill】Deal 300% DMG to all enemies after an attack / Unable to move 3 turns / Can't be nullified / 30% chance / Max 3 times"
           }
         ],
@@ -15430,7 +15265,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Home Sweet Home",
+            "name": "Awoken: ☆Home Sweet Home",
             "value": "Activations: 1\nMin Level Effect: All Cool allies' ATK • DEF 400% up / 15% chance\nMax Level Effect: All Cool allies' ATK • DEF 400% up / 20% chance"
           }
         ],
@@ -15652,7 +15487,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Bronze Courage",
+            "name": "Awoken: ☆Bronze Courage",
             "value": "Activations: 1\nMin Level Effect: Deal 150% Cool DMG 5 times to the enemy / 10% chance\nMax Level Effect: Deal 150% Cool DMG 5 times to the enemy / 15% chance"
           }
         ],
@@ -15665,7 +15500,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Golden Courage",
+            "name": "Awoken: ☆Golden Courage",
             "value": "Activations: 1\nMin Level Effect: Deal 200% Cool DMG 8 times to the enemy / 10% chance\nMax Level Effect: Deal 200% Cool DMG 8 times to the enemy / 15% chance"
           }
         ],
@@ -15678,7 +15513,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Silver Courage",
+            "name": "Awoken: ☆Silver Courage",
             "value": "Activations: 1\nMin Level Effect: Deal 150% Cool DMG 6 times to the enemy / 10% chance\nMax Level Effect: Deal 150% Cool DMG 6 times to the enemy / 15% chance"
           }
         ],
@@ -16749,71 +16584,6 @@
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/1/17/Grace.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Grace"
-      },
-      {
-        "name": "Green Crown",
-        "element": "Light",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Green Crown",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/d/de/Green_Crown.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Green_Crown"
-      },
-      {
-    	"name": "Green Grimoire",
-    	"element": "Light",
-    	"rarity": "R",
-    	"skill": [
-    		{
-    			"name": "Skill: Green Grimoire",
-    			"value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-    		}
-    	],
-    	"image" : "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/3e/Green_Grimoire.png",
-    	"link": "http://valkyriecrusade.wikia.com/wiki/Green_Grimoire"
-      },
-      {
-    	"name": "Green Pw Piece",
-    	"element": "Light",
-    	"rarity": "R",
-    	"skill": [
-    		{
-    			"name": "Skill: PW PIECE",
-    			"value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-    		}
-    	],
-    	"image" : "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d3/Green_Pw_Piece.png",
-    	"link": "http://valkyriecrusade.wikia.com/wiki/Green_Pw_Piece"
-      },
-      {
-        "name": "Green Tone",
-        "element": "Light",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Green Tone",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/b/b6/Green_Tone.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Green_Tone"
-      },
-      {
-    	"name": "Green Wings",
-    	"element": "Light",
-    	"rarity": "R",
-    	"skill": [
-    		{
-    			"name": "Skill: Green Wings",
-    			"value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-    		}
-    	],
-    	"image" : "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/02/Green_Wings.png",
-    	"link": "http://valkyriecrusade.wikia.com/wiki/Green_Wings"
       },
       {
         "name": "Guardian",
@@ -17917,6 +17687,23 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/8/86/Arianrhod.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Arianrhod"
+      },
+      {
+        "name": "Arum",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Bone Crusher",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Light DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 100% Light DMG to all enemies / Unable to move 3 turns / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Bone Crusher",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Light DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 150% Light DMG to all enemies / Unable to move 3 turns / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/9a/Arum.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Arum"
       },
       {
         "name": "Asclepius",
@@ -19074,6 +18861,40 @@
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/8/82/Mithras.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Mithras"
+      },
+      {
+        "name": "Morphium",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Sweetest Dreams",
+            "value": "Activations: 2\nMin Level Effect: Unleash a single ally's skill / 30% chance\nMax Level Effect: Unleash a single ally's skill / 35% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Sweetest Dreams",
+            "value": "Activations: 2\nMin Level Effect: Unleash a single ally's skill / 30% chance\nMax Level Effect: Unleash a single ally's skill / 40% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/87/Morphium.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Morphium"
+      },
+      {
+        "name": "Morphium New year",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Sweetest Dreams",
+            "value": "Activations: 2\nMin Level Effect: Unleash a single ally's skill / 30% chance\nMax Level Effect: Unleash a single ally's skill / 40% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Sweetest Dreams",
+            "value": "Activations: 1\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e1/Morphium_New_Year_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Morphium_New_Year"
       },
       {
         "name": "Morta",
@@ -20247,6 +20068,40 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Alien_Musse"
       },
       {
+        "name": "Amakoyane",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Heavenly Kimono",
+            "value": "Activations: 4\nMin Level Effect: Deal 400% Light DMG to all enemies / Unable to move 4 turns / 10% chance\nMax Level Effect: Deal 500% Light DMG to all enemies / Unable to move 4 turns / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Heavenly Kimono",
+            "value": "Activations: 4\nMin Level Effect: Deal 500% Light DMG to all enemies / Unable to move 4 turns / 15% chance\nMax Level Effect: Deal 600% Light DMG to all enemies / Unable to move 4 turns / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/05/Amakoyane.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Amakoyane"
+      },
+      {
+        "name": "Amakoyane New Year",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Heavenly Kimono",
+            "value": "Activations: 4\nMin Level Effect: Deal 500% Light DMG to all enemies / Unable to move 4 turns / 15% chance\nMax Level Effect: Deal 600% Light DMG to all enemies / Unable to move 4 turns / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Heavenly Kimono",
+            "value": "Activations: 4\nEffect: 【Autoskill】Own ATK 60% up after every attack / Max 4 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/ba/Amakoyane_New_Year_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Amakoyane_New_Year"
+      },
+      {
         "name": "Android Warrior",
         "element": "Light",
         "rarity": "UR",
@@ -20618,7 +20473,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Sweet Conquest",
+            "name": "Awoken: ☆Sweet Conquest",
             "value": "Activations: 1\nMin Level Effect: All Light allies' ATK 250% up / 20% chance\nMax Level Effect: All Light allies' ATK 250% up / 25% chance"
           }
         ],
@@ -20631,7 +20486,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Natural Appeal",
+            "name": "Awoken: ☆Natural Appeal",
             "value": "Activations: 3\nMin Level Effect: Deal 400% Light DMG to all enemies / 20% chance\nMax Level Effect: Deal 500% Light DMG to all enemies / 25% chance"
           }
         ],
@@ -20657,7 +20512,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆Cheerful Mind",
+            "name": "Awoken: ☆Cheerful Mind",
             "value": "Activations: 3\nMin Level Effect: Deal 400% Light DMG to all enemies / Absorb 100% / 15% chance\nMax Level Effect: Deal 400% Light DMG to all enemies / Absorb 100% / 20% chance\n"
           },
           {
@@ -20789,7 +20644,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Deep Blue Ball",
+            "name": "Awoken: ☆Deep Blue Ball",
             "value": "Activations: 5\nMin Level Effect: All allies recover 100% / 25% chance\nMax Level Effect: All allies recover 100% / 35% chance"
           }
         ],
@@ -20904,7 +20759,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Full-Moon Monarch",
+            "name": "Awoken: ☆Full-Moon Monarch",
             "value": "Activations: 1\nMin Level Effect: Resurrect and fully recover all allies / 15% chance\nMax Level Effect: Resurrect and fully recover all allies / 20% chance"
           }
         ],
@@ -21065,6 +20920,40 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Fusehime"
       },
       {
+        "name": "Futodama",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Godspeed Hands",
+            "value": "Activations: 1\nMin Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Light allies / 10% chance\nMax Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Light allies / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Godspeed Hands",
+            "value": "Activations: 1\nMin Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Light allies / 15% chance\nMax Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Light allies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/30/Futodama.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Futodama"
+      },
+      {
+        "name": "Futodama New Year",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Godspeed Hands",
+            "value": "Activations: 1\nMin Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Light allies / 15% chance\nMax Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Light allies / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Godspeed Hands",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Light allies' ATK • DEF 100% up from the first turn / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/90/Futodama_New_Year_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Futodama_New_Year"
+      },
+      {
         "name": "Ghostly Schwartz",
         "element": "Light",
         "rarity": "UR",
@@ -21135,32 +21024,6 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/1/1f/Graffiti_Artist.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Graffiti_Artist"
-      },
-      {
-        "name": "Green Harmony",
-        "element": "Light",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Green Harmony",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/4/40/Green_Harmony.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Green_Harmony"
-      },
-      {
-        "name": "Green Lantern",
-        "element": "Light",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Green Lantern",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/7/7d/Green_Lantern.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Green_Lantern"
       },
       {
         "name": "Harmonia",
@@ -21530,7 +21393,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Epic Performance",
+            "name": "Awoken: ☆Epic Performance",
             "value": "Activations: 1\nMin Level Effect: All allies' ATK 250% up / 20% chance\nMax Level Effect: All allies' ATK 250% up / 25% chance\n"
           },
           {
@@ -21594,7 +21457,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Last Game",
+            "name": "Awoken: ☆Last Game",
             "value": "Activations: 2\nMin Level Effect: Deal 250% Light DMG to all enemies / Unable to move 4 turns / 15% chance\nMax Level Effect: Deal 300% Light DMG to all enemies / Unable to move 4 turns / 20% chance"
           }
         ],
@@ -21624,7 +21487,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Master Conductor",
+            "name": "Awoken: ☆Master Conductor",
             "value": "Activations: 2\nMin Level Effect: Deal 550% DMG to a single enemy with a simultaneous attack by all Light allies / 15% chance\nMax Level Effect: Deal 600% DMG to a single enemy with a simultaneous attack by all Light allies / 20% chance\n"
           },
           {
@@ -21828,7 +21691,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆Sweet Jackpot",
+            "name": "Awoken: ☆Sweet Jackpot",
             "value": "Activations: 2\nMin Level Effect: Deal 350% Light DMG to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: Deal 400% Light DMG to all enemies / Unable to move 3 turns / 20% chance\n"
           },
           {
@@ -21952,7 +21815,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Sacred Mochi",
+            "name": "Awoken: ☆Sacred Mochi",
             "value": "Activations: 3\nMin Level Effect: Deal 250% Light DMG to all enemies / Absorb 25% / 25% chance\nMax Level Effect: Deal 350% Light DMG to all enemies / Absorb 25% / 30% chance\n"
           },
           {
@@ -22279,7 +22142,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆Eternal Wind",
+            "name": "Awoken: ☆Eternal Wind",
             "value": "Activations: 3\nMin Level Effect: Deal 500% Light DMG to all enemies / Absorb 100% / 15% chance\nMax Level Effect: Deal 500% Light DMG to all enemies / Absorb 100% / 20% chance\n"
           },
           {
@@ -22313,7 +22176,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆Full Volte",
+            "name": "Awoken: ☆Full Volte",
             "value": "Activations: 1\nMin Level Effect: Deal 50% Light DMG 7 times to the enemy / 10% chance\nMax Level Effect: Deal 50% Light DMG 7 times to the enemy / 15% chance"
           }
         ],
@@ -22437,7 +22300,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆Mochi Skyscraper",
+            "name": "Awoken: ☆Mochi Skyscraper",
             "value": "Activations: 2\nMin Level Effect: Deal 350% Light DMG to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: Deal 400% Light DMG to all enemies / Unable to move 3 turns / 20% chance"
           }
         ],
@@ -22620,7 +22483,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Hurricane",
+            "name": "Awoken: ☆Hurricane",
             "value": "Activations: 1\nMin Level Effect: Deal 200% Light DMG 4 times to the enemy / 15% chance\nMax Level Effect: Deal 200% Light DMG 4 times to the enemy / 20% chance"
           }
         ],
@@ -23278,6 +23141,31 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/9e/Norns.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Norns"
+      },
+      {
+        "name": "Ooyamatsumi",
+        "element": "Light",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Super Sake",
+            "value": "Activations: 4\nMin Level Effect: Unleash all allies' skills / 5% chance\nMax Level Effect: Unleash all allies' skills / 20% chance\n"
+          },
+          {
+            "name": "Second Skill: Super Sake",
+            "value": "Activations: 2\nEffect: 【Autoskill】Resurrect and fully recover all allies after an attack / 50% chance / Max 2 times\n"
+          },
+          {
+            "name": "Awoken: ☆Super Sake",
+            "value": "Activations: 4\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Super Sake",
+            "value": "Activations: 2\nEffect: 【Autoskill】Resurrect and fully recover all allies after an attack / 60% chance / Max 2 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/c7/Ooyamatsumi.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Ooyamatsumi"
       },
       {
         "name": "Sacred Pixie",
@@ -24407,71 +24295,6 @@
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/b/b8/Prisoner_H.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Prisoner"
-      },
-      {
-        "name": "Purple Crown",
-        "element": "Dark",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Purple Crown",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/6/63/Purple_Crown.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Purple_Crown"
-      },
-      {
-    	"name": "Purple Grimoire",
-    	"element": "Dark",
-    	"rarity": "R",
-    	"skill": [
-    		{
-    			"name": "Skill: Purple Grimoire",
-    			"value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-    		}
-    	],
-    	"image" : "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/bb/Purple_Grimoire.png",
-    	"link": "http://valkyriecrusade.wikia.com/wiki/Purple_Grimoire"
-      },
-      {
-    	"name": "Purple Pw Piece",
-    	"element": "Dark",
-    	"rarity": "R",
-    	"skill": [
-    		{
-    			"name": "Skill: PW PIECE",
-    			"value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-    		}
-    	],
-    	"image" : "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/35/Purple_Pw_Piece.png",
-    	"link": "http://valkyriecrusade.wikia.com/wiki/Purple_Pw_Piece"
-      },
-      {
-        "name": "Purple Tone",
-        "element": "Dark",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Purple Tone",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/1/13/Purple_Tone.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Purple_Tone"
-      },
-      {
-    	"name": "Purple Wings",
-    	"element": "Dark",
-    	"rarity": "R",
-    	"skill": [
-    		{
-    			"name": "Skill: Blue Wings",
-    			"value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-    		}
-    	],
-    	"image" : "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/4d/Purple_Wings.png",
-    	"link": "http://valkyriecrusade.wikia.com/wiki/Purple_Wings"
       },
       {
         "name": "Rangda",
@@ -26787,6 +26610,19 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Sylphis"
       },
       {
+        "name": "Tagirihime",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Mini Sun Scepter",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Dark DMG 3 times to the enemy / 10% chance\nMax Level Effect: Deal 150% Dark DMG 3 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/0b/Tagirihime.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Tagirihime"
+      },
+      {
         "name": "Takamine",
         "element": "Dark",
         "rarity": "SR",
@@ -27283,7 +27119,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Cosmic Overlord",
+            "name": "Awoken: ☆Cosmic Overlord",
             "value": "Activations: 2\nMin Level Effect: Deal 350% Dark DMG to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: Deal 400% Dark DMG to all enemies / Unable to move 3 turns / 20% chance"
           }
         ],
@@ -27411,7 +27247,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆Floating Lantern",
+            "name": "Awoken: ☆Floating Lantern",
             "value": "Activations: 2\nMin Level Effect: Deal critical Dark DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal critical Dark DMG 4 times to the enemy / 15% chance\n"
           },
           {
@@ -27581,7 +27417,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: All That Glitters",
+            "name": "Awoken: ☆All That Glitters",
             "value": "Activations: 1\nMin Level Effect: All Dark allies' ATK 300% up / 15% chance\nMax Level Effect: All Dark allies' ATK 300% up / 20% chance"
           }
         ],
@@ -27637,7 +27473,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: 1,000-Kiss Penalty",
+            "name": "Awoken: ☆1,000-Kiss Penalty",
             "value": "Activations: Always On\nMin Level Effect: 【Autoskill】Unit DEF +250%\nMax Level Effect: 【Autoskill】Unit DEF +300%\n"
           },
           {
@@ -27956,7 +27792,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆Bad Ending",
+            "name": "Awoken: ☆Bad Ending",
             "value": "Activations: 4\nMin Level Effect: 【Autoskill】All allies' DEF 75% up after every attack / Max 4 times\nMax Level Effect: 【Autoskill】All allies' DEF 80% up after every attack / Max 4 times\n"
           },
           {
@@ -27990,7 +27826,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Beautiful Mind",
+            "name": "Awoken: ☆Beautiful Mind",
             "value": "Activations: 1\nMin Level Effect: All allies' DEF 400% up / 40% chance\nMax Level Effect: All allies' DEF 400% up / 45% chance\n"
           },
           {
@@ -28333,7 +28169,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Grant a Wish",
+            "name": "Awoken: ☆Grant a Wish",
             "value": "Activations: 1\nMin Level Effect: Own ATK • DEF 500% up / 5% chance\nMax Level Effect: Own ATK • DEF 500% up / 10% chance"
           }
         ],
@@ -28597,7 +28433,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆Eternal Love",
+            "name": "Awoken: ☆Eternal Love",
             "value": "Activations: 2\nMin Level Effect: Resurrect all allies, all allies recover 90% / 25% chance\nMax Level Effect: Resurrect all allies, all allies recover 90% / 30% chance"
           }
         ],
@@ -29268,38 +29104,12 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Puppetmaster"
       },
       {
-        "name": "Purple Harmony",
-        "element": "Dark",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Purple Harmony",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/8/83/Purple_Harmony.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Purple_Harmony"
-      },
-      {
-        "name": "Purple Lantern",
-        "element": "Dark",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Purple Lantern",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/4/4f/Purple_Lantern.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Purple_Lantern"
-      },
-      {
         "name": "Radiant Cinderella",
         "element": "Dark",
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Bewitchment",
+            "name": "Awoken: ☆Bewitchment",
             "value": "Activations: 2\nMin Level Effect: Deal 200% Dark DMG to all enemies / Unable to move 4 turns / 15% chance\nMax Level Effect: Deal 250% Dark DMG to all enemies / Unable to move 4 turns / 20% chance"
           }
         ],
@@ -29422,7 +29232,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: ☆Santa Aura",
+            "name": "Awoken: ☆Santa Aura",
             "value": "Activations: 1\nMin Level Effect: All allies' ATK • DEF 250% UP / 15% chance\nMax Level Effect: All allies' ATK • DEF 250% UP / 20% chance\n"
           },
           {
@@ -29525,6 +29335,23 @@
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/e/ec/Shiva.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Shiva"
+      },
+      {
+        "name": "Shrine Tagirihime",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆First Sunrise",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Dark DMG 9 times to the enemy / 15% chance\nMax Level Effect: Deal 350% Dark DMG 9 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆First Sunrise",
+            "value": "Activations: 1\nEffect: 【Autoskill】Reduce gain damage 90%\nCounter attack 900% / 30% chance / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/77/Shrine_Tagirihime_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Shrine_Tagirihime"
       },
       {
         "name": "Shuten-Doji",
@@ -29745,6 +29572,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Sukuna-Bikona"
       },
       {
+        "name": "Sunny Tagirihime",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Happy Go Lucky",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Dark DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 200% Dark DMG 4 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Happy Go Lucky",
+            "value": "Activations: 1\nMin Level Effect: Deal 250% Dark DMG 6 times to the enemy / 15% chance\nMax Level Effect: Deal 300% Dark DMG 6 times to the enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/78/Sunny_Tagirihime.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Sunny_Tagirihime"
+      },
+      {
         "name": "Tathlum",
         "element": "Dark",
         "rarity": "UR",
@@ -29793,7 +29637,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Time Freeze",
+            "name": "Awoken: ☆Time Freeze",
             "value": "Activations: 1\nMin Level Effect: All allies recover 100% / 10% chance\nMax Level Effect: All allies recover 100% / 15% chance\n"
           },
           {
@@ -29844,7 +29688,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Awoken: Glacial Claws",
+            "name": "Awoken: ☆Glacial Claws",
             "value": "Activations: 4\nMin Level Effect: 【Autoskill】Own ATK • DEF 55% up after every attack / Max 4 times\nMax Level Effect: 【Autoskill】Own ATK • DEF 60% up after every attack / Max 4 times"
           }
         ],
@@ -30057,6 +29901,31 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/25/Aisling.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Aisling"
+      },
+      {
+        "name": "Bright Tagirihime",
+        "element": "Dark",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Bright Relics",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Dark DMG 12 times to the enemy / 15% chance\nMax Level Effect: Deal 350% Dark DMG 12 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Second Skill: Bright Relics",
+            "value": "Activations: 1\nEffect: 【Autoskill】Reduce gain damage 90%\nCounter attack 1000% / 30% chance / Max 1 time\n"
+          },
+          {
+            "name": "Awoken: ☆Bright Relics",
+            "value": "Activations: 1\nMin Level Effect: Deal 350% Dark DMG 13 times to the enemy / 15% chance\nMax Level Effect: Deal 400% Dark DMG 13 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Bright Relics",
+            "value": "Activations: 1\nEffect: 【Autoskill】Reduce gain damage 90%\nCounter attack 2000% / 30% chance / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/ce/Bright_Tagirihime.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Bright_Tagirihime"
       },
       {
         "name": "Deep Succubus",
@@ -30335,19 +30204,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Slime"
       },
       {
-        "name": "Magic Spell Incarnate",
-        "element": "Special",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Magic Spell Incarnate",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Battle EXP +5% \nMax Level Effect: 【Autoskill】 Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/3b/Magic_Spell_Incarnate.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Magic_Spell_Incarnate"
-      },
-      {
         "name": "Medal Girl",
         "element": "Special",
         "rarity": "R",
@@ -30387,32 +30243,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Mirror_Maiden_(R)"
       },
       {
-        "name": "Top-Secret Pw",
-        "element": "Special",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: TOP-SECRET PW",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】Battle EXP +5%\nMax Level Effect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/17/Top-Secret_Pw.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Top-Secret_Pw"
-      },
-      {
-        "name": "Amber Necklace",
-        "element": "Special",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Amber Necklace",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/0c/Amber_Necklace_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Amber_Necklace"
-      },
-      {
         "name": "Gold Girl (SR)",
         "element": "Special",
         "rarity": "SR",
@@ -30424,19 +30254,6 @@
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/c/c3/Gold_Girl_%28SR%29.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Gold_Girl_(SR)"
-      },
-      {
-        "name": "Laevatein",
-        "element": "Special",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Laevatein",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/48/Laevatein_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Laevatein"
       },
       {
         "name": "Medal Girl (SR)",
@@ -30452,19 +30269,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Medal_Girl_(SR)"
       },
       {
-        "name": "Meteoric Lance",
-        "element": "Special",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Meteoric Lance",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d4/Meteoric_Lance_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Meteoric_Lance"
-      },
-      {
         "name": "Mirror Maiden (SR)",
         "element": "Special",
         "rarity": "SR",
@@ -30476,58 +30280,6 @@
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/a/ab/Mirror_Maiden_%28SR%29.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Mirror_Maiden_(SR)"
-      },
-      {
-        "name": "Ruby Crest",
-        "element": "Special",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Ruby Crest",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/75/Ruby_Crest.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Ruby_Crest"
-      },
-      {
-        "name": "Seed Of Hope",
-        "element": "Special",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Seed of Hope",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/96/Seed_Of_Hope.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Seed_Of_Hope"
-      },
-      {
-        "name": "Serpent Slayer",
-        "element": "Special",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Serpent Slayer",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/a7/Serpent_Slayer_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Serpent_Slayer"
-      },
-      {
-        "name": "Shion's Wreath",
-        "element": "Special",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Shion's Wreath",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/03/Shion%27s_Wreath.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Shion%27s_Wreath"
       },
       {
         "name": "Slime Queen",
@@ -30543,136 +30295,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Slime_Queen"
       },
       {
-        "name": "Stellar Tiara",
-        "element": "Special",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Stellar Tiara",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/48/Stellar_Tiara.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Stellar_Tiara"
-      },
-      {
-        "name": "Swordsmith's Jewel",
-        "element": "Special",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Swordsmith's Jewel",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/f0/Swordsmith%27s_Jewel.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Swordsmith%27s_Jewel"
-      },
-      {
-        "name": "Water Of Grace",
-        "element": "Special",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Water of Grace",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/7e/Water_Of_Grace_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Water_Of_Grace"
-      },
-      {
-        "name": "Azure Vest",
-        "element": "Special",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Azure Vest",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/42/Azure_Vest.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Azure_Vest"
-      },
-      {
-        "name": "Blazing Necklace",
-        "element": "Special",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Blazing Necklace",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/a5/Blazing_Necklace.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Blazing_Necklace"
-      },
-      {
-        "name": "Blazing Ornament",
-        "element": "Special",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Blazing Ornament",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/fd/Blazing_Ornament.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Blazing_Ornament"
-      },
-      {
-        "name": "Crystal Ore",
-        "element": "Special",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Crystal Ore",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/85/Crystal_Ore.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Crystal_Ore"
-      },
-      {
-        "name": "Dandelion Dress",
-        "element": "Special",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Dandelion Dress",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/57/Dandelion_Dress.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Dandelion_Dress"
-      },
-      {
-        "name": "Lilac Dress",
-        "element": "Special",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Lilac Dress",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/c5/Lilac_Dress.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Lilac_Dress"
-      },
-      {
-        "name": "Magatama Mirror",
-        "element": "Special",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Magatama Mirror",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/b5/Magatama_Mirror.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Magatama_Mirror"
-      },
-      {
         "name": "Mirror Maiden (UR)",
         "element": "Special",
         "rarity": "UR",
@@ -30684,32 +30306,6 @@
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/e/ef/Mirror_Maiden_%28UR%29.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Mirror_Maiden_(UR)"
-      },
-      {
-        "name": "Sage Dress",
-        "element": "Special",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Sage Dress",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d6/Sage_Dress.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Sage_Dress"
-      },
-      {
-        "name": "Scarlet Vest",
-        "element": "Special",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Scarlet Vest",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/28/Scarlet_Vest.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Scarlet_Vest"
       },
       {
         "name": "Slime Queen＋",
@@ -30725,45 +30321,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Slime_Queen%EF%BC%8B"
       },
       {
-        "name": "War Maiden Weapon",
-        "element": "Special",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: War Maiden Weapon",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/62/War_Maiden_Weapon.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/War_Maiden_Weapon"
-      },
-      {
-        "name": "Crystal Dragon",
-        "element": "Special",
-        "rarity": "LR",
-        "skill": [
-          {
-            "name": "Skill: Crystal Dragon",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/68/Crystal_Dragon.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Crystal_Dragon"
-      },
-      {
-        "name": "Flaming Laevatein",
-        "element": "Special",
-        "rarity": "LR",
-        "skill": [
-          {
-            "name": "Skill: Flaming Laevatein",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/1d/Flaming_Laevatein.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Flaming_Laevatein"
-      },
-      {
         "name": "Mirror Maiden (LR)",
         "element": "Special",
         "rarity": "LR",
@@ -30776,43 +30333,4 @@
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/c8/Mirror_Maiden_%28LR%29.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Mirror_Maiden_(LR)"
       },  
-      {
-        "name": "Royal Tiara",
-        "element": "Special",
-        "rarity": "LR",
-        "skill": [
-          {
-            "name": "Skill: Royal Tiara",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/5f/Royal_Tiara.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Royal_Tiara"
-      },
-      {
-        "name": "Stellar Lance",
-        "element": "Special",
-        "rarity": "LR",
-        "skill": [
-          {
-            "name": "Skill: Stellar Lance",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/1a/Stellar_Lance.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Stellar_Lance"
-      },
-      {
-        "name": "War Goddess Dress",
-        "element": "Special",
-        "rarity": "LR",
-        "skill": [
-          {
-            "name": "Skill: War Goddess Dress",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/9c/War_Goddess_Dress.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/War_Goddess_Dress"
-      }
     ]
