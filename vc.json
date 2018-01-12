@@ -28904,6 +28904,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Oninomiko"
       },
       {
+        "name": "Ooinu",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Doggie Gift",
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 20% chance\nMax Level Effect: Unleash a single ally's skill / 25% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Doggie Gift",
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 25% chance\nMax Level Effect: Unleash a single ally's skill / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/3e/Ooinu.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Ooinu"
+      },
+      {
         "name": "Ouroboros",
         "element": "Dark",
         "rarity": "UR",
@@ -30332,5 +30349,5 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/c8/Mirror_Maiden_%28LR%29.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Mirror_Maiden_(LR)"
-      },  
+      }
     ]
