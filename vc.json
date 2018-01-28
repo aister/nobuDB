@@ -2948,6 +2948,27 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Chocolate_Maker"
       },
       {
+        "name": "Christine",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Weaponized Gold?",
+            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 2 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 2 turn(s) / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Weaponized Gold?",
+            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 3 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Weaponized Gold?",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +200%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/6a/Christine.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Christine"
+      },
+      {
         "name": "Circe",
         "element": "Passion",
         "rarity": "SR",
@@ -20758,6 +20779,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Cucco"
       },
       {
+        "name": "Dark Luca",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Black Scythe",
+            "value": "Activations: 2\nMin Level Effect: All Light allies' ATK • DEF 300% up / 15% chance\nMax Level Effect: All Light allies' ATK • DEF 300% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Black Scythe",
+            "value": "Activations: 2\nMin Level Effect: All Light allies' ATK • DEF 350% up / 15% chance\nMax Level Effect: All Light allies' ATK • DEF 350% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/82/Dark_Luca.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Dark_Luca"
+      },
+      {
         "name": "Divine Panacea",
         "element": "Light",
         "rarity": "UR",
@@ -21688,6 +21726,23 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/0/05/Liber.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Liber"
+      },
+      {
+        "name": "Light Luca",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆White Death",
+            "value": "Activations: 2\nMin Level Effect: All Light allies' ATK • DEF 350% up / 15% chance\nMax Level Effect: All Light allies' ATK • DEF 350% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆White Death",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Unit DEF +300%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/88/Light_Luca_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Light_Luca"
       },
       {
         "name": "Lily &amp; Mary",
@@ -24783,6 +24838,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Ambrosi"
       },
       {
+        "name": "Amfor",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Bad Luck",
+            "value": "Activations: 2\nMin Level Effect: Unleash a single ally's skill / 30% chance\nMax Level Effect: Unleash a single ally's skill / 35% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Bad Luck",
+            "value": "Activations: 2\nMin Level Effect: Unleash a single ally's skill / 35% chance\nMax Level Effect: Unleash a single ally's skill / 40% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/01/Amfor.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Amfor"
+      },
+      {
         "name": "Angra Mainyu",
         "element": "Dark",
         "rarity": "SR",
@@ -26738,7 +26810,7 @@
             "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 10% chance\nMax Level Effect: Unleash a single ally's skill / 15% chance\n"
           },
           {
-            "name": "Awoken Second Skill: ☆Extreme Exorcism",
+            "name": "Awoken Second Skill: ☆Celestial Herbs",
             "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +200%"
           }
         ],
@@ -29344,6 +29416,23 @@
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/7/7b/Relena.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Relena"
+      },
+      {
+        "name": "Rene",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Magic Cat",
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Dark DMG to all enemies / Unable to move 3 turns / 30% chance\nMax Level Effect: Deal 300% Dark DMG to all enemies / Unable to move 3 turns / 40% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Magic Cat",
+            "value": "Activations: 2\nMin Level Effect: Deal 350% Dark DMG to all enemies / Unable to move 3 turns / 35% chance\nMax Level Effect: Deal 400% Dark DMG to all enemies / Unable to move 3 turns / 45% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/c2/Rene.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Rene"
       },
       {
         "name": "Rium",
