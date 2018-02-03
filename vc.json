@@ -3544,6 +3544,19 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Killer_Idol"
       },
       {
+        "name": "Kisaragi",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Plain Aura",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Passion DMG 3 times to the enemy / 10% chance\nMax Level Effect: Deal 150% Passion DMG 3 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/ba/Kisaragi.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Kisaragi"
+      },
+      {
         "name": "Kokkuri Fox",
         "element": "Passion",
         "rarity": "SR",
@@ -6885,6 +6898,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/President_Nina"
       },
       {
+        "name": "Pretty Kisaragi",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Royal Aura",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Passion DMG 9 times to the enemy / 15% chance\nMax Level Effect: Deal 350% Passion DMG 9 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Royal Aura",
+            "value": "Activations: 4\nEffect: 【Autoskill】 Own ATK 80% up after every attack / Max 3 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/72/Pretty_Kisaragi_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Pretty_Kisaragi"
+      },
+      {
         "name": "Prometheus",
         "element": "Passion",
         "rarity": "UR",
@@ -7279,6 +7309,23 @@
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/6/62/Stone_Elf.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Stone_Elf"
+      },
+      {
+        "name": "Stylish Kisaragi",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Happy Aura",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Passion DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 200% Passion DMG 4 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Happy Aura",
+            "value": "Activations: 1\nMin Level Effect: Deal 250% Passion DMG 6 times to the enemy / 15% chance\nMax Level Effect: Deal 300% Passion DMG 6 times to the enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/4c/Stylish_Kisaragi.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Stylish_Kisaragi"
       },
       {
         "name": "Summer Alchemist",
@@ -7706,6 +7753,31 @@
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/f/f5/Winged_Vigilent_H.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Winged_Vigilent"
+      },
+      {
+        "name": "Bridal Kisaragi",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Wedding Aura",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Passion DMG 12 times to the enemy / 15% chance\nMax Level Effect: Deal 350% Passion DMG 12 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Second Skill: Wedding Aura",
+            "value": "Activations: 3\nEffect: 【Autoskill】Own ATK 100% up after every attack / Max 3 times\n"
+          },
+          {
+            "name": "Awoken: ☆Wedding Aura",
+            "value": "Activations: 1\nMin Level Effect: Deal 350% Passion DMG 13 times to the enemy / 15% chance\nMax Level Effect: Deal 400% Passion DMG 13 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Wedding Aura",
+            "value": "Activations: 3\nEffect: 【Autoskill】Own ATK 100% up after every attack / Max 3 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/b8/Bridal_Kisaragi.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Bridal_Kisaragi"
       },
       {
         "name": "Everi",
@@ -10437,6 +10509,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Amefurashi"
       },
       {
+        "name": "Amore Tenderness",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Amorous Arrow",
+            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 60% down / 20% chance\nMax Level Effect: All enemies' ATK 60% down / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Amorous Arrow",
+            "value": "Activations: 1\nEffect: 【Autoskill】Reduce gain damage 50%, Counter attack 250% / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/68/Amore_Tenderness_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Amore_Tenderness"
+      },
+      {
         "name": "Angler",
         "element": "Cool",
         "rarity": "SR",
@@ -10982,6 +11071,23 @@
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/d/d6/Fallen_Samurai.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Fallen_Samurai"
+      },
+      {
+        "name": "Finette",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Jumbo Tray",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Cool DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 100% Cool DMG to all enemies / Unable to move 3 turns / 15% chance\n"
+          },
+    	  {
+            "name": "Awoken: ☆Jumbo Tray",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Cool DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 150% Cool DMG to all enemies / Unable to move 3 turns / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/2a/Finette.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Finette"
       },
       {
         "name": "Flower Fairy",
@@ -12431,6 +12537,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Super_Chimry_(Cool)"
       },
       {
+        "name": "Tenderness",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Amorous Arrow",
+            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 60% down / 15% chance\nMax Level Effect: All enemies' ATK 60% down / 20% chance\n"
+          },
+    	  {
+            "name": "Awoken: ☆Amorous Arrow",
+            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 60% down / 20% chance\nMax Level Effect: All enemies' ATK 60% down / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/ff/Tenderness.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Tenderness"
+      },
+      {
         "name": "Teyr",
         "element": "Cool",
         "rarity": "SR",
@@ -12591,7 +12714,7 @@
           },
           {
             "name": "Awoken Second Skill: ☆BFF Letter",
-            "value": "Activations: 1\nEffect: 【Autoskill】 Skill nullification of enemy's attacking skill / 30% chance "
+            "value": "Activations: 1\nEffect: 【Autoskill】 Skill nullification of enemy's attacking skill / 30% chance"
           }
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/10/True_Lira_H.png",
@@ -12954,6 +13077,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Amatsukami"
       },
       {
+        "name": "Amore Charlotta",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Bearamy Hug",
+            "value": "Activations: 1\nMin Level Effect: Activate Awoken Burst for all allies / 15% chance\nMax Level Effect: Activate Awoken Burst for all allies / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Bearamy Hug",
+            "value": "Activations: 1\nEffect: 【Autoskill】Skill nullification of any enemy skills / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/82/Amore_Charlotta_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Amore_Charlotta"
+      },
+      {
         "name": "Amore Kukurihime",
         "element": "Cool",
         "rarity": "UR",
@@ -12965,6 +13105,23 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/3d/Amore_Kukurihime_H.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Amore_Kukurihime"
+      },
+      {
+        "name": "Amore Timah",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Doggy Dinner",
+            "value": "Activations: 3\nMin Level Effect: Deal 500% Cool DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Deal 600% Cool DMG to all enemies / Unable to move 4 turns / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Doggy Dinner",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Cool allies' ATK・DEF 150% up from the first turn / 100% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/ef/Amore_Timah_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Amore_Timah"
       },
       {
         "name": "Anchor",
@@ -13290,6 +13447,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Chale"
       },
       {
+        "name": "Charlotta",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Bearamy Hug",
+            "value": "Activations: 1\nMin Level Effect: Activate Awoken Burst for all allies / 10% chance\nMax Level Effect: Activate Awoken Burst for all allies / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Bearamy Hug",
+            "value": "Activations: 1\nMin Level Effect: Activate Awoken Burst for all allies / 15% chance\nMax Level Effect: Activate Awoken Burst for all allies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/55/Charlotta.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Charlotta"
+      },
+      {
         "name": "Charon",
         "element": "Cool",
         "rarity": "UR",
@@ -13300,7 +13474,7 @@
           },
           {
             "name": "Awoken: ☆Waters of Styx",
-            "value": "Activations: 2\nMin Level Effect: 【Autoskill】 Skill nullification of any enemy skills / 50% chance\nMax Level Effect: 【Autoskill】 Skill nullification of any enemy skills / 65% chance "
+            "value": "Activations: 2\nMin Level Effect: 【Autoskill】 Skill nullification of any enemy skills / 50% chance\nMax Level Effect: 【Autoskill】 Skill nullification of any enemy skills / 65% chance"
           }
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/e/e2/Charon.png",
@@ -13743,6 +13917,23 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/3/3f/Dynamite_Cheer.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Dynamite_Cheer"
+      },
+      {
+        "name": "Dver",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Dwarf Hairpin",
+            "value": "Activations: 2\nMin Level Effect: Deal 100% Cool DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 100% Cool DMG to all enemies / Unable to move 3 turns / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Dwarf Hairpin",
+            "value": "Activations: 2\nMin Level Effect: Deal 150% Cool DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 150% Cool DMG to all enemies / Unable to move 3 turns / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/a4/Dver.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Dver"
       },
       {
         "name": "Dynatos Theseus",
@@ -15439,6 +15630,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Tiberius"
       },
       {
+        "name": "Timah",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Doggy Dinner",
+            "value": "Activations: 3\nMin Level Effect: Deal 400% Cool DMG to all enemies / Unable to move 4 turns / 15% chance\nMax Level Effect: Deal 500% Cool DMG to all enemies / Unable to move 4 turns / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Doggy Dinner",
+            "value": "Activations: 3\nMin Level Effect: Deal 500% Cool DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Deal 600% Cool DMG to all enemies / Unable to move 4 turns / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/48/Timah.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Timah"
+      },
+      {
         "name": "Torpedo Girl",
         "element": "Cool",
         "rarity": "UR",
@@ -15916,6 +16124,31 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/db/Egeria.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Egeria"
+      },
+      {
+        "name": "Hiraga The Great",
+        "element": "Cool",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Fireproof Cloth",
+            "value": "Activations: 1\nMin Level Effect: \n"
+          },
+          {
+            "name": "Second Skill: Fireproof Cloth",
+            "value": "Activations: 1\nEffect: \n"
+          },
+          {
+            "name": "Awoken: ☆Fireproof Cloth",
+            "value": "Activations: 1\nMin Level Effect: \n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Fireproof Cloth",
+            "value": "Activations: 1\nEffect: "
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/79/Hiraga_The_Great.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Hiraga_The_Great"
       },
       {
         "name": "Holy Angel",
@@ -30334,15 +30567,40 @@
           },
           {
             "name": "Awoken: ☆Crimson Tempest",
-            "value": "Activations: 4\nMin Level Effect: Deal 100% Dark DMG 12 times to the enemy / 10% chance\nMax Level Effect: Deal 100% Dark DMG 12 times to the enemy / 35% chance\n"
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Dark DMG 12 times to the enemy / 10% chance\nMax Level Effect: Deal 100% Dark DMG 12 times to the enemy / 35% chance\n"
           },
           {
             "name": "Awoken Second Skill: ☆Crimson Tempest",
-            "value": "Activations: 3\nEffect: 【Autoskill】Deal DMG to each enemy equivalent to 45% of that enemy's remaining soldiers after a successful attack / 35% chance"
+            "value": "Activations: 1\nEffect: 【Autoskill】Deal DMG to each enemy equivalent to 45% of that enemy's remaining soldiers after a successful attack / 35% chance"
           }
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/44/Lil%27_Crimson_Eyes.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Lil%27_Crimson_Eyes"
+      },
+      {
+        "name": "Lucrezia",
+        "element": "Dark",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Epic Shield Wall",
+            "value": "Activations: 3\nMin Level Effect: Deal 600% DMG to the enemy with the highest attack power with a simultaneous attack by all allies / 10% chance\nMax Level Effect: Deal 800% DMG to the enemy with the highest attack power with a simultaneous attack by all allies / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Epic Shield Wall",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of any enemy skills / 60% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Epic Shield Wall",
+            "value": "Activations: 3\nMin Level Effect: Deal 700% DMG to the enemy with the highest attack power with a simultaneous attack by all allies / 10% chance\nMax Level Effect: Deal 900% DMG to the enemy with the highest attack power with a simultaneous attack by all allies / 35% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Epic Shield Wall",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of any enemy skills / 70% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/4e/Lucrezia.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Lucrezia"
       },
       {
         "name": "Roskva &amp; Thialfi",
