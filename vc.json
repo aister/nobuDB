@@ -6651,6 +6651,27 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Oracle_Chair"
       },
       {
+        "name": "Oracle In Love",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Holy Chocolate",
+            "value": "Activations: 2\nMin Level Effect: Unleash a single ally's skill / 20% chance\nMax Level Effect: Unleash a single ally's skill / 25% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Holy Chocolate",
+            "value": "Activations: 2\nMin Level Effect: Unleash a single ally's skill / 25% chance\nMax Level Effect: Unleash a single ally's skill / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Holy Chocolate",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of enemy's non-attacking skill / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/41/Oracle_In_Love.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Oracle_In_Love"
+      },
+      {
         "name": "Oriens",
         "element": "Passion",
         "rarity": "UR",
@@ -16132,19 +16153,19 @@
         "skill": [
           {
             "name": "Skill: Fireproof Cloth",
-            "value": "Activations: 1\nMin Level Effect: \n"
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Cool DMG 4 times to all enemies / 5% chance\nMax Level Effect: Deal 100% Cool DMG 4 times to all enemies / 30% chance\n"
           },
           {
             "name": "Second Skill: Fireproof Cloth",
-            "value": "Activations: 1\nEffect: \n"
+            "value": "Activations: 1\nEffect: 【Autoskill】All Cool allies' ATK 400% up / 40% chance\n"
           },
           {
             "name": "Awoken: ☆Fireproof Cloth",
-            "value": "Activations: 1\nMin Level Effect: \n"
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Cool DMG 4 times to all enemies / 5% chance\nMax Level Effect: Deal 150% Cool DMG 4 times to all enemies / 30% chance\n"
           },
           {
             "name": "Awoken Second Skill: ☆Fireproof Cloth",
-            "value": "Activations: 1\nEffect: "
+            "value": "Activations: 1\nEffect: 【Autoskill】All Cool allies' ATK 400% up / 40% chance"
           }
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/79/Hiraga_The_Great.png",
@@ -19695,6 +19716,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Quetzalcoatl"
       },
       {
+        "name": "Quraly",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Crushing Hammer",
+            "value": "Activations: 2\nMin Level Effect: Deal 100% Light DMG to all enemies / Unable to move 2 turns / 10% chance\nMax Level Effect: Deal 100% Light DMG to all enemies / Unable to move 2 turns / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Crushing Hammer",
+            "value": "Activations: 2\nMin Level Effect: Deal 100% Light DMG to all enemies / Unable to move 2 turns / 15% chance\nMax Level Effect: Deal 100% Light DMG to all enemies / Unable to move 2 turns / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/ae/Quraly.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Quraly"
+      },
+      {
         "name": "Raphael",
         "element": "Light",
         "rarity": "SR",
@@ -20931,6 +20969,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Chocolate_Candy"
       },
       {
+        "name": "Christos",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Defensive Offense",
+            "value": "Activations: 2\nMin Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Light allies / 10% chance\nMax Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Light allies / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Defensive Offense",
+            "value": "Activations: 2\nMin Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Light allies / 15% chance\nMax Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Light allies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/81/Christos.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Christos"
+      },
+      {
         "name": "Clay Master",
         "element": "Light",
         "rarity": "UR",
@@ -21359,6 +21414,23 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/90/Futodama_New_Year_H.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Futodama_New_Year"
+      },
+      {
+        "name": "Fytir",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Flashy Magic",
+            "value": "Activations: 1\nMin Level Effect: All Light allies' ATK 600% • DEF 150% up / 15% chance\nMax Level Effect: All Light allies' ATK 600% • DEF 150% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Flashy Magic",
+            "value": "Activations: 1\nMin Level Effect: All Light allies' ATK 650% • DEF 200% up / 15% chance\nMax Level Effect: All Light allies' ATK 650% • DEF 200% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/76/Fytir.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Fytir"
       },
       {
         "name": "Ghostly Schwartz",
@@ -26080,6 +26152,19 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Holy_Crown"
       },
       {
+        "name": "Huang Gai",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Super Stiff Whip",
+            "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 10% chance\nMax Level Effect: Unleash a single ally's skill / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/95/Huang_Gai.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Huang_Gai"
+      },
+      {
         "name": "Hypnos",
         "element": "Dark",
         "rarity": "SR",
@@ -27062,6 +27147,19 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/0b/Tagirihime.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Tagirihime"
+      },
+      {
+        "name": "Taishi Ci",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Moonshot",
+            "value": "Activations: 3\nMin Level Effect: Deal 200% Dark DMG to all enemies / Absorb 20% / 15% chance\nMax Level Effect: Deal 250% Dark DMG to all enemies / Absorb 20% / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/46/Taishi_Ci.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Taishi_Ci"
       },
       {
         "name": "Takamine",
@@ -28423,6 +28521,19 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Foras"
       },
       {
+        "name": "Formal Gan Ning",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Mighty Flower",
+            "value": "Activations: 1\nMin Level Effect: Deal 400% Dark DMG 5 times to the enemy / 15% chance\nMax Level Effect: Deal 400% Dark DMG 5 times to the enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/7e/Formal_Gan_Ning_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Formal_Gan_Ning"
+      },
+      {
         "name": "Formula",
         "element": "Dark",
         "rarity": "UR",
@@ -28535,6 +28646,23 @@
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/4/46/Game_Master.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Game_Master"
+      },
+      {
+        "name": "Gan Ning",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Vanguard Spear",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Dark DMG 4 times to the enemy / 5% chance\nMax Level Effect: Deal 300% Dark DMG 4 times to the enemy / 10% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Vanguard Spear",
+            "value": "Activations: 1\nMin Level Effect: Deal 400% Dark DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 400% Dark DMG 4 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/80/Gan_Ning.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Gan_Ning"
       },
       {
         "name": "Gargoyle",
@@ -30353,6 +30481,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Zhong_Kui"
       },
       {
+        "name": "Zhou Yu",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Bewitching Strings",
+            "value": "Activations: 4\nMin Level Effect: 【Autoskill】Own ATK 40% up after every attack / Max 4 times\nMax Level Effect: 【Autoskill】Own ATK 45% up after every attack / Max 4 times\n"
+          },
+          {
+            "name": "Awoken: ☆Bewitching Strings",
+            "value": "Activations: 4\nMin Level Effect: 【Autoskill】Own ATK 55% up after every attack / Max 4 times\nMax Level Effect: 【Autoskill】Own ATK 60% up after every attack / Max 4 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/23/Zhou_Yu.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Zhou_Yu"
+      },
+      {
         "name": "Aisling",
         "element": "Dark",
         "rarity": "LR",
@@ -30653,6 +30798,31 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Sauin"
       },
       {
+        "name": "Sun Ce",
+        "element": "Dark",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Fiery Command",
+            "value": "Activations: 1\nMin Level Effect: Deal 1000% Dark DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 1000% Dark DMG 4 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Second Skill: Fiery Command",
+            "value": "Activations: 2\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill / 30% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Fiery Command",
+            "value": "Activations: 1\nMin Level Effect: Deal 1200% Dark DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 1200% Dark DMG 4 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Fiery Command",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill / 50% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/44/Sun_Ce.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Sun_Ce"
+      },
+      {
         "name": "True Wolf Fenrir",
         "element": "Dark",
         "rarity": "LR",
@@ -30819,6 +30989,19 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/0/0c/Slime_Queen%EF%BC%8B.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Slime_Queen%EF%BC%8B"
+      },
+      {
+        "name": "Super Medal Girl",
+        "element": "Special",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Buried Treasure III",
+            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】Battle EXP +30%\nMax Level Effect: 【Autoskill】Battle EXP +40%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/87/Super_Medal_Girl.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Super_Medal_Girl"
       },
       {
         "name": "Mirror Maiden (LR)",
