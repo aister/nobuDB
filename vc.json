@@ -5617,6 +5617,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Flashdance_Lantz"
       },
       {
+        "name": "Freyja",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Dual Blades",
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Passion DMG to all enemies / Unable to move 3 turns / 30% chance\nMax Level Effect: Deal 300% Passion DMG to all enemies / Unable to move 3 turns / 45% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Dual Blades",
+            "value": "Activations: 2\nMin Level Effect: Deal 350% Passion DMG to all enemies / Unable to move 3 turns / 45% chance\nMax Level Effect: Deal 400% Passion DMG to all enemies / Unable to move 3 turns / 55% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/cd/Freyja.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Freyja"
+      },
+      {
         "name": "Furfur",
         "element": "Passion",
         "rarity": "UR",
@@ -7874,6 +7891,31 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/6b/Queen_Shion.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Queen_Shion"
+      },
+      {
+        "name": "Roselia",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Rose World",
+            "value": "Activations: 3\nMin Level Effect: Deal 200% Passion DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 500% Passion DMG to all enemies / Unable to move 3 turns / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Rose World",
+            "value": "Activations: 3\nEffect: 【Autoskill】 Skill nullification of any enemy skills / 60% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Rose World",
+            "value": "Activations: 3\nMin Level Effect: Deal 250% Passion DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 550% Passion DMG to all enemies / Unable to move 3 turns / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Rose World",
+            "value": "Activations: 3\nEffect: 【Autoskill】 Skill nullification of any enemy skills / 70% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/f9/Roselia.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Roselia"
       },
       {
         "name": "Simon Says",
@@ -13974,6 +14016,40 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Dynatos_Theseus"
       },
       {
+        "name": "Eb-2",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Buster Prototype",
+            "value": "Activations: 1\nMin Level Effect: Deal 400% DMG to a single enemy with a simultaneous attack by all Cool allies / 10% chance\nMax Level Effect: Deal 450% DMG to a single enemy with a simultaneous attack by all Cool allies / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Buster Prototype",
+            "value": "Activations: 1\nMin Level Effect: Deal 450% DMG to a single enemy with a simultaneous attack by all Cool allies / 15% chance\nMax Level Effect: Deal 500% DMG to a single enemy with a simultaneous attack by all Cool allies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/b0/Eb-2.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Eb-2"
+      },
+      {
+        "name": "Eb-2 Custom",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Memory Program",
+            "value": "Activations: 1\nMin Level Effect: Deal 500% DMG to a single enemy with a simultaneous attack by all Cool allies / 15% chance\nMax Level Effect: Deal 550% DMG to a single enemy with a simultaneous attack by all Cool allies / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Memory Program",
+            "value": "Activations: 1\nEffect: 【Autoskill】Deal 250% Cool DMG to all enemies after an attack / Unable to move 2 turns / Can't be nullified / 30% chance / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d7/Eb-2_Custom_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Eb-2_Custom"
+      },
+      {
         "name": "Eden Maker",
         "element": "Cool",
         "rarity": "UR",
@@ -18399,6 +18475,23 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/e/e4/Chen_Gong.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Chen_Gong"
+      },
+      {
+        "name": "Celara",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Life Taker",
+            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 3 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Life Taker",
+            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 4 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 4 turn(s) / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/2b/Celara.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Celara"
       },
       {
         "name": "Chronos",
@@ -26947,6 +27040,23 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Sandcastle_Girl"
       },
       {
+        "name": "Sanja",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Endless Bragging",
+            "value": "Activations: 2\nMin Level Effect: Deal 100% Dark DMG to all enemies / Absorb 20% / 30% chance\nMax Level Effect: Deal 100% Dark DMG to all enemies / Absorb 20% / 35% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Endless Bragging",
+            "value": "Activations: 2\nMin Level Effect: Deal 150% Dark DMG to all enemies / Absorb 20% / 35% chance\nMax Level Effect: Deal 150% Dark DMG to all enemies / Absorb 20% / 40% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/81/Sanja.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Sanja"
+      },
+      {
         "name": "Satan",
         "element": "Dark",
         "rarity": "SR",
@@ -30746,6 +30856,31 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/4e/Lucrezia.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Lucrezia"
+      },
+      {
+        "name": "Qiao Sisters",
+        "element": "Dark",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Sexy & Cute",
+            "value": "Activations: 1\nMin Level Effect: \n"
+          },
+          {
+            "name": "Second Skill: Sexy & Cute",
+            "value": "Activations: 1\nEffect: \n"
+          },
+          {
+            "name": "Awoken: ☆Sexy & Cute",
+            "value": "Activations: 1\nMin Level Effect: \n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Sexy & Cute",
+            "value": "Activations: 1\nEffect: "
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/29/Qiao_Sisters.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Qiao_Sisters"
       },
       {
         "name": "Roskva &amp; Thialfi",
