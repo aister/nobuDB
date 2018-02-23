@@ -23757,6 +23757,31 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Ooyamatsumi"
       },
       {
+        "name": "Qiao Sisters",
+        "element": "Light",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Sexy & Cute",
+            "value": "Activations: 4\nMin Level Effect: Unleash all allies' skills / 5% chance\nMax Level Effect: Unleash all allies' skills / 20% chance\n"
+          },
+          {
+            "name": "Second Skill: Sexy & Cute",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Unit ATK • DEF +300%\n"
+          },
+          {
+            "name": "Awoken: ☆Sexy & Cute",
+            "value": "Activations: 4\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Sexy & Cute",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Unit ATK • DEF +350%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/29/Qiao_Sisters.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Qiao_Sisters"
+      },
+      {
         "name": "Sacred Pixie",
         "element": "Light",
         "rarity": "LR",
@@ -30856,31 +30881,6 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/4e/Lucrezia.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Lucrezia"
-      },
-      {
-        "name": "Qiao Sisters",
-        "element": "Dark",
-        "rarity": "LR",
-        "skill": [
-          {
-            "name": "Skill: Sexy & Cute",
-            "value": "Activations: 1\nMin Level Effect: \n"
-          },
-          {
-            "name": "Second Skill: Sexy & Cute",
-            "value": "Activations: 1\nEffect: \n"
-          },
-          {
-            "name": "Awoken: ☆Sexy & Cute",
-            "value": "Activations: 1\nMin Level Effect: \n"
-          },
-          {
-            "name": "Awoken Second Skill: ☆Sexy & Cute",
-            "value": "Activations: 1\nEffect: "
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/29/Qiao_Sisters.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Qiao_Sisters"
       },
       {
         "name": "Roskva &amp; Thialfi",
