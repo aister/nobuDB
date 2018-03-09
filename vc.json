@@ -12222,7 +12222,7 @@
             "value": "Activations: 2\nMin Level Effect: All enemies' can't move for 3 turn(s) / 10% chance\nMax Level Effect: All enemies' can't move for 3 turn(s) / 15% chance"
           }
         ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/4/4e/Sandy.png",
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/4e/Sandy.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Sandy"
       },
       {
@@ -21777,7 +21777,7 @@
             "value": "Activations: 1\nMin Level Effect: Fully resurrect to all allies / 20% chance\nMax Level Effect: Fully resurrect to all allies / 25% chance"
           }
         ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/9/9a/Hygieia.png",
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/9a/Hygieia.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Hygieia"
       },
       {
@@ -30993,6 +30993,31 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/37/Haunt.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Haunt"
+      },
+      {
+        "name": "Hyper Catcine",
+        "element": "Dark",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Catcine's Shot",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Dark DMG 4 times to all enemies / 5% chance\nMax Level Effect: Deal 100% Dark DMG 4 times to all enemies / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Catcine's Shot",
+            "value": "Activations: 2\nEffect: 【Autoskill】All allies' ATK • DEF 200% up from the first turn / 100% chance / Max 2 time\n"
+          },
+          {
+            "name": "Awoken: ☆Catcine's Shot",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Dark DMG 4 times to all enemies / 5% chance\nMax Level Effect: Deal 150% Dark DMG 4 times to all enemies / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Catcine's Shot",
+            "value": "Activations: 2\nEffect: 【Autoskill】All allies' ATK • DEF 250% up from the first turn / 100% chance / Max 2 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/61/Hyper_Catcine.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Hyper_Catcine"
       },
       {
         "name": "Inspired Relena",
