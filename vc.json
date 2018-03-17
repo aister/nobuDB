@@ -1279,7 +1279,7 @@
         "rarity": "R",
         "skill": [
           {
-            "name": "Skill: Gun &amp; blade",
+            "name": "Skill: Gun & blade",
             "value": "Activations: Infinite\nMin Level Effect: Deal 200% Passion DMG to a single enemy / 10% chance\nMax Level Effect: Deal 250% Passion DMG to a single enemy / 15% chance"
           }
         ],
@@ -3338,19 +3338,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Griffin"
       },
       {
-        "name": "Grimoire Of Curses",
-        "element": "Passion",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Grimoire of Curses",
-            "value": "Activations: Infinite\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/9a/Grimoire_Of_Curses.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Grimoire_Of_Curses"
-      },
-      {
         "name": "Heartthrob",
         "element": "Passion",
         "rarity": "SR",
@@ -3752,7 +3739,7 @@
         "rarity": "SR",
         "skill": [
           {
-            "name": "Skill: Pliant &amp; Staunch Fist",
+            "name": "Skill: Pliant & Staunch Fist",
             "value": "Activations: Infinite\nMin Level Effect: Deal 300% Passion DMG to all enemies / 15% chance\nMax Level Effect: Deal 400% Passion DMG to all enemies / 20% chance"
           }
         ],
@@ -4516,11 +4503,11 @@
         "rarity": "SR",
         "skill": [
           {
-            "name": "Skill: Sword &amp; Parasol",
+            "name": "Skill: Sword & Parasol",
             "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 30% chance\nMax Level Effect: Unleash a single ally's skill / 40% chance\n"
           },
           {
-            "name": "Awoken: ☆Sword &amp; Parasol",
+            "name": "Awoken: ☆Sword & Parasol",
             "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 35% chance\nMax Level Effect: Unleash a single ally's skill / 45% chance"
           }
         ],
@@ -5500,19 +5487,6 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/3/35/Empress_Cleopatra.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Empress_Cleopatra"
-      },
-      {
-        "name": "Encore Dress",
-        "element": "Passion",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Encore Dress",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/5/59/Encore_Dress_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Encore_Dress"
       },
       {
         "name": "Ester",
@@ -9322,7 +9296,7 @@
         "rarity": "R",
         "skill": [
           {
-            "name": "Skill: Venom &amp; Charm",
+            "name": "Skill: Venom & Charm",
             "value": "Activations: 3\nMin Level Effect: All enemies' DEF 25% down / 10% chance\nMax Level Effect: All enemies' DEF 25% down / 15% chance"
           }
         ],
@@ -10063,7 +10037,7 @@
         "rarity": "R",
         "skill": [
           {
-            "name": "Skill: Swords &amp; D-Spin",
+            "name": "Skill: Swords & D-Spin",
             "value": "Activations: Infinite\nMin Level Effect: Deal 250% Cool DMG to a single enemy / 10% chance\nMax Level Effect: Deal 350% Cool DMG to a single enemy / 15% chance"
           }
         ],
@@ -10594,7 +10568,7 @@
         "rarity": "SR",
         "skill": [
           {
-            "name": "Skill: Catch &amp; Eat",
+            "name": "Skill: Catch & Eat",
             "value": "Activations: 3\nMin Level Effect: Deal 250% Cool DMG to all enemies / Absorb 20% / 15% chance\nMax Level Effect: Deal 300% Cool DMG to all enemies / Absorb 20% / 20% chance"
           }
         ],
@@ -11376,19 +11350,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Hermes"
       },
       {
-        "name": "Hervor",
-        "element": "Cool",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Tyrhung",
-            "value": "Activations: Infinite\nMin Level Effect: Critical DMG to a single enemy / 5% chance\nMax Level Effect: Critical DMG to a single enemy / 10% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/8/8a/Hervor.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Hervor"
-      },
-      {
         "name": "Hijack",
         "element": "Cool",
         "rarity": "SR",
@@ -11721,19 +11682,6 @@
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/8/84/Matrix.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Matrix"
-      },
-      {
-        "name": "Maxwell",
-        "element": "Cool",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Molecular Breakdown",
-            "value": "Activations: 2\nMin Level Effect: Critical Cool DMG to a single enemy / 15% chance\nMax Level Effect: Critical Cool DMG to a single enemy / 20% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/d/d5/Maxwell.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Maxwell"
       },
       {
         "name": "Mega Mover",
@@ -12718,19 +12666,6 @@
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/8/88/Titan.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Titan"
-      },
-      {
-        "name": "Tone Of Rainbows",
-        "element": "Cool",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Tone Of Ralnbows",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/e/e5/Tone_Of_Rainbows_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Tone_Of_Rainbows"
       },
       {
         "name": "Tovare",
@@ -14528,40 +14463,6 @@
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/2/26/Jack_o%27_Lantern.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Jack_o%27_Lantern"
-      },
-      {
-        "name": "Jean",
-        "element": "Cool",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Acting Master",
-            "value": "Activations: 3\nMin Level Effect: Unleash single Allies skill / 20% chance\nMax Level Effect: Unleash single Allies skill / 25% chance\n"
-          },
-          {
-            "name": "Awoken: ☆Acting Master",
-            "value": "Activations: 3\nMin Level Effect: Unleash single Allies skill / 25% chance\nMax Level Effect: Unleash single Allies skill / 30% chance"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/2e/Jean.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Jean"
-      },
-      {
-        "name": "Juliet",
-        "element": "Cool",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Love Destiny",
-            "value": "Activations: 1\nMin Level Effect: All Cool allies' element ATK 350% up / 15% chance\nMax Level Effect: All Cool allies' element ATK 350% up / 20% chance\n"
-          },
-          {
-            "name": "Awoken: ☆Love Destiny",
-            "value": "Activations: 1\nMin Level Effect: All Cool allies' element ATK 450% up / 15% chance\nMax Level Effect: All Cool allies' element ATK 450% up / 20% chance"
-          }
-        ],
-        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/53/Juliet.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Juliet"
       },
       {
         "name": "Kaede",
@@ -19763,11 +19664,11 @@
         "rarity": "SR",
         "skill": [
           {
-            "name": "Skill: Holy &amp; Bright",
+            "name": "Skill: Holy & Bright",
             "value": "Activations: 1\nMin Level Effect: All allies' ATK 200% up / 10% chance\nMax Level Effect: All allies' ATK 200% up / 15% chance\n"
           },
           {
-            "name": "Awoken: ☆Holy &amp; Bright",
+            "name": "Awoken: ☆Holy & Bright",
             "value": "Activations: 1\nMin Level Effect: All allies' ATK 250% up / 15% chance\nMax Level Effect: All allies' ATK 250% up / 20% chance"
           }
         ],
@@ -19856,7 +19757,7 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Raphael"
       },
       {
-        "name": "Rise &amp; Shine",
+        "name": "Rise & Shine",
         "element": "Light",
         "rarity": "SR",
         "skill": [
@@ -20278,7 +20179,7 @@
         "rarity": "SR",
         "skill": [
           {
-            "name": "Skill: Bash &amp; Kick",
+            "name": "Skill: Bash & Kick",
             "value": "Activations: 1\nMin Level Effect: Own ATK 300% up / 10% chance\nMax Level Effect: Own ATK 300% up / 15% chance"
           }
         ],
@@ -22194,7 +22095,7 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Light_Luca"
       },
       {
-        "name": "Lily &amp; Mary",
+        "name": "Lily & Mary",
         "element": "Light",
         "rarity": "UR",
         "skill": [
@@ -24580,7 +24481,7 @@
         "rarity": "R",
         "skill": [
           {
-            "name": "Skill: Claws &amp; Fangs",
+            "name": "Skill: Claws & Fangs",
             "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 20% chance"
           }
         ],
@@ -25256,7 +25157,7 @@
         "rarity": "R",
         "skill": [
           {
-            "name": "Skill: Hot &amp; Cold",
+            "name": "Skill: Hot & Cold",
             "value": "Activations: Infinite\nMin Level Effect: Deal 250% Dark DMG to a single enemy / 10% chance\nMax Level Effect: Deal 350% Dark DMG to a single enemy / 15% chance"
           }
         ],
@@ -26399,19 +26300,6 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/d/d6/Hiruko.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Hiruko"
-      },
-      {
-        "name": "Holy Crown",
-        "element": "Dark",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Holy Crown",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/1/14/Holy_Crown.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Holy_Crown"
       },
       {
         "name": "Huang Gai",
@@ -29961,11 +29849,11 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Skill: Whirlwind &amp; Intrigue",
+            "name": "Skill: Whirlwind & Intrigue",
             "value": "Activations: 2\nMin Level Effect: Critical Dark DMG to a single enemy / 10% chance\nMax Level Effect: Critical Dark DMG to a single enemy / 15% chance\n"
           },
           {
-            "name": "Awoken: ☆Whirlwind &amp; Intrigue",
+            "name": "Awoken: ☆Whirlwind & Intrigue",
             "value": "Activations: 2\nMin Level Effect: Critical Dark DMG to a single enemy / 15% chance\nMax Level Effect: Critical Dark DMG to a single enemy / 20% chance"
           }
         ],
@@ -30413,19 +30301,6 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/5/56/Spinner_%28New%29.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Spinner_(New)"
-      },
-      {
-        "name": "Spirit Lantern",
-        "element": "Dark",
-        "rarity": "UR",
-        "skill": [
-          {
-            "name": "Skill: Spirit Lantern",
-            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +5%"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/a/a5/Spirit_Lantern_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Spirit_Lantern"
       },
       {
         "name": "Star Almach",
@@ -31120,7 +30995,7 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Lucrezia"
       },
       {
-        "name": "Roskva &amp; Thialfi",
+        "name": "Roskva & Thialfi",
         "element": "Dark",
         "rarity": "LR",
         "skill": [
@@ -31387,5 +31262,201 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/c8/Mirror_Maiden_%28LR%29.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Mirror_Maiden_(LR)"
-      }
+      },
+      {
+        "name": "Jean",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Acting Master",
+            "value": "Activations: 3\nMin Level Effect: Unleash single Allies skill / 20% chance\nMax Level Effect: Unleash single Allies skill / 25% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Acting Master",
+            "value": "Activations: 3\nMin Level Effect: Unleash single Allies skill / 25% chance\nMax Level Effect: Unleash single Allies skill / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/2e/Jean.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Jean"
+      },
+      {
+        "name": "Juliet",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Love Destiny",
+            "value": "Activations: 1\nMin Level Effect: All Cool allies' element ATK 350% up / 15% chance\nMax Level Effect: All Cool allies' element ATK 350% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Love Destiny",
+            "value": "Activations: 1\nMin Level Effect: All Cool allies' element ATK 450% up / 15% chance\nMax Level Effect: All Cool allies' element ATK 450% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/53/Juliet.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Juliet"
+      },
+      {
+        "name": "Maxwell",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Molecular Breakdown",
+            "value": "Activations: 2\nMin Level Effect: Critical Cool DMG to a single enemy / 15% chance\nMax Level Effect: Critical Cool DMG to a single enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/d/d5/Maxwell.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Maxwell"
+      },
+      {
+        "name": "Hervor",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Tyrhung",
+            "value": "Activations: Infinite\nMin Level Effect: Critical DMG to a single enemy / 5% chance\nMax Level Effect: Critical DMG to a single enemy / 10% chance"
+          }
+        ],
+        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/8/8a/Hervor.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Hervor"
+      },
+      {
+        "name": "Palladio",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: House of Battle",
+            "value": "Activations: Infinite\nMin Level Effect: Fully resurrect a single ally / 10% chance\nMax Level Effect: Fully resurrect a single ally / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/48/Palladio.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Palladio"
+      },
+      {
+        "name": "Wayland",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Weapon Creation",
+            "value": "Activations: 1\nMin Level Effect: Deal 250% Passion DMG to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: Deal 250% Passion DMG to all enemies / Unable to move 3 turns / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Weapon Creation",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Passion DMG to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: Deal 300% Passion DMG to all enemies / Unable to move 3 turns / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/28/Wayland.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Wayland"
+      },
+      {
+        "name": "Preening Wayland",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Furnace Fling",
+            "value": "Activations: 1\nMin Level Effect: Deal 350% Passion DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Deal 350% Passion DMG to all enemies / Unable to move 4 turns / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/12/Preening_Wayland_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Preening_Wayland"
+      },
+      {
+        "name": "Manaslu",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Beast Claws",
+            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 4 turn(s) / 25% chance\nMax Level Effect: All enemies can't move for 4 turn(s) / 30% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Beast Claws",
+            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 5 turn(s) / 30% chance\nMax Level Effect: All enemies can't move for 5 turn(s) / 35% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/08/Manaslu.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Manaslu"
+      },
+      {
+        "name": "Ninhursag",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Mountain Shatter",
+            "value": "Activations: 1\nMin Level Effect: Deal 1000% Passion DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 1000% Passion DMG 4 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Second Skill: Mountain Shatter",
+            "value": "Activations: 2\nEffect: Reduce gain damage 90%\nCounter attack 900% / 30% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Mountain Shatter",
+            "value": "Activations: 1\nMin Level Effect: Deal 1200% Passion DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 1200% Passion DMG 4 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Mountain Shatter",
+            "value": "Activations: 2\nEffect: Reduce gain damage 90%\nCounter attack 1000% / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/19/Ninhursag.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Ninhursag"
+      },
+      {
+        "name": "Bayard",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Dynamite Magic",
+            "value": "Activations: 1\nMin Level Effect: Deal 50% Cool DMG 7 times to the enemy / 15% chance\nMax Level Effect: Deal 50% Cool DMG 7 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Dynamite Magic",
+            "value": "Activations: 1\nMin Level Effect: Deal 50% Cool DMG 10 times to the enemy / 15% chance\nMax Level Effect: Deal 50% Cool DMG 10 times to the enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e8/Bayard.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Bayard"
+      },
+      {
+        "name": "Sedgwick",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Power Release",
+            "value": "Activations: 1\nMin Level Effect: All Cool allies' ATK 600% up / 15% chance\nMax Level Effect: All Cool allies' ATK 600% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Power Release",
+            "value": "Activations: 1\nMin Level Effect: All Cool allies' ATK 650% up / 15% chance\nMax Level Effect: All Cool allies' ATK 650% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/c8/Sedgwick.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Sedgwick"
+      },
+      {
+        "name": "Mithrin",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Megahardite Thesis",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 3 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Megahardite Thesis",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 3 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/68/Mithrin.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Mithrin"
+      }	  
     ]
