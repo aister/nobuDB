@@ -31330,7 +31330,7 @@
         "skill": [
           {
             "name": "Skill: House of Battle",
-            "value": "Activations: Infinite\nMin Level Effect: Fully resurrect a single ally / 10% chance\nMax Level Effect: Fully resurrect a single ally / 15% chance"
+            "value": "Activations: 1\nMin Level Effect: Fully resurrect a single ally / 10% chance\nMax Level Effect: Fully resurrect a single ally / 15% chance"
           }
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/48/Palladio.png",
