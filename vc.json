@@ -5375,7 +5375,7 @@
             "value": "Activations: 2\nMin Level Effect: 【Autoskill】If an ally has died in battle, fully resurrect a single ally / 100% chance\nMax Level Effect: 【Autoskill】If an ally has died in battle, fully resurrect a single ally / 100% chance\n"
           },
           {
-            "name": "Awoken Custom Skill: ☆Dimensional Adapt",
+            "name": "Awoken Second Skill: ☆Dimensional Adapt",
             "value": "Activations: 5\nMin Level Effect: 【Autoskill】 When own soldiers fall below the maximum amount, recover 20% of own soldiers / 100% chance\nMax Level Effect: 【Autoskill】 When own soldiers fall below the maximum amount, recover 20% of own soldiers / 100% chance"
           }
         ],
@@ -5583,7 +5583,7 @@
             "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 25% chance\nMax Level Effect: Unleash a single ally's skill / 30% chance\n"
           },
           {
-            "name": "Awoken Custom Skill: ☆Elemental Dancer",
+            "name": "Awoken Second Skill: ☆Elemental Dancer",
             "value": "Activations: 1\nEffect: 【Autoskill】If an ally has died in battle, fully resurrect a single ally / 100% chance"
           }
         ],
@@ -22657,7 +22657,7 @@
             "value": "Activations: 1\nMin Level Effect: Deal 200% Light DMG 6 times to the enemy / 10% chance\nMax Level Effect: Deal 200% Light DMG 6 times to the enemy / 15% chance\n"
           },
           {
-            "name": "Awoken Custom Skill: ☆Record Research",
+            "name": "Awoken Second Skill: ☆Record Research",
             "value": "Activations: 4\nEffect: 【Autoskill】Own ATK • DEF 60% up after every attack / Max 4 times"
           }
         ],
@@ -29288,16 +29288,8 @@
             "value": "Activations: 1\nMin Level Effect: Deal 40% Dark DMG 7 times to the enemy / 10% chance\nMax Level Effect: Deal 40% Dark DMG 7 times to the enemy / 15% chance\n"
           },
           {
-            "name": "Custom Skill: DMG x15 / Pt +200% (Only valid until 2017-05-02 11:59:59 +0900 JST )",
-            "value": "Activations: Infinite\nEffect: Deal 15X DMG to Archwitches / Subjugation Points Earned 200% UPOnly available against current Archwitches.\n"
-          },
-          {
             "name": "Awoken: ☆Hard Rock Drums",
             "value": "Activations: 1\nMin Level Effect: Deal 50% Dark DMG 10 times to the enemy / 10% chance\nMax Level Effect: Deal 50% Dark DMG 10 times to the enemy / 15% chance\n"
-          },
-          {
-            "name": "Awoken Custom Skill: DMG x15 / Pt +200% (Only valid until 2017-05-02 11:59:59 +0900 JST )",
-            "value": "Activations: Infinite\nEffect: Deal 15X DMG to Archwitches / Subjugation Points Earned 200% UPOnly available against current Archwitches."
           }
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/d/dd/Kennie.png",
@@ -31270,11 +31262,11 @@
         "skill": [
           {
             "name": "Skill: Acting Master",
-            "value": "Activations: 3\nMin Level Effect: Unleash single Allies skill / 20% chance\nMax Level Effect: Unleash single Allies skill / 25% chance\n"
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 20% chance\nMax Level Effect: Unleash a single ally's skill / 25% chance\n"
           },
           {
             "name": "Awoken: ☆Acting Master",
-            "value": "Activations: 3\nMin Level Effect: Unleash single Allies skill / 25% chance\nMax Level Effect: Unleash single Allies skill / 30% chance"
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 25% chance\nMax Level Effect: Unleash a single ally's skill / 30% chance"
           }
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/2e/Jean.png",
@@ -31287,11 +31279,11 @@
         "skill": [
           {
             "name": "Skill: Love Destiny",
-            "value": "Activations: 1\nMin Level Effect: All Cool allies' element ATK 350% up / 15% chance\nMax Level Effect: All Cool allies' element ATK 350% up / 20% chance\n"
+            "value": "Activations: 1\nMin Level Effect: All Cool allies' ATK 350% up / 15% chance\nMax Level Effect: All Cool allies' ATK 350% up / 20% chance\n"
           },
           {
             "name": "Awoken: ☆Love Destiny",
-            "value": "Activations: 1\nMin Level Effect: All Cool allies' element ATK 450% up / 15% chance\nMax Level Effect: All Cool allies' element ATK 450% up / 20% chance"
+            "value": "Activations: 1\nMin Level Effect: All Cool allies' ATK 450% up / 15% chance\nMax Level Effect: All Cool allies' ATK 450% up / 20% chance"
           }
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/53/Juliet.png",
@@ -31458,5 +31450,140 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/68/Mithrin.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Mithrin"
-      }	  
+      },
+      {
+        "name": "Kotka",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Grape Stomp",
+            "value": "Activations: 2\nMin Level Effect: Deal 450% DMG to all enemies / 20% chance\nMax Level Effect: Deal 450% DMG to all enemies / 30% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Grape Stomp",
+            "value": "Activations: 2\nMin Level Effect: Deal 550% DMG to all enemies / 25% chance\nMax Level Effect: Deal 550% DMG to all enemies / 35% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/24/Kotka.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Kotka"
+      },
+      {
+        "name": "Uitan",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Magic Love",
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Passion DMG to all enemies / Unable to move 3 turns / 30% chance\nMax Level Effect: Deal 300% Passion DMG to all enemies / Unable to move 3 turns / 45% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Magic Love",
+            "value": "Activations: 2\nMin Level Effect: Deal 350% Passion DMG to all enemies / Unable to move 3 turns / 45% chance\nMax Level Effect: Deal 400% Passion DMG to all enemies / Unable to move 3 turns / 55% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/b7/Uitan.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Uitan"
+      },
+      {
+        "name": "Cozily",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Soothing Embrace",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Cool allies' skills / 5% chance\nMax Level Effect: Unleash all Cool allies' skills / 10% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Soothing Embrace",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Cool allies' skills / 10% chance\nMax Level Effect: Unleash all Cool allies' skills / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/93/Cozily.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Cozily"
+      },
+      {
+        "name": "Bunny Cozily",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Adorable Bunny",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Cool allies' skills / 15% chance\nMax Level Effect: Unleash all Cool allies' skills / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Adorable Bunny",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Cool allies' ATK • DEF 100% up from the first turn / 100% chance / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/2f/Bunny_Cozily_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Bunny_Cozily"
+      },
+      {
+        "name": "Palella",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Animated Canvas",
+            "value": "Activations: 3\nMin Level Effect: 【Autoskill】All allies recover 30% after a successful attack / 100% chance / Max 3 times\nMax Level Effect: 【Autoskill】All allies recover 35% after a successful attack / 100% chance / Max 3 times\n"
+          },
+          {
+            "name": "Awoken: ☆Animated Canvas",
+            "value": "Activations: 3\nMin Level Effect: 【Autoskill】All allies recover 35% after a successful attack / 100% chance / Max 3 times\nMax Level Effect: 【Autoskill】All allies recover 40% after a successful attack / 100% chance / Max 3 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/4f/Palella.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Palella"
+      },
+      {
+        "name": "Deus Ex Machina",
+        "element": "Light",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Armageddon",
+            "value": "Activations: 3\nMin Level Effect: Deal 200% Light DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 500% Light DMG to all enemies / Unable to move 3 turns / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Armageddon",
+            "value": "Activations: 2\nEffect: 【Autoskill】All enemies' ATK • DEF 30% down after every attack / Max 2 times\n"
+          },
+          {
+            "name": "Awoken: ☆Armageddon",
+            "value": "Activations: 3\nMin Level Effect: Deal 250% Light DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 550% Light DMG to all enemies / Unable to move 3 turns / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Armageddon",
+            "value": "Activations: 2\nEffect: 【Autoskill】All enemies' ATK • DEF 40% down after every attack / Max 2 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/b7/Deus_Ex_Machina.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Deus_Ex_Machina"
+      },
+      {
+        "name": "Dragon Angel",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Dragon Tail",
+            "value": "Activations: 3\nMin Level Effect: Deal 300% Passion DMG to all enemies / Unable to move 5 turns / 15% chance\nMax Level Effect: Deal 600% Passion DMG to all enemies / Unable to move 5 turns / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Dragon Tail",
+            "value": "Activations: 2\nEffect: 【Autoskill】Resurrect and fully recover all allies after an attack / 50% chance / Max 2 times\n"
+          },
+          {
+            "name": "Awoken: ☆Dragon Tail",
+            "value": "Activations: 3\nMin Level Effect: Deal 400% Passion DMG to all enemies / Unable to move 5 turns / 15% chance\nMax Level Effect: Deal 800% Passion DMG to all enemies / Unable to move 5 turns / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Dragon Tail",
+            "value": "Activations: 2\nEffect: 【Autoskill】Resurrect and fully recover all allies after an attack / 60% chance / Max 2 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/ae/Dragon_Angel.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Dragon_Angel"
+      }
     ]
