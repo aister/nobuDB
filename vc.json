@@ -31585,5 +31585,301 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/ae/Dragon_Angel.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Dragon_Angel"
+      },
+      {
+        "name": "Lucky Fortuna",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Lucky Roulette",
+            "value": "Activations: 1\nMin Level Effect: Deal 40% Passion DMG 15 times to the enemy / 5% chance\nMax Level Effect: Deal 70% Passion DMG 15 times to the enemy / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Lucky Roulette",
+            "value": "Activations: Infinite\nEffect: 【Autoskill】Unit's all Passion ATK • DEF +300%\n"
+          },
+          {
+            "name": "Awoken: ☆Lucky Roulette",
+            "value": "Activations: 1\nMin Level Effect: Deal 60% Passion DMG 15 times to the enemy / 5% chance\nMax Level Effect: Deal 90% Passion DMG 15 times to the enemy / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Lucky Roulette",
+            "value": "Activations: Infinite\nEffect: 【Autoskill】Unit's all Passion ATK • DEF +350%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/63/Lucky_Fortuna.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Lucky_Fortuna"
+      },
+      {
+        "name": "Divine Eos",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Throbbing Wings",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Cool DMG 3 times to the enemy / 10% chance\nMax Level Effect: Deal 150% Cool DMG 3 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/f9/Divine_Eos.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Divine_Eos"
+      },
+      {
+        "name": "Mystic Eos",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Fluttering Wings",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Cool DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 200% Cool DMG 4 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Fluttering Wings",
+            "value": "Activations: 1\nMin Level Effect: Deal 250% Cool DMG 6 times to the enemy / 15% chance\nMax Level Effect: Deal 300% Cool DMG 6 times to the enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/9e/Mystic_Eos.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Mystic_Eos"
+      },
+      {
+        "name": "Dancing Eos",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Dancer's Power",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Cool DMG 9 times to the enemy / 15% chance\nMax Level Effect: Deal 350% Cool DMG 9 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Dancer's Power",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Cool allies' ATK 300% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/da/Dancing_Eos_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Dancing_Eos"
+      },
+      {
+        "name": "Moonshadow Eos",
+        "element": "Cool",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Celestial Rainbow",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Cool DMG 12 times to the enemy / 15% chance\nMax Level Effect: Deal 350% Cool DMG 12 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Second Skill: Celestial Rainbow",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Cool allies' ATK 400% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Celestial Rainbow",
+            "value": "Activations: 1\nMin Level Effect: Deal 350% Cool DMG 13 times to the enemy / 15% chance\nMax Level Effect: Deal 400% Cool DMG 13 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Celestial Rainbow",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Cool allies' ATK 400% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/16/Moonshadow_Eos.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Moonshadow_Eos"
+      },
+      {
+        "name": "Galileo",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Still a Genus!",
+            "value": "Activations: 3\nMin Level Effect: Deal 400% Passion DMG to all enemies / Unable to move 4 turns / 15% chance\nMax Level Effect: Deal 500% Passion DMG to all enemies / Unable to move 4 turns / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Still a Genus!",
+            "value": "Activations: 3\nMin Level Effect: Deal 500% Passion DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Deal 600% Passion DMG to all enemies / Unable to move 4 turns / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/be/Galileo.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Galileo"
+      },
+      {
+        "name": "Aurora Galileo",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Still a Genus!",
+            "value": "Activations: 3\nMin Level Effect: Deal 500% Passion DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Deal 600% Passion DMG to all enemies / Unable to move 4 turns / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Still a Genus!",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Passion allies' ATK・DEF 100% up from the first turn / 100% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/25/Aurora_Galileo_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Aurora_Galileo"
+      },
+      {
+        "name": "Mirei",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Aurora Watching",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Passion allies' skills / 10% chance\nMax Level Effect: Unleash all Passion allies' skills / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Aurora Watching",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Passion allies' skills / 15% chance\nMax Level Effect: Unleash all Passion allies' skills / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/14/Mirei.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Mirei"
+      },
+      {
+        "name": "Aurora Mirei",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Aurora Watching",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Passion allies' skills / 15% chance\nMax Level Effect: Unleash all Passion allies' skills / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Aurora Watching",
+            "value": "Activations: 1\nEffect: 【Autoskill】When own soldiers fall below a certain amount, all allies recover 100% / 50% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/57/Aurora_Mirei_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Aurora_Mirei"
+      },
+      {
+        "name": "Captain Cook",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Miraculous Hunt",
+            "value": "Activations: 1\nMin Level Effect: All Passion allies' ATK • DEF 200% up / 15% chance\nMax Level Effect: All Passion allies' ATK • DEF 200% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Miraculous Hunt",
+            "value": "Activations: 1\nMin Level Effect: All Passion allies' ATK • DEF 250% up / 15% chance\nMax Level Effect: All Passion allies' ATK • DEF 250% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/f2/Captain_Cook.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Captain_Cook"
+      },
+      {
+        "name": "Aurora Captain Cook",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Miraculous Hunt",
+            "value": "Activations: 1\nMin Level Effect: All Passion allies' ATK • DEF 250% up / 15% chance\nMax Level Effect: All Passion allies' ATK • DEF 250% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Miraculous Hunt",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill /30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d0/Aurora_Captain_Cook_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Aurora_Captain_Cook"
+      },
+      {
+        "name": "Securie",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Exorcise Sword",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Passion DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 100% Passion DMG to all enemies / Unable to move 3 turns / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Exorcise Sword",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Passion DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 150% Passion DMG to all enemies / Unable to move 3 turns / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/cf/Securie.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Securie"
+      },
+      {
+        "name": "Halley",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: 76-Year Plunge",
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 20% chance\nMax Level Effect: Unleash a single ally's skill / 25% chance\n"
+          },
+          {
+            "name": "Awoken: ☆76-Year Plunge",
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 25% chance\nMax Level Effect: Unleash a single ally's skill / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆76-Year Plunge",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/60/Halley.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Halley"
+      },
+      {
+        "name": "Party Oracle",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Holy Popper",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Passion DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 150% Passion DMG 4 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Holy Popper",
+            "value": "Activations: 1\nMin Level Effect: Deal 250% Passion DMG 5 times to the enemy / 15% chance\nMax Level Effect: Deal 250% Passion DMG 5 times to the enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/fc/Party_Oracle.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Party_Oracle"
+      },
+      {
+        "name": "Party Alchemist",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Anniversary Bomb",
+            "value": "Activations: 2\nMin Level Effect: Unleash a random skill / 20% chance\nMax Level Effect: Unleash a random skill / 30% chance\nRandom Skill Effects:\nOwn ATK • DEF 100% up\nOwn ATK • DEF 400% up\nOwn ATK • DEF 400% up\nAll Passion allies' ATK 400% • DEF 400% up\nAll allies' ATK 500% up / DEF 100% up\n"
+          },
+          {
+            "name": "Awoken: ☆Anniversary Bomb",
+            "value": "Activations: 2\nMin Level Effect: Unleash a random skill / 30% chance\nMax Level Effect: Unleash a random skill / 35% chance\nRandom Skill Effects:\nOwn ATK • DEF 100% up\nOwn ATK • DEF 400% up\nOwn ATK • DEF 400% up\nAll Passion allies' ATK 400% • DEF 400% up\nAll allies' ATK 500% up / DEF 100% up"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/67/Party_Alchemist.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Party_Alchemist"
+      },
+      {
+        "name": "Celestial Trio",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Celestial Party",
+            "value": "Activations: 1\nMin Level Effect: All Passion allies' ATK 500% • DEF 250% up / 5% chance\nMax Level Effect: All Passion allies' ATK 500% • DEF 250% up / 15% chance\n"
+          },
+          {
+            "name": "Second Skill: Celestial Party",
+            "value": "Activations: 2\nEffect: 【Autoskill】All allies recover 75% after a successfull attack / 100% chance / Max 2 times\n"
+          },
+          {
+            "name": "Awoken: ☆Celestial Party",
+            "value": "Activations: 1\nMin Level Effect: All Passion allies' ATK 600% • DEF 300% up / 15% chance\nMax Level Effect: All Passion allies' ATK 600% • DEF 300% up / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Celestial Party",
+            "value": "Activations: 2\nEffect: 【Autoskill】All allies recover 100% after a successfull attack / 100% chance / Max 2 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/da/Celestial_Trio.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Celestial_Trio"
       }
     ]
