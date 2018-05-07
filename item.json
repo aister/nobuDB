@@ -1,6 +1,6 @@
 {
   "A1": {
-    "name": "Hero's Proof (英雄の証)",
+    "name": "Proof of Hero (英雄の証)",
     "AP": "Okeanos - Pirate Ship\n海賊船\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_03_free.php)",
     "drop": "America - Dallas\nダラス\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_05_free.php)",
     "location": [
@@ -36,7 +36,7 @@
     "img": "http://vignette1.wikia.nocookie.net/fategrandorder/images/a/a7/Heros_proof.png"
   },
   "A2": {
-    "name": "Unlucky Bones (凶骨)",
+    "name": "Evil Bone (凶骨)",
     "AP": "Fuyuki - Unconfirmed Coordinate X-C\n未確認座標X-C\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_00_free.php)",
     "drop": "Fuyuki - Unconfirmed Coordinate X-G\n未確認座標X-G\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_00_free.php)",
     "location": [
@@ -112,7 +112,7 @@
     "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/6/6f/Dragon_fang.png"
   },
   "A4": {
-    "name": "Void's Refuse (虚影の塵)",
+    "name": "Void's Dust (虚影の塵)",
     "AP": "America - Charlotte\nシャーロット\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_05_free.php)",
     "drop": "America - Charlotte\nシャーロット\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_05_free.php)",
     "location": [
@@ -236,7 +236,7 @@
     "img": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/af/Stimulus_Gunpowder.png"
   },
   "B1": {
-    "name": "Yggdrasil Seed (世界樹の種)\n",
+    "name": "Seed of Yggdrassil (世界樹の種)\n",
     "AP": "Babylonia - Abolished Metropolis Babylon\n廃都バビロン\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
     "drop": "Babylonia - Abolished Metropolis Babylon\n廃都バビロン\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
     "location": [
@@ -316,7 +316,7 @@
     "img": "http://vignette1.wikia.nocookie.net/fategrandorder/images/b/b1/Ghost_lantern.png"
   },
   "B3": {
-    "name": "Octuplet Twin Crystals (八連双晶)",
+    "name": "Octuplet Crystals (八連双晶)",
     "AP": "Camelot - Holy City Districts\n聖都市街\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
     "drop": "Camelot - Holy City Districts\n聖都市街\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
     "location": [
@@ -348,7 +348,7 @@
     "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/8/84/Octuplet_twin_crystals.png"
   },
   "B4": {
-    "name": "Snake Jewel (蛇の宝玉)\n",
+    "name": "Serpent Jewel (蛇の宝玉)\n",
     "AP": "Babylonia - Marshland\n湿原\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
     "drop": "Chaldea (Fri) - Caster 30AP\n術上級",
     "location": [
@@ -376,7 +376,7 @@
     "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/2/28/Snake_jewel.png"
   },
   "B5": {
-    "name": "Phoenix Plume (鳳凰の羽根)",
+    "name": "Phoenix Feather (鳳凰の羽根)",
     "AP": "Salem - Public Chapel\n公会堂\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_04_free.php)",
     "drop": "Salem - Public Chapel\n公会堂\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_04_free.php)",
     "location": [
@@ -400,7 +400,7 @@
     "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/c/c4/Phoenix_plume.png"
   },
   "B6": {
-    "name": "Infinity Gear (無間の歯車)",
+    "name": "Eternal Gear (無間の歯車)",
     "AP": "Shinjuku - Party Hall\nバレルタワー\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_01_free.php)",
     "drop": "Shinjuku - Party Hall\nバレルタワー\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_01_free.php)",
     "location": [
@@ -460,7 +460,7 @@
     "img": "http://vignette4.wikia.nocookie.net/fategrandorder/images/3/3c/Homunculus_baby.png"
   },
   "B9": {
-    "name": "Meteoric Horseshoe (隕蹄鉄)",
+    "name": "Meteor Horseshoe (隕蹄鉄)",
     "AP": "Camelot - Vast Land of Nothingness\n無の大地\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
     "drop": "Camelot - Vast Land of Nothingness\n無の大地\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
     "location": [
@@ -532,7 +532,7 @@
     "img": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9c/Kotan_Magatama.png"
   },
   "C1": {
-    "name": "Chaos Claw (混沌の爪)",
+    "name": "Claw of Chaos (混沌の爪)",
     "AP": "America - Des Moines\nデモイン\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_05_free.php)",
     "drop": "Anastasia - Yaga Ryazan\nヤガ・リャザン\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_lostbelt_01_free.php)",
     "location": [
@@ -624,7 +624,7 @@
     "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/7/7b/Spiritroot.png"
   },
   "C5": {
-    "name": "War Horse's Small Horn (戦馬の幼角)",
+    "name": "Warhorse's Young Horn (戦馬の幼角)",
     "AP": "Camelot - Eastern Village\n東の村\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
     "drop": "Camelot - Eastern Village\n東の村\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
     "location": [
@@ -644,7 +644,7 @@
     "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/b/b9/Horsehorn.png"
   },
   "C6": {
-    "name": "Tear Stone of Blood (血の涙石)",
+    "name": "Tearstone of Blood (血の涙石)",
     "AP": "Shinjuku - Shinjuku 2-chome\n新宿二丁目\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_01_free.php)",
     "drop": "Shinjuku - Shinjuku 2-chome\n新宿二丁目\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_01_free.php)",
     "location": [
@@ -660,7 +660,7 @@
     "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/f/ff/Bloodtear.png"
   },
   "C7": {
-    "name": "Black Tallow (黒獣脂)",
+    "name": "Black Beast Grease (黒獣脂)",
     "AP": "Babylonia - Northern Hill\n北の高台\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
     "drop": "Babylonia - Northern Hill\n北の高台\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
     "location": [
