@@ -2705,7 +2705,7 @@
             "name": "Skill: Gift of Magic",
             "value": "Activations: 1\nMin Level Effect: Deal 150% Passion DMG 3 times to the enemy / 40% chance\nMax Level Effect: Deal 150% Passion DMG 3 times to the enemy / 55% chance"
           },
-    	  {
+        {
             "name": "Awoken: ☆Gift of Magic",
             "value": "Activations: 4\nMin Level Effect: Deal 150% Passion DMG 4 times to the enemy / 45% chance\nMax Level Effect: Deal 150% Passion DMG 4 times to the enemy / 65% chance"
           }
@@ -2792,7 +2792,7 @@
             "name": "Skill: Empty Vial Storm",
             "value": "Activations: 1\nMin Level Effect: All Passion allies' ATK • DEF 200% up / 15% chance\nMax Level Effect: All Passion allies' ATK • DEF 200% up / 20% chance"
           },
-    	  {
+        {
             "name": "Awoken: ☆Empty Vial Storm",
             "value": "Activations: 4\nMin Level Effect: All Passion allies' ATK • DEF 250% up / 15% chance\nMax Level Effect: All Passion allies' ATK • DEF 250% up / 20% chance"
           }
@@ -3673,10 +3673,10 @@
             "name": "Skill: Lovely Lullaby",
             "value": "Activations: 1\nMin Level Effect: All Passion allies' ATK • DEF 200% up / 15% chance\nMax Level Effect: All Passion allies' ATK • DEF 200% up / 20% chance\n"
           },
-    	  {
-    		"name": "Awoken: ☆Lovely Lullaby",
+        {
+        "name": "Awoken: ☆Lovely Lullaby",
             "value": "Activations: 1\nMin Level Effect: All Passion allies' ATK • DEF 250% up / 15% chance\nMax Level Effect: All Passion allies' ATK • DEF 250% up / 20% chance"
-    	  }
+        }
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/c1/Madre.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Madre"
@@ -4863,7 +4863,7 @@
           {
             "name": "Awoken: ☆Gigablaze",
             "value": "Activations: Infinite\nMin Level Effect: Deal 350% Passion DMG to all enemies / 15% chance\nMax Level Effect: Deal 450% Passion DMG to all enemies / 20% chance"
-          }		  
+          }     
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/9/90/Belisama.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Belisama"
@@ -10893,7 +10893,7 @@
             "name": "Skill: Royal Herb Tea",
             "value": "Activations: 2\nMin Level Effect: Deal 400% Cool DMG to all enemies / 10% chance\nMax Level Effect: Deal 400% Cool DMG to all enemies / 15% chance\n"
           },
-    	  {
+        {
             "name": "Awoken: ☆Royal Herb Tea",
             "value": "Activations: 2\nMin Level Effect: Deal 500% Cool DMG to all enemies / 15% chance\nMax Level Effect: Deal 500% Cool DMG to all enemies / 20% chance"
           }
@@ -11186,7 +11186,7 @@
             "name": "Skill: Jumbo Tray",
             "value": "Activations: 1\nMin Level Effect: Deal 100% Cool DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 100% Cool DMG to all enemies / Unable to move 3 turns / 15% chance\n"
           },
-    	  {
+        {
             "name": "Awoken: ☆Jumbo Tray",
             "value": "Activations: 1\nMin Level Effect: Deal 150% Cool DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 150% Cool DMG to all enemies / Unable to move 3 turns / 15% chance"
           }
@@ -12624,7 +12624,7 @@
             "name": "Skill: Amorous Arrow",
             "value": "Activations: 1\nMin Level Effect: All enemies' ATK 60% down / 15% chance\nMax Level Effect: All enemies' ATK 60% down / 20% chance\n"
           },
-    	  {
+        {
             "name": "Awoken: ☆Amorous Arrow",
             "value": "Activations: 1\nMin Level Effect: All enemies' ATK 60% down / 20% chance\nMax Level Effect: All enemies' ATK 60% down / 25% chance"
           }
@@ -32345,11 +32345,11 @@
         "rarity": "SR",
         "skill": [
           {
-            "name": "Skill: High Volt Drums	",
+            "name": "Skill: High Volt Drums",
             "value": "Activations: 1\nMin Level Effect: Deal 150% Light DMG to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: Deal 150% Light DMG to all enemies / Unable to move 3 turns / 20% chance\n"
           },
           {
-            "name": "Awoken: ☆High Volt Drums	",
+            "name": "Awoken: ☆High Volt Drums",
             "value": "Activations: 1\nMin Level Effect: Deal 200% Light DMG to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: Deal 200% Light DMG to all enemies / Unable to move 3 turns / 20% chance"
           }
         ],
@@ -32729,4 +32729,4 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Time_Chronos"
       }
     ]
-	
+  
