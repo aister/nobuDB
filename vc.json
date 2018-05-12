@@ -32710,19 +32710,19 @@
         "skill": [
           {
             "name": "Skill: Time Travel Clock",
-            "value": "Activations: 1\nMin Level Effect: \n"
+            "value": "Activations: 2\nMin Level Effect: Deal 200% Light DMG to all enemies / Unable to move 6 turns / 10% chance\nMax Level Effect: Deal 400% Light DMG to all enemies / Unable to move 6 turns / 25% chance\n"
           },
           {
             "name": "Second Skill: Time Travel Clock",
-            "value": "Activations: 1\nEffect: \n"
+            "value": "Activations: 2\nEffect: 【Autoskill】All enemies' ATK • DEF 30% down from the first turn / 100% chance\n"
           },
           {
             "name": "Awoken: ☆Time Travel Clock",
-            "value": "Activations: 1\nMin Level Effect: \n"
+            "value": "Activations: 2\nMin Level Effect: Deal 300% Light DMG to all enemies / Unable to move 6 turns / 10% chance\nMax Level Effect: Deal 500% Light DMG to all enemies / Unable to move 6 turns / 25% chance\n"
           },
           {
             "name": "Awoken Second Skill: ☆Time Travel Clock",
-            "value": "Activations: 1\nEffect: "
+            "value": "Activations: 2\nEffect: 【Autoskill】All enemies' ATK • DEF 40% down from the first turn / 100% chance"
           }
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/0b/Time_Chronos.png",
