@@ -32710,23 +32710,189 @@
         "skill": [
           {
             "name": "Skill: Time Travel Clock",
-            "value": "Activations: 1\nMin Level Effect: \n"
+            "value": "Activations: 2\nMin Level Effect: Deal 200% Light DMG to all enemies / Unable to move 6 turns / 10% chance\nMax Level Effect: Deal 400% Light DMG to all enemies / Unable to move 6 turns / 25% chance\n"
           },
           {
             "name": "Second Skill: Time Travel Clock",
-            "value": "Activations: 1\nEffect: \n"
+            "value": "Activations: 2\nEffect: 【Autoskill】All enemies' ATK • DEF 30% down from the first turn / 100% chance\n"
           },
           {
             "name": "Awoken: ☆Time Travel Clock",
-            "value": "Activations: 1\nMin Level Effect: \n"
+            "value": "Activations: 2\nMin Level Effect: Deal 300% Light DMG to all enemies / Unable to move 6 turns / 10% chance\nMax Level Effect: Deal 500% Light DMG to all enemies / Unable to move 6 turns / 25% chance\n"
           },
           {
             "name": "Awoken Second Skill: ☆Time Travel Clock",
-            "value": "Activations: 1\nEffect: "
+            "value": "Activations: 2\nEffect: 【Autoskill】All enemies' ATK • DEF 40% down from the first turn / 100% chance"
           }
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/0b/Time_Chronos.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Time_Chronos"
+      },
+      {
+        "name": "Sogia",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Blade of Cairn",
+            "value": "Activations: 1\nMin Level Effect: All Passion allies' ATK • DEF 200% up / 15% chance\nMax Level Effect: All Passion allies' ATK • DEF 200% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/b8/Sogia.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Sogia"
+      },
+      {
+        "name": "Minister Cairn",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Whip of Love",
+            "value": "Activations: 3\nMin Level Effect: Deal 350% Passion DMG to all enemies / Absorb 20% / 15% chance\nMax Level Effect: Deal 350% Passion DMG to all enemies / Absorb 20% / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Whip of Love",
+            "value": "Activations: 3\nMin Level Effect: Deal 400% Passion DMG to all enemies / Absorb 30% / 15% chance\nMax Level Effect: Deal 400% Passion DMG to all enemies / Absorb 30% / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/75/Minister_Cairn.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Minister_Cairn"
+      },
+      {
+        "name": "Nurse Cairn",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Calamity Healing",
+            "value": "Activations: 3\nMin Level Effect: Deal 450% Passion DMG to all enemies / Absorb 30% / 15% chance\nMax Level Effect: Deal 450% Passion DMG to all enemies / Absorb 30% / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/ea/Nurse_Cairn_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Nurse_Cairn"
+      },
+      {
+        "name": "PM Demise",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Banishing Love",
+            "value": "Activations: 1\nMin Level Effect: Deal 250% Passion DMG to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: Deal 250% Passion DMG to all enemies / Unable to move 3 turns / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Banishing Love",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Passion DMG to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: Deal 300% Passion DMG to all enemies / Unable to move 3 turns / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/8b/PM_Demise.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/PM_Demise"
+      },
+      {
+        "name": "Vice Chair Demise",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Calamity Loop",
+            "value": "Activations: 2\nMin Level Effect: Deal 300% Passion DMG to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: Deal 300% Passion DMG to all enemies / Unable to move 3 turns / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/fb/Vice_Chair_Demise_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Vice_Chair_Demise"
+      },
+      {
+        "name": "Monarda",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Fiery Field",
+            "value": "Activations: 2\nMin Level Effect: Deal 400% DMG to a single enemy with a simultaneous attack by all Passion allies / 15% chance\nMax Level Effect: Deal 400% DMG to a single enemy with a simultaneous attack by all Passion allies / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Fiery Field",
+            "value": "Activations: 2\nMin Level Effect: Deal 450% DMG to a single enemy with a simultaneous attack by all Passion allies / 15% chance\nMax Level Effect: Deal 500% DMG to a single enemy with a simultaneous attack by all Passion allies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/eb/Monarda.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Monarda"
+      },
+      {
+        "name": "Hephaestus",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Relic Creation",
+            "value": "Activations: 4\nMin Level Effect: Unleash a single ally's skill / 10% chance\nMax Level Effect: Unleash a single ally's skill / 35% chance\n"
+          },
+          {
+            "name": "Second Skill: Relic Creation",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of any enemy skills / 60% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Relic Creation",
+            "value": "Activations: 4\nMin Level Effect: Unleash a single ally's skill / 15% chance\nMax Level Effect: Unleash a single ally's skill / 40% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Relic Creation",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of any enemy skills / 70% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/25/Hephaestus.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Hephaestus"
+      },
+      {
+        "name": "Rosa Canina",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Thorny Rose Wrap",
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Thorny Rose Wrap",
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 15% chance\nMax Level Effect: Unleash all allies' skills / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d7/Rosa_Canina.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Rosa_Canina"
+      },
+      {
+        "name": "Karen",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Lovely Bouquet",
+            "value": "Activations: 1\nMin Level Effect: Deal 40% Cool DMG 7 times to the enemy / 10% chance\nMax Level Effect: Deal 40% Cool DMG 7 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Lovely Bouquet",
+            "value": "Activations: 1\nMin Level Effect: Deal 50% Cool DMG 10 times to the enemy / 10% chance\nMax Level Effect: Deal 50% Cool DMG 10 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/71/Karen.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Karen"
+      },
+      {
+        "name": "Momiji",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Sublime Beauty",
+            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 50% down / 15% chance\nMax Level Effect: All enemies' ATK 50% down / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Sublime Beauty",
+            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 50% down / 20% chance\nMax Level Effect: All enemies' ATK 50% down / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/53/Momiji.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Momiji"
       }
     ]
   
