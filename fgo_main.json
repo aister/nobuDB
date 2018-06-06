@@ -2087,7 +2087,7 @@
     "NP": "(Arts) Lord Chaldeas\nVirtual Noble Phantasm Pseudo-Deployment/\nCornerstone of Human Order\nIncrease DEF (3 turns) [Overcharge]\nDecrease damage received (3 turns)\nTarget: All Allies",
     "alignment": "Lawful Good",
     "desc": "The figure of Mash Kyrielight, a Chaldean clerk, who underwent a possession union with a Servant. A so-called Demi-Servant.",
-    "item": "Proof of Hero: 5\n\nDragon Fang: 5\n\nSeed of Yggdrassil: 5\n\nOctuplet Crystals: 5\n\nVoid's Dust: 5\n\nEternal Gear: 5\n\nPhoenix Feather: 5\n\nDragon's Reverse Scale: 5\n\nCrystallized Lore: 1"
+    "item": "None"
   },
   "001.5": {
     "rarity": "4",
@@ -2106,7 +2106,7 @@
     "NP": "(Arts) Lord Chaldeas\nVirtual Noble Phantasm Pseudo-Deployment/\nCornerstone of Human Order\nIncrease DEF (3 turns) [Overcharge]\nDecrease damage received (3 turns)\nTarget: All Allies",
     "alignment": "Lawful Good",
     "desc": "The figure of Mash Kyrielight, a Chaldean clerk, who underwent a possession union with a Servant. A so-called Demi-Servant.",
-    "item": "Proof of Hero: 5\n\nDragon Fang: 5\n\nSeed of Yggdrassil: 5\n\nOctuplet Crystals: 5\n\nVoid's Dust: 5\n\nEternal Gear: 5\n\nPhoenix Feather: 5\n\nDragon's Reverse Scale:  5\n\nCrystallized Lore: 1"
+    "item": "None"
   },
   "002": {
     "rarity": "5",
@@ -3683,7 +3683,7 @@
     "NP": "(Buster) Pashupata\nDark Hand of the Destruction God\nDeal heavy damage to all enemies\nLow chance to inflict Death\nAdditional chance to inflict Death Divine enemies\nDecrease DEF (3 turns) [Overcharge]\nTarget: All Enemies",
     "alignment": "Lawful Neutral",
     "desc": "A great hero from the ancient epic poem from India, ｢Mahabharata｣. The Mahabharata is a dazzling story that gather all heroes from India, but it is no exaggeration to say that Arjuna is an existence placed at the center of all it.",
-    "item": "Archer Piece: 5\nProof of Hero: 22\nArcher Piece: 12\n\nSerpent Jewel: 4\nPhoenix Feather: 8\nArcher Monument: 5\n\nSerpent Jewel: 8\nHeart of the Foreign God: 5\nArcher Monument: 12"
+    "item": "Archer Piece: 5\n\nProof of Hero: 22\nArcher Piece: 12\n\nSerpent Jewel: 4\nPhoenix Feather: 8\nArcher Monument: 5\n\nSerpent Jewel: 8\nHeart of the Foreign God: 5\nArcher Monument: 12"
   },
   "085": {
     "rarity": "5",
