@@ -78,19 +78,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Beastmaster"
       },
       {
-        "name": "Beastmaster (Old)",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Roar of the beast",
-            "value": "Activations: 3\nMin Level Effect: All enemies' ATK 25% down / 5% chance\nMax Level Effect: All enemies' ATK 25% down / 10% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/0/0a/Beastmaster_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Beastmaster_(Old)"
-      },
-      {
         "name": "Body Guard",
         "element": "Passion",
         "rarity": "N",
@@ -156,19 +143,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Dancer"
       },
       {
-        "name": "Dancer (Old)",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Haste dance",
-            "value": "Activations: 1\nMin Level Effect: Take 2 extra turn(s) / battle start 15% chance\nMax Level Effect: Take 2 extra turn(s) / battle start 25% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/7/76/Dancer_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Dancer_(Old)"
-      },
-      {
         "name": "Debris Eater",
         "element": "Passion",
         "rarity": "N",
@@ -193,19 +167,6 @@
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/4/4e/Dragon_Knight.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Dragon_Knight"
-      },
-      {
-        "name": "Dragon Knight (Old)",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Air assault",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% Passion damage to a single enemy / 10% chance\nMax Level Effect: Deal 250% Passion DMG to a single enemy / battle start 30% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/a/af/Dragon_Knight_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Dragon_Knight_(Old)"
       },
       {
         "name": "Duckling Look-a-Like",
@@ -286,19 +247,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Gnome"
       },
       {
-        "name": "Gnome (Old)",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Earth defense",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit DEF +3% \nMax Level Effect: 【Autoskill】 Unit DEF +13% "
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/c/c5/Gnome_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Gnome_(Old)"
-      },
-      {
         "name": "Guide Master",
         "element": "Passion",
         "rarity": "N",
@@ -323,19 +271,6 @@
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/1/1b/Harpy.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Harpy"
-      },
-      {
-        "name": "Harpy (Old)",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Harpy voice",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/d/d5/Harpy_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Harpy_(Old)"
       },
       {
         "name": "Harvest Girl",
@@ -388,19 +323,6 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/4/4b/Hunter.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Hunter"
-      },
-      {
-        "name": "Hunter (Old)",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Mix",
-            "value": "Activations: Infinite\nMin Level Effect: Recovers 50% of its own troops / near defeat 25% chance\nMax Level Effect: Recovers 70% of its own troops / near defeat 35% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/0/02/Hunter_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Hunter_(Old)"
       },
       {
         "name": "Kunoichi",
@@ -479,19 +401,6 @@
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/5/55/Mechanic.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Mechanic"
-      },
-      {
-        "name": "Mechanic (Old)",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Laser beam",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% Passion DMG to a single enemy / 10% chance\nMax Level Effect: Deal 250% Passion DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/c/ce/Mechanic_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Mechanic_(Old)"
       },
       {
         "name": "Messenger",
@@ -1352,19 +1261,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Dragonewt"
       },
       {
-        "name": "Dragonewt (Old)",
-        "element": "Passion",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Dragon morph",
-            "value": "Activations: 1\nMin Level Effect: Own ATK 200% up / near defeat 20% chance\nMax Level Effect: Own ATK 200% up / near defeat 20% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/6/6e/Dragonewt_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Dragonewt_(Old)"
-      },
-      {
         "name": "Esper",
         "element": "Passion",
         "rarity": "R",
@@ -1389,19 +1285,6 @@
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/3/3d/Farmer.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Farmer"
-      },
-      {
-        "name": "Farmer (Old)",
-        "element": "Passion",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Reap",
-            "value": "Activations: Infinite\nMin Level Effect: A single ally recovers 50% / 10% chance\nMax Level Effect: A single ally recovers 70% / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/c/c2/Farmer_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Farmer_(Old)"
       },
       {
         "name": "Flag Girl",
@@ -1497,7 +1380,7 @@
       {
         "name": "Grappler",
         "element": "Passion",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: Knock Out",
@@ -1690,19 +1573,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Kung-Fu_Master"
       },
       {
-        "name": "Kung-Fu Master (Old)",
-        "element": "Passion",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Boost",
-            "value": "Activations: 1\nMin Level Effect: Own ATK 200% up / battle start 20% chance\nMax Level Effect: Own ATK 200% up / battle start 30% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/4/4e/Kung-Fu_Master_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Kung-Fu_Master_(Old)"
-      },
-      {
         "name": "Lady Tiger",
         "element": "Passion",
         "rarity": "R",
@@ -1818,19 +1688,6 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/a/a7/Martial_Artist.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Martial_Artist"
-      },
-      {
-        "name": "Martial Artist (Old)",
-        "element": "Passion",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Iron fist",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 200% DMG to a single enemy / 10% chance\nMax Level Effect: Deal 300% DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/d/d2/Martial_Artist_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Martial_Artist_(Old)"
       },
       {
         "name": "Masquerade",
@@ -2121,7 +1978,7 @@
       {
         "name": "Queen of Fire",
         "element": "Passion",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: Flame Edge",
@@ -2709,7 +2566,6 @@
             "name": "Awoken: ☆Gift of Magic",
             "value": "Activations: 4\nMin Level Effect: Deal 150% Passion DMG 4 times to the enemy / 45% chance\nMax Level Effect: Deal 150% Passion DMG 4 times to the enemy / 65% chance"
           }
-
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/ae/Anna.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Anna"
@@ -2773,7 +2629,7 @@
       {
         "name": "Bear Hunter",
         "element": "Passion",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Bear Claw",
@@ -2796,7 +2652,6 @@
             "name": "Awoken: ☆Empty Vial Storm",
             "value": "Activations: 4\nMin Level Effect: All Passion allies' ATK • DEF 250% up / 15% chance\nMax Level Effect: All Passion allies' ATK • DEF 250% up / 20% chance"
           }
-
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/de/Beatty.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Beatty"
@@ -3062,7 +2917,7 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/b7/Curtana.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Curtana"
-      },  
+      },
       {
         "name": "Cybele",
         "element": "Passion",
@@ -3079,7 +2934,7 @@
       {
         "name": "Dame Ridill",
         "element": "Passion",
-        "rarity": "SR",
+        "rarity": "GSR",
         "skill": [
           {
             "name": "Awoken: ☆Weapon Mania",
@@ -3092,7 +2947,7 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/11/Dame_Ridill_H.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Dame_Ridill"
-      },    
+      },
       {
         "name": "Destroyer",
         "element": "Passion",
@@ -3310,7 +3165,7 @@
       {
         "name": "Green Christmas",
         "element": "Passion",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Great Green",
@@ -3374,7 +3229,7 @@
       {
         "name": "Hiderigami",
         "element": "Passion",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Sunburst",
@@ -4079,7 +3934,7 @@
       {
         "name": "Precious Amy",
         "element": "Passion",
-        "rarity": "SR",
+        "rarity": "GSR",
         "skill": [
           {
             "name": "Awoken: ☆Greedy Guile",
@@ -4307,7 +4162,7 @@
       {
         "name": "Shogi Master",
         "element": "Passion",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Checkmate",
@@ -4560,7 +4415,7 @@
       {
         "name": "Vesta",
         "element": "Passion",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Violence Flame",
@@ -4782,7 +4637,7 @@
       {
         "name": "Angelic Page",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Starfall",
@@ -4863,7 +4718,7 @@
           {
             "name": "Awoken: ☆Gigablaze",
             "value": "Activations: Infinite\nMin Level Effect: Deal 350% Passion DMG to all enemies / 15% chance\nMax Level Effect: Deal 450% Passion DMG to all enemies / 20% chance"
-          }     
+          }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/9/90/Belisama.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Belisama"
@@ -5113,7 +4968,7 @@
       {
         "name": "Celestial Oracle",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Celestial Glasses",
@@ -5189,7 +5044,7 @@
       {
         "name": "Cosplay Vamp",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Happy Halloween!",
@@ -5240,7 +5095,7 @@
       {
         "name": "Dame Almace",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Love and Hate",
@@ -5257,7 +5112,7 @@
       {
         "name": "Dame Joyeuse",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Hell-Bent Chivalry",
@@ -5304,7 +5159,7 @@
       {
         "name": "Dark Eyes Unveiled",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "HUR",
         "skill": [
           {
             "name": "Skill: Visions of Hell",
@@ -5376,7 +5231,7 @@
       {
         "name": "Dimension Fiancee",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Dimensional Adapt",
@@ -5427,7 +5282,7 @@
       {
         "name": "Diva Mika",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Supernova",
@@ -5571,7 +5426,7 @@
       {
         "name": "Fiery Lu Bu The Red",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Fiery Inferno Dance",
@@ -5584,7 +5439,7 @@
       {
         "name": "Flashdance Lantz",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Elemental Dancer",
@@ -5771,7 +5626,7 @@
       {
         "name": "Heroic Gilgamesh",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "HUR",
         "skill": [
           {
             "name": "Skill: Battle Cry",
@@ -6090,7 +5945,7 @@
       {
         "name": "Lady Alexia",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Golden Broom",
@@ -6298,7 +6153,7 @@
       {
         "name": "Lovely Shion",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Aster Orb",
@@ -6332,7 +6187,7 @@
       {
         "name": "Lu Bu The Red",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Inferno Dance",
@@ -6710,7 +6565,7 @@
       {
         "name": "Overseer Vielle",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Calamity Strike",
@@ -6897,7 +6752,7 @@
       {
         "name": "Precious Lazuli",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Detective's Sense",
@@ -6914,7 +6769,7 @@
       {
         "name": "Precious Quoise",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Sweet Thinker",
@@ -6931,7 +6786,7 @@
       {
         "name": "President Nina",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Executive Authority",
@@ -6944,7 +6799,7 @@
       {
         "name": "Pretty Kisaragi",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Royal Aura",
@@ -6978,7 +6833,7 @@
       {
         "name": "Pure Oracle",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Pure Aura",
@@ -7029,7 +6884,7 @@
       {
         "name": "Red Sally",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Magical Dress",
@@ -7080,7 +6935,7 @@
       {
         "name": "Rogue The Savior",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Saber of Light",
@@ -7093,7 +6948,7 @@
       {
         "name": "Rogue The Vengeful",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Saber of Darkness",
@@ -7123,7 +6978,7 @@
       {
         "name": "Sacred Seika",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Sleepy Sax",
@@ -7399,7 +7254,7 @@
       {
         "name": "Sunset Alchemist",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Golden Elixir",
@@ -7684,7 +7539,7 @@
       {
         "name": "Vermillion Victoria",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "HUR",
         "skill": [
           {
             "name": "Skill: Crimson Lore",
@@ -7718,7 +7573,7 @@
       {
         "name": "Wa Ran",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Extreme Fealty",
@@ -7790,7 +7645,7 @@
       {
         "name": "Wicca Mildred",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Draconian Lessons",
@@ -7820,7 +7675,7 @@
       {
         "name": "Winged Vigilent",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆True Spirit Eye",
@@ -8137,19 +7992,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Bandit"
       },
       {
-        "name": "Bandit (Old)",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Brigand",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit DEF +3% \nMax Level Effect: 【Autoskill】 Unit DEF +13% "
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/6/6b/Bandit_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Bandit_(Old)"
-      },
-      {
         "name": "Bard",
         "element": "Cool",
         "rarity": "N",
@@ -8384,19 +8226,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Lycaon"
       },
       {
-        "name": "Lycaon (Old)",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Bite",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% DMG to a single enemy / 10% chance\nMax Level Effect: Deal 250% DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/f/fe/Lycaon_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Lycaon_(Old)"
-      },
-      {
         "name": "Lyra",
         "element": "Cool",
         "rarity": "N",
@@ -8514,19 +8343,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Pisces"
       },
       {
-        "name": "Sage (Old)",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Counsel",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Battle EXP +20% \nMax Level Effect: 【Autoskill】 Battle EXP +40%"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/c/cc/Sage_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Sage_(Old)"
-      },
-      {
         "name": "Sea Bishop",
         "element": "Cool",
         "rarity": "N",
@@ -8629,19 +8445,6 @@
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/5/5a/Swordsman.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Swordsman"
-      },
-      {
-        "name": "Swordsman (Old)",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Quick draw",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% DMG to a single enemy / 10% chance\nMax Level Effect: Deal 250% DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/0/05/Swordsman_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Swordsman_(Old)"
       },
       {
         "name": "Terra",
@@ -9060,19 +8863,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Detective"
       },
       {
-        "name": "Detective (Old)",
-        "element": "Cool",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Deduction",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Battle EXP +40% \nMax Level Effect: 【Autoskill】 Battle EXP +60% "
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/6/60/Detective_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Detective_(Old)"
-      },
-      {
         "name": "Diva",
         "element": "Cool",
         "rarity": "R",
@@ -9214,19 +9004,6 @@
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/5/5d/Fox_Spirit.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Fox_Spirit"
-      },
-      {
-        "name": "Fox Spirit (Old)",
-        "element": "Cool",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Spirited away",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/9/91/Fox_Spirit_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Fox_Spirit_(Old)"
       },
       {
         "name": "Gae Bulg",
@@ -9608,7 +9385,7 @@
       {
         "name": "Medb",
         "element": "Cool",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: Hard Spank",
@@ -9890,19 +9667,6 @@
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/7/7a/Rune_Knight.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Rune_Knight"
-      },
-      {
-        "name": "Rune Knight (Old)",
-        "element": "Cool",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Rune blade",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% Cool DMG to all enemies / 10% chance\nMax Level Effect: Deal 250% Cool DMG to all enemies / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/2/21/Rune_Knight_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Rune_Knight_(Old)"
       },
       {
         "name": "Rusalka",
@@ -10269,19 +10033,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Sylph"
       },
       {
-        "name": "Sylph (Old)",
-        "element": "Cool",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Wind blast",
-            "value": "Activations: 1\nMin Level Effect: Deal 150% Cool DMG to all enemies / battle start 20% chance\nMax Level Effect: Deal 250% Cool DMG to all enemies / battle start 30% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/8/8e/Sylph_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Sylph_(Old)"
-      },
-      {
         "name": "Table-Tennis Girl",
         "element": "Cool",
         "rarity": "R",
@@ -10297,7 +10048,7 @@
       {
         "name": "The Poor",
         "element": "Cool",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: Begging",
@@ -10399,19 +10150,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Vampire_Hunter"
       },
       {
-        "name": "Vampire Hunter (Old)",
-        "element": "Cool",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Silver bullet",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 200% Light DMG to a single enemy / 10% chance\nMax Level Effect: Deal 300% Light DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/5/5d/Vampire_Hunter_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Vampire_Hunter_(Old)"
-      },
-      {
         "name": "Verthandi",
         "element": "Cool",
         "rarity": "R",
@@ -10453,7 +10191,7 @@
       {
         "name": "White Cat",
         "element": "Cool",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: Cats Purr",
@@ -10616,7 +10354,7 @@
       {
         "name": "Amore Tenderness",
         "element": "Cool",
-        "rarity": "SR",
+        "rarity": "GSR",
         "skill": [
           {
             "name": "Awoken: ☆Amorous Arrow",
@@ -10767,7 +10505,7 @@
       {
         "name": "Baena",
         "element": "Cool",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Dragon Twin Ice",
@@ -10997,19 +10735,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Cyborg"
       },
       {
-        "name": "Cyborg (Old)",
-        "element": "Cool",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Limit Removal",
-            "value": "Activations: 1\nMin Level Effect: Own ATK 300% up / near defeat 20% chance\nMax Level Effect: Own ATK 300% up / near defeat 30% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/e/e4/Cyborg_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Cyborg_(Old)"
-      },
-      {
         "name": "Dantalion",
         "element": "Cool",
         "rarity": "SR",
@@ -11137,19 +10862,6 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/1/12/Empress.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Empress"
-      },
-      {
-        "name": "Empress (Old)",
-        "element": "Cool",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Domination",
-            "value": "Activations: 1\nMin Level Effect: All enemies' DEF 50% down / battle start 20% chance\nMax Level Effect: All enemies' DEF 50% down / battle start 30% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/1/18/Empress_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Empress_(Old)"
       },
       {
         "name": "Eva",
@@ -12564,19 +12276,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Strategist"
       },
       {
-        "name": "Strategist (Old)",
-        "element": "Cool",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Ingenious plan",
-            "value": "Activations: 1\nMin Level Effect: Deal 200% DMG to all enemies / 30% chance at battle start\nMax Level Effect: Deal 300% DMG to all enemies / 40% chance at battle start"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/c/ca/Strategist_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Strategist_(Old)"
-      },
-      {
         "name": "Stylist",
         "element": "Cool",
         "rarity": "SR",
@@ -12772,7 +12471,7 @@
       {
         "name": "True Lira",
         "element": "Cool",
-        "rarity": "SR",
+        "rarity": "GSR",
         "skill": [
           {
             "name": "Awoken: ☆BFF Letter",
@@ -13145,7 +12844,7 @@
       {
         "name": "Amore Charlotta",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Bearamy Hug",
@@ -13162,7 +12861,7 @@
       {
         "name": "Amore Kukurihime",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Chocolate Love",
@@ -13175,7 +12874,7 @@
       {
         "name": "Amore Timah",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Doggy Dinner",
@@ -13400,7 +13099,7 @@
       {
         "name": "Bewitching Lilith",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Despot Essence",
@@ -13837,7 +13536,7 @@
       {
         "name": "Dark Tome Mia",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Secret Heart",
@@ -13888,7 +13587,7 @@
       {
         "name": "Dimension Girl",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Doomsday Summons",
@@ -14024,7 +13723,7 @@
       {
         "name": "Dynatos Theseus",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Bright Banishment",
@@ -14058,7 +13757,7 @@
       {
         "name": "Eb-2 Custom",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Memory Program",
@@ -14198,7 +13897,7 @@
       {
         "name": "Flower Murakumo",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Maiden Blade",
@@ -14257,7 +13956,7 @@
       {
         "name": "Formal Sucia",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Wave of Calamity",
@@ -14325,7 +14024,7 @@
       {
         "name": "Furious Chase",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Flat-Chest Sorrow",
@@ -14342,7 +14041,7 @@
       {
         "name": "Garden Guardian",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Fragrant Trap",
@@ -14376,7 +14075,7 @@
       {
         "name": "Guardian Licorice",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Fairy Friend \"Bright Lux\"",
@@ -14427,7 +14126,7 @@
       {
         "name": "Herb Wing",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Nether Mistletoe",
@@ -14674,7 +14373,7 @@
       {
         "name": "Lady Spinel",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Crystal Orb",
@@ -14878,7 +14577,7 @@
       {
         "name": "Master Sparky",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Massive Fireworks",
@@ -15214,7 +14913,7 @@
       {
         "name": "Playful Hades (Blue)",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Infernal Hat",
@@ -15231,7 +14930,7 @@
       {
         "name": "Playful Hades (Green)",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Infernal Hat",
@@ -15248,7 +14947,7 @@
       {
         "name": "Playful Hades (Red)",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Infernal Hat",
@@ -15350,7 +15049,7 @@
       {
         "name": "Rex Luna Llena",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Citadel Skyforce",
@@ -15401,7 +15100,7 @@
       {
         "name": "Santa Perchta",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Dive Right In",
@@ -15431,7 +15130,7 @@
       {
         "name": "Sentinel Adele",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Sacred Stone",
@@ -15707,7 +15406,7 @@
       {
         "name": "Therese",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Home Sweet Home",
@@ -15805,7 +15504,7 @@
       {
         "name": "True Daisy",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Bouquet Toss",
@@ -15839,7 +15538,7 @@
       {
         "name": "True Peony",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Flower Hideout",
@@ -15958,7 +15657,7 @@
       {
         "name": "Valiant Bellona (Bronze)",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Bronze Courage",
@@ -15971,7 +15670,7 @@
       {
         "name": "Valiant Bellona (Gold)",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Golden Courage",
@@ -15984,7 +15683,7 @@
       {
         "name": "Valiant Bellona (Silver)",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Silver Courage",
@@ -16570,7 +16269,7 @@
       {
         "name": "Idol",
         "element": "Light",
-        "rarity": "N",
+        "rarity": "HN",
         "skill": [
           {
             "name": "Skill: Everyone's idol",
@@ -16579,19 +16278,6 @@
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/b/b8/Idol_H.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Idol"
-      },
-      {
-        "name": "Idol (Old)",
-        "element": "Light",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Everyone's idol",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit ATK +5% \nMax Level Effect: 【Autoskill】 Unit ATK +18% "
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/6/68/Idol_%28Old%29_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Idol_(Old)"
       },
       {
         "name": "Naturalist",
@@ -17010,19 +16696,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Druid"
       },
       {
-        "name": "Druid (Old)",
-        "element": "Light",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Life saver",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit DEF +5% \nMax Level Effect: 【Autoskill】 Unit DEF +25% "
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/6/6f/Druid_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Druid_(Old)"
-      },
-      {
         "name": "Fabric Master",
         "element": "Light",
         "rarity": "R",
@@ -17064,7 +16737,7 @@
       {
         "name": "Gale",
         "element": "Light",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: Gale Force Wind",
@@ -17116,7 +16789,7 @@
       {
         "name": "Guardian",
         "element": "Light",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: Total defense",
@@ -17281,19 +16954,6 @@
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/6/6b/Knight.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Knight"
-      },
-      {
-        "name": "Knight (Old)",
-        "element": "Light",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Defend",
-            "value": "Activations: 1\nMin Level Effect: All allies' DEF 50% up / Battle start 20% chance\nMax Level Effect: All allies' DEF 50% up / Battle start 30% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/b/b6/Knight_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Knight_(Old)"
       },
       {
         "name": "Light Mystic",
@@ -17545,7 +17205,7 @@
       {
         "name": "Paladin",
         "element": "Light",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: White heal",
@@ -17554,19 +17214,6 @@
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/0/07/Paladin_H.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Paladin"
-      },
-      {
-        "name": "Paladin (Old)",
-        "element": "Light",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: White heal",
-            "value": "Activations: Infinite\nMin Level Effect: Recover 50% of an ally's soldiers / 15% chance\nMax Level Effect: Recover 70% of an ally's soldiers / 20% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/0/04/Paladin_%28Old%29_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Paladin_(Old)"
       },
       {
         "name": "Patrol",
@@ -17805,7 +17452,7 @@
       {
         "name": "Super Soldier",
         "element": "Light",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: Genocide halo",
@@ -18391,7 +18038,7 @@
       {
         "name": "Blazing Muspell",
         "element": "Light",
-        "rarity": "SR",
+        "rarity": "GSR",
         "skill": [
           {
             "name": "Awoken: ☆Crimson Flames",
@@ -18464,7 +18111,7 @@
       {
         "name": "Castor",
         "element": "Light",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Wish Upon a Star",
@@ -18490,7 +18137,7 @@
       {
         "name": "Celestial Hades",
         "element": "Light",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Celestial Wings",
@@ -18567,7 +18214,7 @@
       {
         "name": "Count Up",
         "element": "Light",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Best Effect",
@@ -18889,7 +18536,7 @@
       {
         "name": "Gem Christmas",
         "element": "Light",
-        "rarity": "SR",
+        "rarity": "GSR",
         "skill": [
           {
             "name": "Awoken: ☆Crystal Cake",
@@ -19440,7 +19087,7 @@
       {
         "name": "Morphium New year",
         "element": "Light",
-        "rarity": "SR",
+        "rarity": "GSR",
         "skill": [
           {
             "name": "Awoken: ☆Sweetest Dreams",
@@ -19509,19 +19156,6 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/4/4a/Mythic_Knight.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Mythic_Knight"
-      },
-      {
-        "name": "Mythic Knight (Old)",
-        "element": "Light",
-        "rarity": "SR",
-        "skill": [
-          {
-            "name": "Skill: Holy Blade",
-            "value": "Activations: 1\nMin Level Effect: Critical DMG to a single enemy/ near defeat 20% chance\nMax Level Effect: Critical DMG to a single enemy/ near defeat 30% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/7/70/Mythic_Knight_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Mythic_Knight_(Old)"
       },
       {
         "name": "Nausicaa",
@@ -20290,7 +19924,7 @@
       {
         "name": "Vaccine",
         "element": "Light",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: CPR",
@@ -20594,7 +20228,7 @@
       {
         "name": "Alabaster Hina",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Dream Kimono",
@@ -20679,7 +20313,7 @@
       {
         "name": "Amakoyane New Year",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Heavenly Kimono",
@@ -20785,7 +20419,7 @@
       {
         "name": "Astral Christmas",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Job Master",
@@ -20934,7 +20568,7 @@
       {
         "name": "Blazing Ababinili",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Blazing Dance",
@@ -20951,7 +20585,7 @@
       {
         "name": "Blazing Tupsimati",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Fusion Flask",
@@ -20985,7 +20619,7 @@
       {
         "name": "Blue Star Treker",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Meteor Shower",
@@ -21040,7 +20674,7 @@
       {
         "name": "Bridal Argent",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Golden Hour",
@@ -21091,7 +20725,7 @@
       {
         "name": "Candy Champion",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Sweet Conquest",
@@ -21104,7 +20738,7 @@
       {
         "name": "Celestial Alchemist",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Natural Appeal",
@@ -21134,7 +20768,7 @@
       {
         "name": "Cheerful Pixie",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Cheerful Mind",
@@ -21304,7 +20938,7 @@
       {
         "name": "Divine Poseidon",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Deep Blue Ball",
@@ -21419,7 +21053,7 @@
       {
         "name": "Empress Cynthia",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Full-Moon Monarch",
@@ -21606,7 +21240,7 @@
       {
         "name": "Futodama New Year",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Godspeed Hands",
@@ -21640,7 +21274,7 @@
       {
         "name": "Ghostly Schwartz",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "HUR",
         "skill": [
           {
             "name": "Skill: Ghostly Tide",
@@ -21729,7 +21363,7 @@
       {
         "name": "Herb Christmas",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Christmas Tree",
@@ -22090,7 +21724,7 @@
       {
         "name": "Krazy Kitty Kat",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Epic Performance",
@@ -22124,7 +21758,7 @@
       {
         "name": "Lancer Alpheratz",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Comet Lance",
@@ -22158,7 +21792,7 @@
       {
         "name": "Last Boss Zero",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Last Game",
@@ -22188,7 +21822,7 @@
       {
         "name": "Leader Musette",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Master Conductor",
@@ -22260,7 +21894,7 @@
       {
         "name": "Light Luca",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆White Death",
@@ -22413,7 +22047,7 @@
       {
         "name": "Lusty Fortuna",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Sweet Jackpot",
@@ -22566,7 +22200,7 @@
       {
         "name": "Mikoterasu",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Sacred Mochi",
@@ -22901,7 +22535,7 @@
       {
         "name": "Radiant Pixie",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Eternal Wind",
@@ -22935,7 +22569,7 @@
       {
         "name": "Rapier Master",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Full Volte",
@@ -22965,7 +22599,7 @@
       {
         "name": "Red Wolf Skoll",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Blue Impulse",
@@ -23067,7 +22701,7 @@
       {
         "name": "Secret Toshigami",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Mochi Skyscraper",
@@ -23254,7 +22888,7 @@
       {
         "name": "Storm Hrungnir",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Hurricane",
@@ -23318,7 +22952,7 @@
       {
         "name": "Super Liscia",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Miracle Goddess",
@@ -23628,7 +23262,7 @@
       {
         "name": "White Panacea",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Mass Soothing",
@@ -24073,7 +23707,7 @@
       {
         "name": "Cutthroat",
         "element": "Dark",
-        "rarity": "N",
+        "rarity": "HN",
         "skill": [
           {
             "name": "Skill: Soul Eater",
@@ -24082,19 +23716,6 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/c/cf/Cutthroat_H.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Cutthroat"
-      },
-      {
-        "name": "Cutthroat (Old)",
-        "element": "Dark",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Soul eater",
-            "value": "Activations: 1\nMin Level Effect: Own ATK 100% up / 10% chance\nMax Level Effect: Own ATK 100% up / 10% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/2/26/Cutthroat_%28Old%29_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Cutthroat_(Old)"
       },
       {
         "name": "Cyclops",
@@ -24112,7 +23733,7 @@
       {
         "name": "Dark Elf",
         "element": "Dark",
-        "rarity": "N",
+        "rarity": "HN",
         "skill": [
           {
             "name": "Skill: Eagle blast",
@@ -24125,7 +23746,7 @@
       {
         "name": "Dark Priest",
         "element": "Dark",
-        "rarity": "N",
+        "rarity": "HN",
         "skill": [
           {
             "name": "Skill: Dark mist",
@@ -24138,7 +23759,7 @@
       {
         "name": "Dark Wizard",
         "element": "Dark",
-        "rarity": "N",
+        "rarity": "HN",
         "skill": [
           {
             "name": "Skill: Explosion",
@@ -24164,7 +23785,7 @@
       {
         "name": "Devil Summoner",
         "element": "Dark",
-        "rarity": "N",
+        "rarity": "HN",
         "skill": [
           {
             "name": "Skill: Summon demon",
@@ -24188,22 +23809,9 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Doll_Master"
       },
       {
-        "name": "Doll Master (Old)",
-        "element": "Dark",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Marionette",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/3/36/Doll_Master_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Doll_Master_(Old)"
-      },
-      {
         "name": "Dragon Slayer",
         "element": "Dark",
-        "rarity": "N",
+        "rarity": "HN",
         "skill": [
           {
             "name": "Skill: Dragon curse",
@@ -24212,19 +23820,6 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/c/ce/Dragon_Slayer_H.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Dragon_Slayer"
-      },
-      {
-        "name": "Dragon Slayer (Old)",
-        "element": "Dark",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Dragon Curse",
-            "value": "Activations: 1\nMin Level Effect: Own ATK 100% up / 10% chance\nMax Level Effect: Own ATK 100% up / 10% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/7/79/Dragon_Slayer_%28Old%29_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Dragon_Slayer_(Old)"
       },
       {
         "name": "Flatwoods",
@@ -24294,7 +23889,7 @@
       {
         "name": "Obariyon",
         "element": "Dark",
-        "rarity": "N",
+        "rarity": "HN",
         "skill": [
           {
             "name": "Skill: Shell-shocked",
@@ -24307,7 +23902,7 @@
       {
         "name": "Red Hood",
         "element": "Dark",
-        "rarity": "N",
+        "rarity": "HN",
         "skill": [
           {
             "name": "Skill: Hard Girl",
@@ -24463,7 +24058,7 @@
       {
         "name": "Black Hole",
         "element": "Dark",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: Event Horizon",
@@ -24476,7 +24071,7 @@
       {
         "name": "Black Mage",
         "element": "Dark",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: Jeweled Rod",
@@ -24554,7 +24149,7 @@
       {
         "name": "Crusher",
         "element": "Dark",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: Mass Destruction",
@@ -24580,7 +24175,7 @@
       {
         "name": "Dark Doctor",
         "element": "Dark",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: Self-Surgery",
@@ -24602,19 +24197,6 @@
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/6/69/Dark_Knight.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Dark_Knight"
-      },
-      {
-        "name": "Dark Knight (Old)",
-        "element": "Dark",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Dark Sword",
-            "value": "Activations: 1\nMin Level Effect: Deal 250% Dark DMG to a single Light enemy / 30% chance\nMax Level Effect: Deal 350% Dark DMG to a single Light enemy / 40% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/9/98/Dark_Knight_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Dark_Knight_(Old)"
       },
       {
         "name": "Dark Mage",
@@ -24840,7 +24422,7 @@
       {
         "name": "Inquisitor",
         "element": "Dark",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: Condemnation",
@@ -24918,7 +24500,7 @@
       {
         "name": "Little Devil",
         "element": "Dark",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: Catastrophe rays",
@@ -24996,7 +24578,7 @@
       {
         "name": "Mind Flayer",
         "element": "Dark",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: Mind blast",
@@ -25035,7 +24617,7 @@
       {
         "name": "Nephthys",
         "element": "Dark",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: Lunatic",
@@ -25070,19 +24652,6 @@
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/b/bc/Oni.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Oni"
-      },
-      {
-        "name": "Oni (Old)",
-        "element": "Dark",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Iron Rod",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 250% Dark DMG to a single enemy / 10% chance\nMax Level Effect: Deal 350% Dark DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/1/1b/Oni_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Oni_(Old)"
       },
       {
         "name": "Orc",
@@ -25126,7 +24695,7 @@
       {
         "name": "Prisoner",
         "element": "Dark",
-        "rarity": "R",
+        "rarity": "HR",
         "skill": [
           {
             "name": "Skill: Hyper Bomba",
@@ -25358,19 +24927,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Trickster"
       },
       {
-        "name": "Trickster (Old)",
-        "element": "Dark",
-        "rarity": "R",
-        "skill": [
-          {
-            "name": "Skill: Maelstrom",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 2 turn(s) / battle start 20% chance\nMax Level Effect: All enemies can't move for 2 turn(s) / battle start 30% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/b/b9/Trickster_%28Old%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Trickster_(Old)"
-      },
-      {
         "name": "Tsuruhime",
         "element": "Dark",
         "rarity": "R",
@@ -25566,7 +25122,7 @@
       {
         "name": "Astaroth",
         "element": "Dark",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Love Sacrifice",
@@ -25635,7 +25191,7 @@
       {
         "name": "Belial",
         "element": "Dark",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Whip Spatzia",
@@ -25996,7 +25552,7 @@
       {
         "name": "Court Lady Anya",
         "element": "Dark",
-        "rarity": "SR",
+        "rarity": "GSR",
         "skill": [
           {
             "name": "Awoken: ☆Collateral Klutz",
@@ -26013,7 +25569,7 @@
       {
         "name": "Cpt. Bianca",
         "element": "Dark",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Pirate's Charisma",
@@ -26108,7 +25664,7 @@
       {
         "name": "Diana",
         "element": "Dark",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Eternal darkness",
@@ -26656,7 +26212,7 @@
       {
         "name": "Joker (Cane)",
         "element": "Dark",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Trickjoker",
@@ -26673,7 +26229,7 @@
       {
         "name": "Joker (Sickle)",
         "element": "Dark",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Last One",
@@ -26884,7 +26440,7 @@
       {
         "name": "Lucifer",
         "element": "Dark",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Dark rebellion",
@@ -27061,7 +26617,7 @@
       {
         "name": "Polar Night",
         "element": "Dark",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Dark Aurora",
@@ -27430,7 +26986,7 @@
       {
         "name": "Star Erakis",
         "element": "Dark",
-        "rarity": "SR",
+        "rarity": "GSR",
         "skill": [
           {
             "name": "Awoken: ☆Pretty Priestess",
@@ -27460,7 +27016,7 @@
       {
         "name": "Super Chimry",
         "element": "Dark",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Super Chimry",
@@ -27820,7 +27376,7 @@
       {
         "name": "Yuki Onna",
         "element": "Dark",
-        "rarity": "SR",
+        "rarity": "HSR",
         "skill": [
           {
             "name": "Skill: Blizzard",
@@ -28058,7 +27614,7 @@
       {
         "name": "Astral Wing",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Cosmic Overlord",
@@ -28071,7 +27627,7 @@
       {
         "name": "Atalanta",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "HUR",
         "skill": [
           {
             "name": "Skill: Evil Immolation",
@@ -28190,7 +27746,7 @@
       {
         "name": "Blazing Whitecloth",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Floating Lantern",
@@ -28224,7 +27780,7 @@
       {
         "name": "Blue Surtr",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Flame Master",
@@ -28241,7 +27797,7 @@
       {
         "name": "Blushing Lucy",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Sword Dance",
@@ -28326,7 +27882,7 @@
       {
         "name": "Candy Alchemist",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Lolita Charm",
@@ -28360,7 +27916,7 @@
       {
         "name": "Captain Saurva",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆All That Glitters",
@@ -28424,7 +27980,7 @@
       {
         "name": "Chief Justice Bunny",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆1,000-Kiss Penalty",
@@ -28530,7 +28086,7 @@
       {
         "name": "Court Lady Peachy",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Peach Blizzard",
@@ -28547,7 +28103,7 @@
       {
         "name": "Court Lady Utai",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Solo Quintet",
@@ -28793,7 +28349,7 @@
       {
         "name": "Demon Bookend",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Bad Ending",
@@ -28827,7 +28383,7 @@
       {
         "name": "Diva Aeolia",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Beautiful Mind",
@@ -28844,7 +28400,7 @@
       {
         "name": "Dr. Coppelius",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "HUR",
         "skill": [
           {
             "name": "Skill: Marionette Blitz",
@@ -28937,7 +28493,7 @@
       {
         "name": "Fierce Zhong Kui",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Remedy Blade EX",
@@ -28988,7 +28544,7 @@
       {
         "name": "Formal Gan Ning",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Mighty Flower",
@@ -29200,7 +28756,7 @@
       {
         "name": "Goth Genie",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Grant a Wish",
@@ -29421,7 +28977,7 @@
       {
         "name": "Hyper Chimry",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "HUR",
         "skill": [
           {
             "name": "Skill: Hyper Chimry",
@@ -29464,7 +29020,7 @@
       {
         "name": "Immortal Rahu",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Eternal Love",
@@ -29660,7 +29216,7 @@
       {
         "name": "Maid Raven",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Fatal Feathers",
@@ -30182,7 +29738,7 @@
       {
         "name": "Radiant Cinderella",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Bewitchment",
@@ -30322,7 +29878,7 @@
       {
         "name": "Santa Relena",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Santa Aura",
@@ -30432,7 +29988,7 @@
       {
         "name": "Shrine Tagirihime",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆First Sunrise",
@@ -30585,7 +30141,7 @@
       {
         "name": "Star Almach",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Peppy Jump",
@@ -30602,7 +30158,7 @@
       {
         "name": "Star Mirach",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Passive Jump",
@@ -30738,7 +30294,7 @@
       {
         "name": "Time Mage Perse",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Time Freeze",
@@ -30789,7 +30345,7 @@
       {
         "name": "Twin Wolf Fenrir",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Glacial Claws",
@@ -31652,7 +31208,7 @@
       {
         "name": "Preening Wayland",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Furnace Fling",
@@ -31809,7 +31365,7 @@
       {
         "name": "Bunny Cozily",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Adorable Bunny",
@@ -31948,7 +31504,7 @@
       {
         "name": "Dancing Eos",
         "element": "Cool",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Dancer's Power",
@@ -32007,7 +31563,7 @@
       {
         "name": "Aurora Galileo",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Still a Genus!",
@@ -32041,7 +31597,7 @@
       {
         "name": "Aurora Mirei",
         "element": "Passion",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Aurora Watching",
@@ -32075,7 +31631,7 @@
       {
         "name": "Aurora Captain Cook",
         "element": "Passion",
-        "rarity": "SR",
+        "rarity": "GSR",
         "skill": [
           {
             "name": "Awoken: ☆Miraculous Hunt",
@@ -32219,7 +31775,7 @@
       {
         "name": "Cute Slime",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Super Slimy Hug",
@@ -32410,7 +31966,7 @@
       {
         "name": "New Fuka",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Flying Parasol",
@@ -32499,7 +32055,7 @@
       {
         "name": "Ball Emilie",
         "element": "Dark",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Magic Waltz",
@@ -32558,7 +32114,7 @@
       {
         "name": "Maestra Nero",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Ironclad Defense",
@@ -32592,7 +32148,7 @@
       {
         "name": "Maestra Mao",
         "element": "Light",
-        "rarity": "UR",
+        "rarity": "GUR",
         "skill": [
           {
             "name": "Awoken: ☆Mao's Lesson",
@@ -32626,7 +32182,7 @@
       {
         "name": "Maestra Luluka",
         "element": "Light",
-        "rarity": "SR",
+        "rarity": "GSR",
         "skill": [
           {
             "name": "Awoken: ☆Auto-Magic",
@@ -32761,6 +32317,7 @@
       {
         "name": "Nurse Cairn",
         "element": "Passion",
+        "rarity": "GUR",
         "rarity": "UR",
         "skill": [
           {
@@ -32791,6 +32348,7 @@
       {
         "name": "Vice Chair Demise",
         "element": "Passion",
+        "rarity": "GUR",
         "rarity": "UR",
         "skill": [
           {
@@ -32893,6 +32451,1456 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/53/Momiji.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Momiji"
+      },
+      {
+        "name": "Harnett",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Holy Collision",
+            "value": "Activations: 2\nMin Level Effect: Deal 100% Light DMG to all enemies / Absorb 20% / 30% chance\nMax Level Effect: Deal 100% Light DMG to all enemies / Absorb 20% / 35% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Holy Collision",
+            "value": "Activations: 2\nMin Level Effect: Deal 150% Light DMG to all enemies / Absorb 20% / 35% chance\nMax Level Effect: Deal 150% Light DMG to all enemies / Absorb 20% / 40% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/42/Harnett.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Harnett"
+      },
+      {
+        "name": "Anisha",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Two Wishes",
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Cool DMG to all enemies / Unable to move 3 turns / 30% chance\nMax Level Effect: Deal 300% Cool DMG to all enemies / Unable to move 3 turns / 45% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Two Wishes",
+            "value": "Activations: 2\nMin Level Effect: Deal 350% Cool DMG to all enemies / Unable to move 3 turns / 45% chance\nMax Level Effect: Deal 400% Cool DMG to all enemies / Unable to move 3 turns / 55% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/ab/Anisha.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Anisha"
+      },
+      {
+        "name": "Sound Spirit",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Silencer",
+            "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 30% chance\nMax Level Effect: Unleash a single ally's skill / 40% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Silencer",
+            "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 35% chance\nMax Level Effect: Unleash a single ally's skill / 45% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/ce/Sound_Spirit.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Sound_Spirit"
+      },
+      {
+        "name": "Tanuki Gal",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Cloaking Leaves",
+            "value": "Activations: 1\nMin Level Effect: Deal 400% Light DMG 3 times to the enemy / 10% chance\nMax Level Effect: Deal 400% Light DMG 3 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Cloaking Leaves",
+            "value": "Activations: 1\nMin Level Effect: Deal 500% Light DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 500% Light DMG 4 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/94/Tanuki_Gal.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Tanuki_Gal"
+      },
+      {
+        "name": "Flashy Tanuki Gal",
+        "element": "Light",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Vanishing Act",
+            "value": "Activations: 1\nMin Level Effect: Deal 500% Light DMG 4 times to the enemy / 15% chance\nMax Level Effect: Deal 500% Light DMG 4 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Vanishing Act",
+            "value": "Activations: 1\nEffect: 【Autoskill】Own ATK 200% up after every attack / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/7c/Flashy_Tanuki_Gal_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Flashy_Tanuki_Gal"
+      },
+      {
+        "name": "Meteor",
+        "element": "Cool",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Meteor Storm",
+            "value": "Activations: 3\nMin Level Effect: Deal 200% Cool DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 500% Cool DMG to all enemies / Unable to move 3 turns / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Meteor Storm",
+            "value": "Activations: 2\nEffect: 【Autoskill】When own soldiers fall below a certain amount, all allies recover 20% / 20% chance / Max 2 time\n"
+          },
+          {
+            "name": "Awoken: ☆Meteor Storm",
+            "value": "Activations: 3\nMin Level Effect: Deal 250% Cool DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 550% Cool DMG to all enemies / Unable to move 3 turns / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Meteor Storm",
+            "value": "Activations: 2\nEffect: 【Autoskill】When own soldiers fall below a certain amount, all allies recover 30% / 20% chance / Max 2 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/99/Meteor.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Meteor"
+      },
+      {
+        "name": "Aym",
+        "element": "Cool",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Kitty Poison",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Cool DMG 4 times to all enemies / 5% chance\nMax Level Effect: Deal 100% Cool DMG 4 times to all enemies / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Kitty Poison",
+            "value": "Activations: 2\nEffect: 【Autoskill】Activate Awoken Burst 2 turns for all allies after an attack / 35% chance / Max 2 times\n"
+          },
+          {
+            "name": "Awoken: ☆Kitty Poison",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Cool DMG 4 times to all enemies / 5% chance\nMax Level Effect: Deal 150% Cool DMG 4 times to all enemies / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Kitty Poison",
+            "value": "Activations: 2\nEffect: 【Autoskill】Activate Awoken Burst 2 turns for all allies after an attack / 40% chance / Max 2 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/54/Aym.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Aym"
+      },
+      {
+        "name": "Tyrano",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Lil' Blade",
+            "value": "Activations: 1\nMin Level Effect: All Cool allies' ATK 200% • DEF 100% up / 10% chance\nMax Level Effect: All Cool allies' ATK 200% • DEF 100% up / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/a0/Tyrano.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Tyrano"
+      },
+      {
+        "name": "Mighty Tyrano",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Dyna-Blade",
+            "value": "Activations: 1\nMin Level Effect: All Cool  allies' ATK 300% • DEF 200% up / 10% chance\nMax Level Effect: All Cool allies' ATK 300% • DEF 200% up / 30% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Dyna-Blade",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Cool allies' skills / 5% chance\nMax Level Effect: Unleash all Cool allies' skills / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d8/Mighty_Tyrano.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Mighty_Tyrano"
+      },
+      {
+        "name": "Heroic Tyrano",
+        "element": "Cool",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Hero's Cape",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Cool allies' skills / 5% chance\nMax Level Effect: Unleash all Cool allies' skills / 15% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Hero's Cape",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Cool allies' ATK 400% • DEF 200% up during every turn / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/1d/Heroic_Tyrano_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Heroic_Tyrano"
+      },
+      {
+        "name": "Empress Tyrano",
+        "element": "Cool",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Mighty Blade",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Cool allies' skills / 10% chance\nMax Level Effect: Unleash all Cool allies' skills / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Mighty Blade",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Cool allies' ATK 500% • DEF 300% up during every turn / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Mighty Blade",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Cool allies' skills / 30% chance\nMax Level Effect: Unleash all Cool allies' skills / 50% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Mighty Blade",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Cool allies' ATK 600% • DEF 400% up during every turn / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/ad/Empress_Tyrano.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Empress_Tyrano"
+      },
+      {
+        "name": "Tricera",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Tricera Hug",
+            "value": "Activations: 3\nMin Level Effect: Deal 400% Passion DMG to all enemies / Unable to move 4 turns / 15% chance\nMax Level Effect: Deal 500% Passion DMG to all enemies / Unable to move 4 turns / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Tricera Hug",
+            "value": "Activations: 3\nMin Level Effect: Deal 500% Passion DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Deal 600% Passion DMG to all enemies / Unable to move 4 turns / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/03/Tricera.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Tricera"
+      },
+      {
+        "name": "Virago Tricera",
+        "element": "Passion",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Tricera Hug",
+            "value": "Activations: 3\nMin Level Effect: Deal 500% Passion DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Deal 600% Passion DMG to all enemies / Unable to move 4 turns / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Tricera Hug",
+            "value": "Activations: 1\nEffect: 【Autoskill】Skill nullification of any enemy skills / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/18/Virago_Tricera_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Virago_Tricera"
+      },
+      {
+        "name": "Ptero",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Terrestrial Dive",
+            "value": "Activations: 1\nMin Level Effect: All allies' ATK 400% up / 10% chance\nMax Level Effect: All allies' ATK 500% up / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Terrestrial Dive",
+            "value": "Activations: 1\nMin Level Effect: All allies' ATK 500% up / 15% chance\nMax Level Effect: All allies' ATK 600% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/76/Ptero.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Ptero"
+      },
+      {
+        "name": "Virago Ptero",
+        "element": "Passion",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Terrestrial Dive",
+            "value": "Activations: 1\nMin Level Effect: All allies' ATK 500% up / 15% chance\nMax Level Effect: All allies' ATK 600% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Terrestrial Dive",
+            "value": "Activations: 1\nEffect: 【Autoskill】All enemies' ATK 30% down after every attack / 100% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/db/Virago_Ptero_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Virago_Ptero"
+      },
+      {
+        "name": "Ichthyo",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Battle Treasure",
+            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 60% down / 15% chance\nMax Level Effect: All enemies' ATK 60% down / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Battle Treasure",
+            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 60% down / 20% chance\nMax Level Effect: All enemies' ATK 60% down / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/8b/Ichthyo.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Ichthyo"
+      },
+      {
+        "name": "Virago Ichthyo",
+        "element": "Passion",
+        "rarity": "GSR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Battle Treasure",
+            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 60% down / 20% chance\nMax Level Effect: All enemies' ATK 60% down / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Battle Treasure",
+            "value": "Activations: 1\nEffect: 【Autoskill】When own soldiers fall below a certain amount, all allies recover 30% / 50% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/76/Virago_Ichthyo_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Virago_Ichthyo"
+      },
+      {
+        "name": "Captain Kidd",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Kamikaze Strike",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Passion DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 100% Passion DMG to all enemies / Unable to move 3 turns / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Kamikaze Strike",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Passion DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 150% Passion DMG to all enemies / Unable to move 3 turns / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e9/Captain_Kidd.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Captain_Kidd"
+      },
+      {
+        "name": "Raptor",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Razor Sharp Claws",
+            "value": "Activations: 2\nMin Level Effect: Deal 400% DMG to the enemy with the highest attack power with a simultaneous attack by all Cool allies / 10% chance\nMax Level Effect: Deal 400% DMG to the enemy with the highest attack power with a simultaneous attack by all Cool allies / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Razor Sharp Claws",
+            "value": "Activations: 2\nMin Level Effect: Deal 450% DMG to the enemy with the highest attack power with a simultaneous attack by all Cool allies / 15% chance\nMax Level Effect: Deal 500% DMG to the enemy with the highest attack power with a simultaneous attack by all Cool allies / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Razor Sharp Claws",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/08/Raptor.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Raptor"
+      },
+      {
+        "name": "Louhi",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Death Mastery",
+            "value": "Activations: 2\nMin Level Effect: Activate Awoken Burst for all allies and deal 500% DMG to the enemy with the highest attack power with a simultaneous attack / 10% chance\nMax Level Effect: Activate Awoken Burst for all allies and deal 700% DMG to the enemy with the highest attack power with a simultaneous attack / 20% chance\n"
+          },
+          {
+            "name": "Second Skill: Death Mastery",
+            "value": "Activations: 3\nEffect: 【Autoskill】Deal 300% Passion DMG to all enemies after an attack / Unable to move 3 turns / Can't be nullified / 20% chance / Max 3 times\n"
+          },
+          {
+            "name": "Awoken: ☆Death Mastery",
+            "value": "Activations: 2\nMin Level Effect: Activate Awoken Burst for all allies and deal 600% DMG to the enemy with the highest attack power with a simultaneous attack / 10% chance\nMax Level Effect: Activate Awoken Burst for all allies and deal 800% DMG to the enemy with the highest attack power with a simultaneous attack / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Death Mastery",
+            "value": "Activations: 3\nEffect: 【Autoskill】Deal 400% Passion DMG to all enemies after an attack / Unable to move 3 turns / Can't be nullified / 30% chance / Max 3 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/51/Louhi.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Louhi"
+      },
+      {
+        "name": "Jodie Legend",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Escape Artist",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Passion DMG 6 to 12 times to the enemy / 10% chance\nMax Level Effect: Deal 100% Passion DMG 6 to 12 times to the enemy / 25% chance\nRandom Skill Effects:\nDeal 100% Passion DMG 12 times to the enemy\nDeal 100% Passion DMG 10 times to the enemy\nDeal 100% Passion DMG 10 times to the enemy\nDeal 100% Passion DMG 8 times to the enemy\nDeal 100% Passion DMG 6 times to the enemy\n"
+          },
+          {
+            "name": "Second Skill: Escape Artist",
+            "value": "Activations: 3\nEffect: Deal 400% Passion DMG to all enemies after a successful attack / Absorb 50% / 50% chance / Max 3 times\n"
+          },
+          {
+            "name": "Awoken: ☆Escape Artist",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Passion DMG 6 to 12 times to the enemy / 15% chance\nMax Level Effect: Deal 100% Passion DMG 6 to 12 times to the enemy / 35% chance\nRandom Skill Effects:\nDeal 100% Passion DMG 12 times to the enemy\nDeal 100% Passion DMG 10 times to the enemy\nDeal 100% Passion DMG 10 times to the enemy\nDeal 100% Passion DMG 8 times to the enemy\nDeal 100% Passion DMG 6 times to the enemy\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Escape Artist",
+            "value": "Activations: 3\nEffect: Deal 500% Passion DMG to all enemies after a successful attack / Absorb 50% / 60% chance / Max 3 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/12/Jodie_Legend.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Jodie_Legend"
+      },
+      {
+        "name": "Sylvio",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Invisible Arrow",
+            "value": "Activations: 1\nMin Level Effect: All Dark allies' ATK • DEF 200% up / 15% chance\nMax Level Effect: All Dark allies' ATK • DEF 200% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/7b/Sylvio.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Sylvio"
+      },
+      {
+        "name": "Damilia",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Dark Fall",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% DMG to a single enemy with a simultaneous attack by all Dark allies / 10% chance\nMax Level Effect: Deal 350% DMG to a single enemy with a simultaneous attack by all Dark  allies / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Dark Fall",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% DMG to a single enemy with a simultaneous attack by all Dark allies / 15% chance\nMax Level Effect: Deal 350% DMG to a single enemy with a simultaneous attack by all Dark allies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/22/Damilia.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Damilia"
+      },
+      {
+        "name": "Holiday Damilia",
+        "element": "Dark",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Morning Sunset",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% DMG to a single enemy with a simultaneous attack by all Dark allies / 20% chance\nMax Level Effect: Deal 350% DMG to a single enemy with a simultaneous attack by all Dark allies / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/1f/Holiday_Damilia_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Holiday_Damilia"
+      },
+      {
+        "name": "Speranza",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Butterfly Advice",
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 20% chance\nMax Level Effect: Unleash a single ally's skill / 25% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Butterfly Advice",
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 25% chance\nMax Level Effect: Unleash a single ally's skill / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/98/Speranza.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Speranza"
+      },
+      {
+        "name": "Horae",
+        "element": "Dark",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Spacetime Warp",
+            "value": "Activations: 1\nMin Level Effect: Deal 500% Dark DMG 6 times to the enemy / 10% chance\nMax Level Effect: Deal 500% Dark DMG 6 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Second Skill: Spacetime Warp",
+            "value": "Activations: 4\nEffect: 【Autoskill】Own ATK 75% up after every attack / Max 4 times\n"
+          },
+          {
+            "name": "Awoken: ☆Spacetime Warp",
+            "value": "Activations: 1\nMin Level Effect: Deal 600% Dark DMG 6 times to the enemy / 10% chance\nMax Level Effect: Deal 600% Dark DMG 6 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Spacetime Warp",
+            "value": "Activations: 4\nEffect: 【Autoskill】Own ATK 85% up after every attack / Max 4 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/53/Horae.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Horae"
+      },
+      {
+        "name": "Pietra",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Magma Forecast",
+            "value": "Activations: 1\nMin Level Effect: Deal 50% Light DMG 7 times to the enemy / 15% chance\nMax Level Effect: Deal 50% Light DMG 7 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Magma Forecast",
+            "value": "Activations: 1\nMin Level Effect: Deal 50% Light DMG 10 times to the enemy / 15% chance\nMax Level Effect: Deal 50% Light DMG 10 times to the enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/a6/Pietra.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Pietra"
+      },
+      {
+        "name": "Caprice",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Versatile Suitcase",
+            "value": "Activations: 1\nMin Level Effect: All Light allies' ATK 600% up / 15% chance\nMax Level Effect: All Light allies' ATK 600% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Versatile Suitcase",
+            "value": "Activations: 1\nMin Level Effect: All Light allies' ATK 650% up / 15% chance\nMax Level Effect: All Light allies' ATK 650% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/ea/Caprice.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Caprice"
+      },
+      {
+        "name": "Mikaity",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Trap Field",
+            "value": "Activations: 2\nMin Level Effect: Fully resurrect a single ally / 10% chance\nMax Level Effect: Fully resurrect a single ally / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Trap Field",
+            "value": "Activations: 2\nMin Level Effect: Fully resurrect a single ally / 15% chance\nMax Level Effect: Fully resurrect a single ally / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/81/Mikaity.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Mikaity"
+      },
+      {
+        "name": "Lynette",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Flaky Magic Hat",
+            "value": "Activations: 2\nMin Level Effect: Deal 450% Light DMG to all enemies / 20% chance\nMax Level Effect: Deal 450% Light DMG to all enemies / 30% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Flaky Magic Hat",
+            "value": "Activations: 2\nMin Level Effect: Deal 550% Light DMG to all enemies / 25% chance\nMax Level Effect: Deal 550% Light DMG to all enemies / 35% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/82/Lynette.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Lynette"
+      },
+      {
+        "name": "Irene",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Tactical Vision",
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Dark DMG to all enemies / Unable to move 3 turns / 30% chance\nMax Level Effect: Deal 300% Dark DMG to all enemies / Unable to move 3 turns / 45% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Tactical Vision",
+            "value": "Activations: 2\nMin Level Effect: Deal 350% Dark DMG to all enemies / Unable to move 3 turns / 45% chance\nMax Level Effect: Deal 400% Dark DMG to all enemies / Unable to move 3 turns / 55% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/40/Irene.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Irene"
+      },
+      {
+        "name": "Peria",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Savior's Chain",
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 20% chance\nMax Level Effect: Unleash a single ally's skill / 25% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Savior's Chain",
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 25% chance\nMax Level Effect: Unleash a single ally's skill / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/25/Peria.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Peria"
+      },
+      {
+        "name": "Fiendish Peria",
+        "element": "Passion",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Devil's Chain",
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 25% chance\nMax Level Effect: Unleash a single ally's skill / 35% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Devil's Chain",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +250%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/68/Fiendish_Peria_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Fiendish_Peria"
+      },
+      {
+        "name": "Lisay",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Healing Hands",
+            "value": "Activations: 1\nMin Level Effect: A single ally's ATK 200% up / 10% chance\nMax Level Effect: A single ally's ATK 200% up / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Healing Hands",
+            "value": "Activations: 1\nMin Level Effect: A single ally's ATK 300% up / 10% chance\nMax Level Effect: A single ally's ATK 300% up / 15% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Healing Hands",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Battle EXP +200%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/82/Lisay.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Lisay"
+      },
+      {
+        "name": "Ludovica",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Mounted Spear",
+            "value": "Activations: 1\nMin Level Effect: Deal 90% Passion DMG 9 times to the enemy / 10% chance\nMax Level Effect: Deal 90% Passion DMG 9 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Second Skill: Mounted Spear",
+            "value": "Activations: 1\nEffect: 【Autoskill】Deal DMG to each enemy equivalent to 15% of that enemy's remaining soldiers after a successful attack / 10% chance / Max 1 time\n"
+          },
+          {
+            "name": "Awoken: ☆Mounted Spear",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Passion DMG 10 times to the enemy / 15% chance\nMax Level Effect: Deal 100% Passion DMG 10 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Mounted Spear",
+            "value": "Activations: 1\nEffect: 【Autoskill】Deal DMG to each enemy equivalent to 20% of that enemy's remaining soldiers after a successful attack / 20% chance / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/b5/Ludovica.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Ludovica"
+      },
+      {
+        "name": "Turbo Aludra",
+        "element": "Cool",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Dark Dissonance",
+            "value": "Activations: 4\nMin Level Effect: Unleash all allies' skills / 5% chance\nMax Level Effect: Unleash all allies' skills / 20% chance\n"
+          },
+          {
+            "name": "Second Skill: Dark Dissonance",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Unit ATK • DEF +300%\n"
+          },
+          {
+            "name": "Awoken: ☆Dark Dissonance",
+            "value": "Activations: 4\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Dark Dissonance",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Unit ATK • DEF +350%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/be/Turbo_Aludra.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Turbo_Aludra"
+      },
+      {
+        "name": "Rookie Hatsune",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Popping Caltrops",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Light DMG 3 times to the enemy / 10% chance\nMax Level Effect: Deal 150% Light DMG 3 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e9/Rookie_Hatsune.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Rookie_Hatsune"
+      },
+      {
+        "name": "Ninja Hatsune",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Shuriken Arts",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Light DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 200% Light DMG 4 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Shuriken Arts",
+            "value": "Activations: 1\nMin Level Effect: Deal 250% Light DMG 6 times to the enemy / 15% chance\nMax Level Effect: Deal 300% Light DMG 6 times to the enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/c1/Ninja_Hatsune.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Ninja_Hatsune"
+      },
+      {
+        "name": "Crimson Hatsune",
+        "element": "Light",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Booming Blossom",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Light DMG 9 times to the enemy / 15% chance\nMax Level Effect: Deal 350% Light DMG 9 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Booming Blossom",
+            "value": "Activations: 3\nEffect: 【Autoskill】Own ATK 80% up after every attack / Max 3 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/c5/Crimson_Hatsune_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Crimson_Hatsune"
+      },
+      {
+        "name": "Master Hatsune",
+        "element": "Light",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Ninja Idol Master",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Light DMG 12 times to the enemy / 15% chance\nMax Level Effect: Deal 350% Light DMG 12 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Second Skill: Ninja Idol Master",
+            "value": "Activations: 3\nEffect: 【Autoskill】Own ATK 100% up after every attack / Max 3 times\n"
+          },
+          {
+            "name": "Awoken: ☆Ninja Idol Master",
+            "value": "Activations: 1\nMin Level Effect: Deal 350% Light DMG 13 times to the enemy / 15% chance\nMax Level Effect: Deal 400% Light DMG 13 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Ninja Idol Master",
+            "value": "Activations: 3\nEffect: 【Autoskill】Own ATK 150% up after every attack / Max 3 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/77/Master_Hatsune.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Master_Hatsune"
+      },
+      {
+        "name": "Water Ninja",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Water Drops",
+            "value": "Activations: 3\nMin Level Effect: Deal 400% Dark DMG to all enemies / Unable to move 4 turns / 15% chance\nMax Level Effect: Deal 500% Dark DMG to all enemies / Unable to move 4 turns / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Water Drops",
+            "value": "Activations: 3\nMin Level Effect: Deal 500% Dark DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Deal 600% Dark DMG to all enemies / Unable to move 4 turns / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/63/Water_Ninja.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Water_Ninja"
+      },
+      {
+        "name": "Secret Water Ninja",
+        "element": "Dark",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Water Drops",
+            "value": "Activations: 3\nMin Level Effect: Deal 500% Dark DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Deal 600% Dark DMG to all enemies / Unable to move 4 turns / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Water Drops",
+            "value": "Activations: 4\nEffect: 【Autoskill】Own ATK 60% up after every attack / 100% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/66/Secret_Water_Ninja_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Secret_Water_Ninja"
+      },
+      {
+        "name": "Fire Ninja",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Fatal Flames",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Dark allies' skills / 10% chance\nMax Level Effect: Unleash all Dark allies' skills / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Fatal Flames",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Dark allies' skills / 15% chance\nMax Level Effect: Unleash all Dark allies' skills / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/0e/Fire_Ninja.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Fire_Ninja"
+      },
+      {
+        "name": "Secret Fire Ninja",
+        "element": "Dark",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Fatal Flames",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Dark allies' skills / 15% chance\nMax Level Effect: Unleash all Dark allies' skills / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Fatal Flames",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Dark allies' ATK・DEF 100% up from the first turn / 100% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/4e/Secret_Fire_Ninja_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Secret_Fire_Ninja"
+      },
+      {
+        "name": "Wind Ninja",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Wind Speed",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 3 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Wind Speed",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 3 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/0c/Wind_Ninja.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Wind_Ninja"
+      },
+      {
+        "name": "Secret Wind Ninja",
+        "element": "Dark",
+        "rarity": "GSR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Wind Speed",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 3 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Wind Speed",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Dark allies' ATK 50%％ up / 50% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/95/Secret_Wind_Ninja_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Secret_Wind_Ninja"
+      },
+      {
+        "name": "Yuu",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Happy Healing",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Dark DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 100% Dark DMG to all enemies / Unable to move 3 turns / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Happy Healing",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Dark DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 150% Dark DMG to all enemies / Unable to move 3 turns / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/34/Yuu.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Yuu"
+      },
+      {
+        "name": "Yami",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Dark Slash",
+            "value": "Activations: 1\nMin Level Effect: All Light allies' ATK • DEF 200% up / 10% chance\nMax Level Effect: All Light allies' ATK • DEF 200% up / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Dark Slash",
+            "value": "Activations: 1\nMin Level Effect: All Light allies' ATK • DEF 300% up / 15% chance\nMax Level Effect: All Light allies' ATK • DEF 300% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Dark Slash",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/30/Yami.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Yami"
+      },
+      {
+        "name": "Scully",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Blast of Sunlight",
+            "value": "Activations: 1\nMin Level Effect: All Light allies' ATK 600% • DEF 150% up / 15% chance\nMax Level Effect: All Light allies' ATK 600% • DEF 150% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Blast of Sunlight",
+            "value": "Activations: 1\nMin Level Effect: All Light allies' ATK 650% • DEF 200% up / 15% chance\nMax Level Effect: All Light allies' ATK 650% • DEF 200% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/3f/Scully.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Scully"
+      },
+      {
+        "name": "Akari",
+        "element": "Dark",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Spirit Blade",
+            "value": "Activations: 3\nMin Level Effect: Deal 300% Dark DMG to all enemies / Unable to move 5 turns / 15% chance\nMax Level Effect: Deal 600% Dark DMG to all enemies / Unable to move 5 turns / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Spirit Blade",
+            "value": "Activations: 1\nEffect: 【Autoskill】All enemies' ATK 70% down after every attack / 100% chance / Max 1 time\n"
+          },
+          {
+            "name": "Awoken: ☆Spirit Blade",
+            "value": "Activations: 3\nMin Level Effect: Deal 400% Dark DMG to all enemies / Unable to move 5 turns / 15% chance\nMax Level Effect: Deal 800% Dark DMG to all enemies / Unable to move 5 turns / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Spirit Blade",
+            "value": "Activations: 1\nEffect: 【Autoskill】All enemies' ATK 80% down after every attack / 100% chance / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/7d/Akari.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Akari"
+      },
+      {
+        "name": "Kyklos",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Sea Treasure",
+            "value": "Activations: 3\nMin Level Effect: Deal 250% Passion DMG to all enemies / Absorb 20% / 15% chance\nMax Level Effect: Deal 250% Passion DMG to all enemies / Absorb 20% / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/32/Kyklos.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Kyklos"
+      },
+      {
+        "name": "Sexy Summer Pixie",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Sexy Serve",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Passion DMG 4 times to the enemy / 5% chance\nMax Level Effect: Deal 300% Passion DMG 4 times to the enemy / 10% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Sexy Serve",
+            "value": "Activations: 1\nMin Level Effect: Deal 400% Passion DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 400% Passion DMG 4 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/66/Sexy_Summer_Pixie.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Sexy_Summer_Pixie"
+      },
+      {
+        "name": "Cute Pixie",
+        "element": "Passion",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Alluring Swimsuit",
+            "value": "Activations: 1\nMin Level Effect: Deal 400% Passion DMG 5 times to the enemy / 15% chance\nMax Level Effect: Deal 400% Passion DMG 5 times to the enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d8/Cute_Pixie_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Cute_Pixie"
+      },
+      {
+        "name": "Havfrue",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Life Activation",
+            "value": "Activations: Infinite\nMin Level Effect: Deal 350% DMG to all enemies / 15% chance\nMax Level Effect: Deal 400% DMG to all enemies / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Life Activation",
+            "value": "Activations: Infinite\nMin Level Effect: Deal 400% DMG to all enemies / 15% chance\nMax Level Effect: Deal 450% DMG to all enemies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/7d/Havfrue.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Havfrue"
+      },
+      {
+        "name": "Enosea",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Engulfing Sea",
+            "value": "Activations: 1\nMin Level Effect: Deal 400% DMG to a single enemy with a simultaneous attack by all Passion allies / 5% chance\nMax Level Effect: Deal 800% DMG to a single enemy with a simultaneous attack by all Passion allies / 25% chance\n"
+          },
+          {
+            "name": "Second Skill: Engulfing Sea",
+            "value": "Activations: 4\nEffect: 【Autoskill】When own soldiers fall below a certain amount, resurrect and fully recover all allies / 25% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Engulfing Sea",
+            "value": "Activations: 1\nMin Level Effect: Deal 400% DMG to a single enemy with a simultaneous attack by all Passion allies / 10% chance\nMax Level Effect: Deal 800% DMG to a single enemy with a simultaneous attack by all Passion allies / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Engulfing Sea",
+            "value": "Activations: 4\nEffect: 【Autoskill】When own soldiers fall below a certain amount, resurrect and fully recover all allies / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/6c/Enosea.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Enosea"
+      },
+      {
+        "name": "Merrow",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Tail Smack",
+            "value": "Activations: 1\nMin Level Effect: Deal 50% Cool DMG 7 times to the enemy / 15% chance\nMax Level Effect: Deal 50% Cool DMG 7 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Tail Smack",
+            "value": "Activations: 1\nMin Level Effect: Deal 50% Cool DMG 10 times to the enemy / 15% chance\nMax Level Effect: Deal 50% Cool DMG 10 times to the enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/80/Merrow.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Merrow"
+      },
+      {
+        "name": "Sufay",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Misty Breath",
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Misty Breath",
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 15% chance\nMax Level Effect: Unleash all allies' skills / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/4e/Sufay.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Sufay"
+      },
+      {
+        "name": "Oomin",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Water Step",
+            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 50% down / 15% chance\nMax Level Effect: All enemies' ATK 50% down / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Water Step",
+            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 50% down / 20% chance\nMax Level Effect: All enemies' ATK 50% down / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/98/Oomin.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Oomin"
+      },
+      {
+        "name": "Marguerite",
+        "element": "Cool",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Inferno Slash",
+            "value": "Activations: 1\nMin Level Effect: Deal 40% Cool DMG 16 times to the enemy / 5% chance\nMax Level Effect: Deal 70% Cool DMG 16 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Second Skill: Inferno Slash",
+            "value": "Activations: 1\nEffect: 【Autoskill】Own ATK 400% up after every attack / Max 1 time\n"
+          },
+          {
+            "name": "Awoken: ☆Inferno Slash",
+            "value": "Activations: 1\nMin Level Effect: Deal 60% Cool DMG 16 times to the enemy / 5% chance\nMax Level Effect: Deal 90% Cool DMG 16 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Inferno Slash",
+            "value": "Activations: 1\nEffect: 【Autoskill】Own ATK 500% up after every attack / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/8e/Marguerite.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Marguerite"
+      },
+      {
+        "name": "Lorayne",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Mining Song",
+            "value": "Activations: 2\nMin Level Effect: Deal 100% Passion DMG to all enemies / Absorb 20% / 30% chance\nMax Level Effect: Deal 100% Passion DMG to all enemies / Absorb 20% / 35% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Mining Song",
+            "value": "Activations: 2\nMin Level Effect: Deal 150% Passion DMG to all enemies / Absorb 20% / 35% chance\nMax Level Effect: Deal 150% Passion DMG to all enemies / Absorb 20% / 40% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/94/Lorayne.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Lorayne"
+      },
+      {
+        "name": "Eleanora",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Budget Cut",
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Cool DMG to all enemies / Unable to move 3 turns / 30% chance\nMax Level Effect: Deal 300% Cool DMG to all enemies / Unable to move 3 turns / 45% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Budget Cut",
+            "value": "Activations: 2\nMin Level Effect: Deal 350% Cool DMG to all enemies / Unable to move 3 turns / 45% chance\nMax Level Effect: Deal 400% Cool DMG to all enemies / Unable to move 3 turns / 55% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/31/Eleanora.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Eleanora"
+      },
+      {
+        "name": "Lilliel",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Sweet Horrors",
+            "value": "Activations: 1\nMin Level Effect: All Dark allies' ATK 300% up / 15% chance\nMax Level Effect: All Dark allies' ATK 300% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Sweet Horrors",
+            "value": "Activations: 1\nMin Level Effect: All Dark allies' ATK 300% up / 20% chance\nMax Level Effect: All Dark allies' ATK 300% up / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e4/Lilliel.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Lilliel"
+      },
+      {
+        "name": "Restful Lilliel",
+        "element": "Dark",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Dreamy Negligee",
+            "value": "Activations: 1\nMin Level Effect: All Dark allies' ATK 350% up / 20% chance\nMax Level Effect: All Dark allies' ATK 350% up / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Dreamy Negligee",
+            "value": "Activations: 1\nEffect: 【Autoskill】Own ATK 200% up after a successful attack / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/a0/Restful_Lilliel_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Restful_Lilliel"
+      },
+      {
+        "name": "DIY Ninja",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Shut-In Master",
+            "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 30% chance\nMax Level Effect: Unleash a single ally's skill / 40% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Shut-In Master",
+            "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 35% chance\nMax Level Effect: Unleash a single ally's skill / 45% chance\n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/96/DIY_Ninja.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/DIY_Ninja"
+      },
+      {
+        "name": "Alvina",
+        "element": "Light",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Nature's Blessings",
+            "value": "Activations: 2\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Nature's Blessings",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of any enemy skills / 60% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Nature's Blessings",
+            "value": "Activations: 2\nMin Level Effect: Unleash all allies' skills / 15% chance\nMax Level Effect: Unleash all allies' skills / 35% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Nature's Blessings",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of any enemy skills / 70% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/7e/Alvina.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Alvina"
+      },
+      {
+        "name": "Lu",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Hymn of Welcome",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Passion DMG 3 times to the enemy / 10% chance\nMax Level Effect: Deal 150% Passion DMG 3 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/58/Lu.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Lu"
+      },
+      {
+        "name": "Soloist Lu",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Kingdom Serenade",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Passion DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 200% Passion DMG 4 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Kingdom Serenade",
+            "value": "Activations: 1\nMin Level Effect: Deal 250% Passion DMG 6 times to the enemy / 15% chance\nMax Level Effect: Deal 300% Passion DMG 6 times to the enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/1c/Soloist_Lu.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Soloist_Lu"
+      },
+      {
+        "name": "Formal Lu",
+        "element": "Passion",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Spring Nocturne",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Passion DMG 9 times to the enemy / 15% chance\nMax Level Effect: Deal 350% Passion DMG 9 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Spring Nocturne",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Passion allies' ATK 300% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/ce/Formal_Lu_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Formal_Lu"
+      },
+      {
+        "name": "Blessed Lu",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Divine Blessing",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Passion DMG 12 times to the enemy / 15% chance\nMax Level Effect: Deal 350% Passion DMG 12 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Second Skill: Divine Blessing",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Passion allies' ATK 400% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Divine Blessing",
+            "value": "Activations: 1\nMin Level Effect: Deal 350% Passion DMG 13 times to the enemy / 15% chance\nMax Level Effect: Deal 400% Passion DMG 13 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Divine Blessing",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Passion allies' ATK 400% up / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/9a/Blessed_Lu.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Blessed_Lu"
+      },
+      {
+        "name": "Virtuoso Lu",
+        "element": "Passion",
+        "rarity": "GLR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Divine Blessing",
+            "value": "Activations: 1\nMin Level Effect: Deal 350% Passion DMG 14 times to the enemy / 15% chance\nMax Level Effect: Deal 400% Passion DMG 14 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Divine Blessing",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Passion allies' ATK 400% up / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/88/Virtuoso_Lu_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Virtuoso_Lu"
+      },
+      {
+        "name": "Feli",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Wandering Harp",
+            "value": "Activations: 3\nMin Level Effect: Deal 400% Cool DMG to all enemies / Unable to move 4 turns / 15% chance\nMax Level Effect: Deal 500% Cool DMG to all enemies / Unable to move 4 turns / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Wandering Harp",
+            "value": "Activations: 3\nMin Level Effect: Deal 500% Cool DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Deal 600% Cool DMG to all enemies / Unable to move 4 turns / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/ba/Feli.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Feli"
+      },
+      {
+        "name": "Melody Feli",
+        "element": "Cool",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Wandering Harp",
+            "value": "Activations: 3\nMin Level Effect: Deal 500% Cool DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Deal 600% Cool DMG to all enemies / Unable to move 4 turns / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Wandering Harp",
+            "value": "Activations: 1\nEffect: 【Autoskill】When own soldiers fall below a certain amount, recover 100% of own soldiers/50% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/47/Melody_Feli_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Melody_Feli"
+      },
+      {
+        "name": "Caro",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Gift of Misfortune",
+            "value": "Activations: 1\nMin Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Cool allies / 10% chance\nMax Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Cool allies / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Gift of Misfortune",
+            "value": "Activations: 1\nMin Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Cool allies / 15% chance\nMax Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Cool allies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/62/Caro.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Caro"
+      },
+      {
+        "name": "Melody Caro",
+        "element": "Cool",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Gift of Misfortune",
+            "value": "Activations: 1\nMin Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Cool allies / 15% chance\nMax Level Effect: Deal 650% DMG to a single enemy with a simultaneous attack by all Cool allies / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Gift of Misfortune",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill/30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/42/Melody_Caro_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Melody_Caro"
+      },
+      {
+        "name": "Timi",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Silent Chef",
+            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 60% down / 15% chance\nMax Level Effect: All enemies' ATK 60% down / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Silent Chef",
+            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 60% down / 20% chance\nMax Level Effect: All enemies' ATK 60% down / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/4b/Timi.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Timi"
+      },
+      {
+        "name": "Melody Timi",
+        "element": "Cool",
+        "rarity": "GSR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Silent Chef",
+            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 60% down / 20% chance\nMax Level Effect: All enemies' ATK 60% down / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Silent Chef",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Cool allies' ATK 50% up/50% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/fd/Melody_Timi_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Melody_Timi"
+      },
+      {
+        "name": "Fermata",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Song of Soothing",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Cool DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 100% Cool DMG to all enemies / Unable to move 3 turns / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Song of Soothing",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Cool DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 150% Cool DMG to all enemies / Unable to move 3 turns / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/bc/Fermata.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Fermata"
+      },
+      {
+        "name": "Irisa",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Sweet Statutes",
+            "value": "Activations: 1\nMin Level Effect: All Passion allies' ATK • DEF 200% up / 10% chance\nMax Level Effect: All Passion allies' ATK • DEF 200% up / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Sweet Statutes",
+            "value": "Activations: 1\nMin Level Effect: All Passion allies' ATK • DEF 300% up / 15% chance\nMax Level Effect: All Passion allies' ATK • DEF 300% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Sweet Statutes",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of enemy's non-attacking skill / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d1/Irisa.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Irisa"
+      },
+      {
+        "name": "Biscotti",
+        "element": "Dark",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Scarlet Rain",
+            "value": "Activations: 1\nMin Level Effect: All Dark allies' ATK 500% • DEF 250% up / 5% chance\nMax Level Effect: All Dark allies' ATK 500% • DEF 250% up / 15% chance\n"
+          },
+          {
+            "name": "Second Skill: Scarlet Rain",
+            "value": "Activations: 2\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill / 30% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Scarlet Rain",
+            "value": "Activations: 1\nMin Level Effect: All Dark allies' ATK 600% • DEF 300% up / 15% chance\nMax Level Effect: All Dark allies' ATK 600% • DEF 300% up / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Scarlet Rain",
+            "value": "Activations: 2\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill / 40% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/1c/Biscotti.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Biscotti"
       }
     ]
-  
