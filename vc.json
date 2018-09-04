@@ -1,837 +1,5 @@
     [
       {
-        "name": "Adventurer",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Experience",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit DEF +3% \nMax Level Effect: 【Autoskill】 Unit DEF +13%"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/c/cc/Adventurer.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Adventurer"
-      },
-      {
-        "name": "Anomalocaris",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Jaws of Death",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% DMG to a single enemy / 10% chance\nMax Level Effect: Deal 250% DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/5/54/Anomalocaris.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Anomalocaris"
-      },
-      {
-        "name": "Antares",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Poisoning",
-            "value": "Activations: 1\nMin Level Effect: Critical Dark DMG to a single enemy / battle start 3% chance\nMax Level Effect: Critical Dark DMG to a single enemy / battle start 6% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/8/84/Antares.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Antares"
-      },
-      {
-        "name": "Archer",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Arrow Rain",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 120% DMG to all enemies / 10% chance\nMax Level Effect: Deal 220% DMG to all enemies / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/2/29/Archer.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Archer"
-      },
-      {
-        "name": "Barbarian",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: War Cry",
-            "value": "Activations: 1\nMin Level Effect: All allies' ATK 25% up / battle start 20% chance\nMax Level Effect: All allies' ATK 25% up / battle start 30% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/b/b6/Barbarian.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Barbarian"
-      },
-      {
-        "name": "Beastmaster",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Roar of the beast",
-            "value": "Activations: 3\nMin Level Effect: All enemies' ATK 25% down / 5% chance\nMax Level Effect: All enemies' ATK 25% down / 10% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/d/d6/Beastmaster.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Beastmaster"
-      },
-      {
-        "name": "Body Guard",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Air Shield Gun",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit DEF +3% \nMax Level Effect: 【Autoskill】 Unit DEF +13%"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/8/80/Body_Guard.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Body_Guard"
-      },
-      {
-        "name": "Bugbear",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Bear hug",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% Passion DMG to a single enemy / 10% chance\nMax Level Effect: Deal 250% Passion DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/0/0c/Bugbear.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Bugbear"
-      },
-      {
-        "name": "Centaur",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Sky Bow of Cheiron",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 120% Light DMG to all enemies / 10% chance\nMax Level Effect: Deal 220% Light DMG to all enemies / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/b/bc/Centaur.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Centaur"
-      },
-      {
-        "name": "Crab",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Chitin Shell",
-            "value": "Activations: 3\nMin Level Effect: Own DEF 100% Up / 20% chance\nMax Level Effect: Own DEF 100% Up / 30% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/6/63/Crab.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Crab"
-      },
-      {
-        "name": "Dancer",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Haste Dance",
-            "value": "Activations: 1\nMin Level Effect: Take 2 extra turn(s) / battle start 15% chance\nMax Level Effect: Take 2 extra turn(s) / battle start 25% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/4/41/Dancer.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Dancer"
-      },
-      {
-        "name": "Debris Eater",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Space Sweeper",
-            "value": "Activations: Infinite\nMin Level Effect: All allies recover 15% / 10% chance\nMax Level Effect: All allies recover 25% / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/5/50/Debris_Eater.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Debris_Eater"
-      },
-      {
-        "name": "Dragon Knight",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Air assault",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% Passion DMG to a single enemy / battle start 20% chance\nMax Level Effect: Deal 250% Passion DMG to a single enemy / battle start 30% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/4/4e/Dragon_Knight.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Dragon_Knight"
-      },
-      {
-        "name": "Duckling Look-a-Like",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Maybe a Swan...",
-            "value": "Activations: 1\nMin Level Effect: Own ATK 100% up / 10% chance\nMax Level Effect: Own ATK 100% up / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/d/d7/Duckling_Look-a-Like.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Duckling_Look-a-Like"
-      },
-      {
-        "name": "Dwarf",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Heavy Axe",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% Passion DMG to a single enemy / 10% chance\nMax Level Effect: Deal 250% Passion DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/e/ed/Dwarf.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Dwarf"
-      },
-      {
-        "name": "Elementalist",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Element defense",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit DEF +3% \nMax Level Effect: 【Autoskill】 Unit DEF +13%"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/a/a6/Elementalist.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Elementalist"
-      },
-      {
-        "name": "Fisherwoman",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Fishing Pole",
-            "value": "Activations: Infinite\nMin Level Effect: Deals 150% Passion DMG to a single enemy / 15% chance\nMax Level Effect: Deals 250% Passion DMG to a single enemy / 20% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/3/32/Fisherwoman.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Fisherwoman"
-      },
-      {
-        "name": "Flower Girl",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Flower Meaning",
-            "value": "Activations: 3\nMin Level Effect: All allies' DEF 25% up / 15% chance\nMax Level Effect: All allies' DEF 25% up / 20% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/a/a8/Flower_Girl.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Flower_Girl"
-      },
-      {
-        "name": "Gnome",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Earth defense",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit DEF +3% \nMax Level Effect: 【Autoskill】 Unit DEF +13% "
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/7/78/Gnome.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Gnome"
-      },
-      {
-        "name": "Guide Master",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Bullet Tour",
-            "value": "Activations: 3\nMin Level Effect: All enemies' DEF 25% down / 15% chance\nMax Level Effect:  All enemies' DEF 25% down / 20% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/d/d8/Guide_Master.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Guide_Master"
-      },
-      {
-        "name": "Harpy",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Harpy voice",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/1/1b/Harpy.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Harpy"
-      },
-      {
-        "name": "Harvest Girl",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Delicious Rice",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/b/be/Harvest_Girl.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Harvest_Girl"
-      },
-      {
-        "name": "Heavy Armor",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Heavy guard",
-            "value": "Activations: 2\nMin Level Effect: Own DEF 100% up / 15% chance\nMax Level Effect: Own DEF 100% up / 20% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/6/62/Heavy_Armor.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Heavy_Armor"
-      },
-      {
-        "name": "Highlander",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Bagpipe March",
-            "value": "Activations: 1\nMin Level Effect: Own ATK 100% up / 10% chance\nMax Level Effect: Own ATK 100% up / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/3/34/Highlander.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Highlander"
-      },
-      {
-        "name": "Hunter",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Mix",
-            "value": "Activations: Infinite\nMin Level Effect: Recovers 50% of its own troops / near defeat 25% chance\nMax Level Effect: Recovers 70% of its own troops / near defeat 35% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/4/4b/Hunter.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Hunter"
-      },
-      {
-        "name": "Kunoichi",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Art of the cicada",
-            "value": "Activations: 2\nMin Level Effect: Own DEF 100% up / 15% chance\nMax Level Effect: Own DEF 100% up / 20% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/5/5c/Kunoichi.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Kunoichi"
-      },
-      {
-        "name": "Lancer",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Charge",
-            "value": "Activations: Infinite\nMin Level Effect: Deals 150% DMG to a single enemy / 10% chance\nMax Level Effect: Deals 250% DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/0/0b/Lancer.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Lancer"
-      },
-      {
-        "name": "Life Saver",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Life Saving",
-            "value": "Activations: Infinite\nMin Level Effect: A single ally recovers 30% / near defeat 15% chance\nMax Level Effect: A single ally recovers 45% / near defeat 20% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/e/e3/Life_Saver.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Life_Saver"
-      },
-      {
-        "name": "Lilliput",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Sly Mission",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit ATK +5% \nMax Level Effect: 【Autoskill】 Unit ATK +18% "
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/5/50/Lilliput.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Lilliput"
-      },
-      {
-        "name": "Little Witch",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Transform",
-            "value": "Activations: 1\nMin Level Effect: Own ATK 100% up / battle start 20% chance\nMax Level Effect: Own ATK 100% up / battle start 30% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/d/df/Little_Witch.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Little_Witch"
-      },
-      {
-        "name": "Mechanic",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Laser beam",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% Passion DMG to a single enemy / 10% chance\nMax Level Effect: Deal 250% Passion DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/5/55/Mechanic.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Mechanic"
-      },
-      {
-        "name": "Messenger",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Surprise Package",
-            "value": "Activations: Infinite\nMin Level Effect: All allies recover 15% / 10% chance\nMax Level Effect: All allies recover 25% / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/f/f2/Messenger.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Messenger"
-      },
-      {
-        "name": "Miko",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Exorcism",
-            "value": "Activations: 3\nMin Level Effect: All enemies' attack 25% down / 5% chance\nMax Level Effect: All enemies' attack 25% down / 10% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/1/13/Miko.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Miko"
-      },
-      {
-        "name": "Miner",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Superalloy Pickaxe",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% Passion DMG to a single enemy / 15% chance\nMax Level Effect: Deal 250% Passion DMG to a single enemy / 20% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/4/4a/Miner.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Miner"
-      },
-      {
-        "name": "Minotaur",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Fresh Milk",
-            "value": "Activations: Infinite\nMin Level Effect: Recovers 50% of its own troops / 15% chance\nMax Level Effect: Recovers 70% of its own troops / 20% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/7/7e/Minotaur.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Minotaur"
-      },
-      {
-        "name": "Muryan",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Sugar Sweet",
-            "value": "Activations: 1\nMin Level Effect: Own ATK 50% up / battle start 20% chance\nMax Level Effect: Own ATK 50% up / battle start 30% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/0/0f/Muryan.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Muryan"
-      },
-      {
-        "name": "Naginata Master",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Mow Down",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 120% Passion DMG to all enemies / 10% chance\nMax Level Effect: Deal 220% Passion DMG to all enemies / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/0/05/Naginata_Master.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Naginata_Master"
-      },
-      {
-        "name": "Panda Girl",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Panda Punch",
-            "value": "Activations: 1\nMin Level Effect: Own ATK 100% up / 10% chance\nMax Level Effect: Own ATK 100% up / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/b/b2/Panda_Girl.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Panda_Girl"
-      },
-      {
-        "name": "Pastry Chef",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Snack time",
-            "value": "Activations: Infinite\nMin Level Effect: All allies recover 15% / 10% chance\nMax Level Effect: All allies recover 25% / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/b/b3/Pastry_Chef.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Pastry_Chef"
-      },
-      {
-        "name": "Petty Pirate",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Sow Confusion",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/3/3a/Petty_Pirate.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Petty_Pirate"
-      },
-      {
-        "name": "Popcorn",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Corn Bomb",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 120% DMG to all enemies / 10% chance\nMax Level Effect: Deal 220% DMG to all enemies / 15% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/8/85/Popcorn.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Popcorn"
-      },
-      {
-        "name": "Puca",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Allies",
-            "value": "Activations: Infinite\nMin Level Effect: All allies recover 15% / near defeat 15% chance\nMax Level Effect: All allies recover 25% / near defeat 20% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/6/6e/Puca.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Puca"
-      },
-      {
-        "name": "Rambler Rose",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Rosy Prison",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turns(s) / 10% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/c/cf/Rambler_Rose.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Rambler_Rose"
-      },
-      {
-        "name": "Scholar",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Brilliant Mind",
-            "value": "Activations: 3\nMin Level Effect: All enemies' DEF 25% down / 10% chance\nMax Level Effect: All enemies' DEF 25% down / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/c/c5/Scholar.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Scholar"
-      },
-      {
-        "name": "Scout",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Reconnaissance",
-            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 25% down / battle start 20% chance\nMax Level Effect: All enemies' ATK 25% down / battle start 30% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/6/69/Scout.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Scout"
-      },
-      {
-        "name": "Sea",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Whirlpool",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 25% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/8/81/Sea.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Sea"
-      },
-      {
-        "name": "Serket",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Snipper",
-            "value": "Activations: 1\nMin Level Effect: Deal 150% Passion DMG to a single enemy / 15% chance\nMax Level Effect: Deal 250% Passion DMG to a single enemy / 20% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/6/6b/Serket.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Serket"
-      },
-      {
-        "name": "Shepherd",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: 1000s of Sheep",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/8/80/Shepherd.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Shepherd"
-      },
-      {
-        "name": "Snake Charmer",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Snake Magic",
-            "value": "Activations: 1\nMin Level Effect: Confirm to receive rewards / 10% chance\nMax Level Effect: Confirm to receive rewards / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/1/13/Snake_Charmer.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Snake_Charmer"
-      },
-      {
-        "name": "Storyteller",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Dummy's Curse",
-            "value": "Activations: 3\nMin Level Effect: All enemies' DEF 25% down / 15% chance\nMax Level Effect: All enemies DEF 25% down / 20% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/f/f5/Storyteller.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Storyteller"
-      },
-      {
-        "name": "Suiko",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Fangs Bite",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 120% DMG to all enemies / 10% chance\nMax Level Effect: Deal 220% DMG to all enemies / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/d/d3/Suiko.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Suiko"
-      },
-      {
-        "name": "Summoner",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Summon",
-            "value": "Activations: 1\nMin Level Effect: All allies' DEF 25% up / battle start 20% chance\nMax Level Effect: All allies's DEF 25% up / battle start 30% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/2/2f/Summoner.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Summoner"
-      },
-      {
-        "name": "Taoist",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Magic Talisman",
-            "value": "Activations: 3\nMin Level Effect: All Allies's DEF 15% up / 15% chance\nMax Level Effect: All Allies's DEF 15% up / 20% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/b/b2/Taoist.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Taoist"
-      },
-      {
-        "name": "Teacher",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Private Lesson",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Battle EXP +10% \nMax Level Effect: 【Autoskill】 Battle EXP +20%"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/6/6f/Teacher.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Teacher"
-      },
-      {
-        "name": "Thief",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Sleight of hand",
-            "value": "Activations: 1\nMin Level Effect: Take 1 extra turn(s) / 10% chance\nMax Level Effect: Take 1 extra turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/f/fc/Thief.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Thief"
-      },
-      {
-        "name": "Treasure Hunter",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Crisis Prevention",
-            "value": "Activations: 2\nMin Level Effect: Own DEF 100% up / 15% chance\nMax Level Effect: Own DEF 100% up / 20% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/7/79/Treasure_Hunter.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Treasure_Hunter"
-      },
-      {
-        "name": "Viking",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: War Axe",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% DMG to a single enemy / 10% chance\nMax Level Effect: Deal 250% DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/c/c0/Viking.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Viking"
-      },
-      {
-        "name": "Vorpal Bunny",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Beheading",
-            "value": "Activations: 1\nMin Level Effect: Critical DMG to a single enemy / 3% chance\nMax Level Effect: Critical DMG to a single enemy / 6% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/7/7f/Vorpal_Bunny.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Vorpal_Bunny"
-      },
-      {
-        "name": "Warrior",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Slash",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% DMG to a single enemy / 10% chance\nMax Level Effect: Deal 250% DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/9/97/Warrior.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Warrior"
-      },
-      {
-        "name": "Witch",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Charm",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/e/e6/Witch.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Witch"
-      },
-      {
-        "name": "Witch's Apprentice",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Magic Land",
-            "value": "Activations: Infinite\nMin Level Effect: All allies recover 15% / 10% chance\nMax Level Effect: All allies recover 25% / 15% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/4/49/Witch%27s_Apprentice.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Witch%27s_Apprentice"
-      },
-      {
-        "name": "Wizard",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Fire",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% Passion DMG to a single enemy / 10% chance\nMax Level Effect: Deal 250% Passion DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/c/c7/Wizard.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Wizard"
-      },
-      {
-        "name": "Wood Cutter",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Chainsaw",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% DMG to a single enemy / 10% chance\nMax Level Effect: Deal 250% DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/5/58/Wood_Cutter.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Wood_Cutter"
-      },
-      {
-        "name": "Wrestler",
-        "element": "Passion",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Power Slam",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% Passion DMG to a single enemy / 15% chance\nMax Level Effect: Deal 250% Passion DMG to a single enemy / 20% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/2/26/Wrestler.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Wrestler"
-      },
-      {
         "name": "Alchemist",
         "element": "Passion",
         "rarity": "R",
@@ -7938,565 +7106,6 @@
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/8/8a/Wise_Oracle.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Wise_Oracle"
-      },
-      {
-        "name": "Anki Master",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Assassin's Knife",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% DMG to a single enemy / 10% chance\nMax Level Effect: Deal 250% DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/5/56/Anki_Master.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Anki_Master"
-      },
-      {
-        "name": "Apsalus",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Rapid Stream",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 120% Cool DMG to all enemies / 10% chance\nMax Level Effect: Deal 220% Cool DMG to all enemies / 15% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/6/61/Apsalus.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Apsalus"
-      },
-      {
-        "name": "Assassin",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Foul play",
-            "value": "Activations: 1\nMin Level Effect: Critical DMG to a single enemy / 3% chance\nMax Level Effect: Critical DMG to a single enemy / 6% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/6/69/Assassin.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Assassin"
-      },
-      {
-        "name": "Bandit",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Capture",
-            "value": "Activations: 1\nMin Level Effect: Confirm to receive rewards / 10% chance\nMax Level Effect: Confirm to receive rewards / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/1/1f/Bandit.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Bandit"
-      },
-      {
-        "name": "Bard",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Lullaby",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/8/82/Bard.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Bard"
-      },
-      {
-        "name": "Berserker",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Berserk",
-            "value": "Activations: 1\nMin Level Effect: Own ATK 100% up / battle start 20% chance\nMax Level Effect: Own ATK 100% up / battle start 30% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/a/a8/Berserker.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Berserker"
-      },
-      {
-        "name": "Blue Knight",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Blue Lightning",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% Cool DMG to a single enemy / 15% chance\nMax Level Effect: Deal 250% Cool DMG to a single enemy / 20% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/1/1c/Blue_Knight.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Blue_Knight"
-      },
-      {
-        "name": "Boots Cat",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Cunning",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit ATK +5% \nMax Level Effect: 【Autoskill】 Unit ATK +18% "
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/b/b7/Boots_Cat.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Boots_Cat"
-      },
-      {
-        "name": "China Express",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Piping-Hot Gyoza",
-            "value": "Activations: 1\nMin Level Effect: All allies' ATK 50% up / 10% chance\nMax Level Effect: All allies' ATK 50% up / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/8/80/China_Express.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/China_Express"
-      },
-      {
-        "name": "Chronomancer",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Staff of Time",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/7/78/Chronomancer.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Chronomancer"
-      },
-      {
-        "name": "Darter",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Bread and Butter",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% Cool DMG to a single enemy / 15% chance\nMax Level Effect: Deal 250% Cool DMG to a single enemy / 20% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/1/1a/Darter.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Darter"
-      },
-      {
-        "name": "Diver",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Down Current",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/a/a2/Diver.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Diver"
-      },
-      {
-        "name": "Elf",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: High magic",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 120% Cool DMG to all enemies / 10% chance\nMax Level Effect: Deal 220% Cool DMG to all enemies / 15% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/8/89/Elf.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Elf"
-      },
-      {
-        "name": "Enchanter",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Enchant",
-            "value": "Activations: 3\nMin Level Effect: A single ally's attack 50% up / 10% chance\nMax Level Effect: A single ally's attack 50% up / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/3/35/Enchanter.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Enchanter"
-      },
-      {
-        "name": "Exorcist",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Exorcism",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 120% Light DMG to a Dark enemy / 20% chance\nMax Level Effect: Deal 220% Light DMG to a Dark enemy / 30% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/a/ac/Exorcist.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Exorcist"
-      },
-      {
-        "name": "Fencer",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Two-Sword Style",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 250% Passion to a single enemy / 10% chance\nMax Level Effect: deal 350% Passion to a Single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/b/b5/Fencer.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Fencer"
-      },
-      {
-        "name": "Gambler",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Russian Roulette",
-            "value": "Activations: 1\nMin Level Effect: Critical hit to a single enemy / 3% chance\nMax Level Effect: Critical hit to a single enemy / 6% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/8/8a/Gambler.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Gambler"
-      },
-      {
-        "name": "Heqet",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Spawning",
-            "value": "Activations: Infinite\nMin Level Effect: Fully recovers her own soldiers / 10% chance\nMax Level Effect: Fully recovers her own soldiers / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/d/d2/Heqet.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Heqet"
-      },
-      {
-        "name": "Kabbalist",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Zohar's Mysteries",
-            "value": "Activations: 1\nMin Level Effect: Own ATK 100% up / 10%\nMax Level Effect: Own ATK 100% up / 15%"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/1/19/Kabbalist.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Kabbalist"
-      },
-      {
-        "name": "Lacrosse Master",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Fake-Out",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 200% DMG to a single enemy / 10% chance\nMax Level Effect: Deal 300% DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/b/bc/Lacrosse_Master.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Lacrosse_Master"
-      },
-      {
-        "name": "Lizard Girl",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Lizard Sabre",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 200% DMG to a single enemy / 10% chance\nMax Level Effect: Deal 300% DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/1/19/Lizard_Girl.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Lizard_Girl"
-      },
-      {
-        "name": "Lycaon",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Bite",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% damage to a single enemy / 10% chance\nMax Level Effect: Deal 250% damage to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/0/04/Lycaon.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Lycaon"
-      },
-      {
-        "name": "Lyra",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Harmonizer",
-            "value": "Activations: Infinite\nMin Level Effect: All allies recover 15% / 10% chance\nMax Level Effect: All allies recover 25% / 15% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/d/d8/Lyra.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Lyra"
-      },
-      {
-        "name": "Merchant",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Special Contract",
-            "value": "Activations: 1\nMin Level Effect: Confirm to receive rewards / 10% chance\nMax Level Effect: Confirm to receive rewards / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/1/19/Merchant.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Merchant"
-      },
-      {
-        "name": "Military Band",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Fanfare",
-            "value": "Activations: 1\nMin Level Effect: All allies' ATK 50% up / 10% chance\nMax Level Effect: All allies' ATK 50% up / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/6/63/Military_Band.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Military_Band"
-      },
-      {
-        "name": "Mummy",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Boosting Bandages",
-            "value": "Activations: 1\nMin Level Effect: Own ATK 100% up / 10% chance\nMax Level Effect: Own ATK 100% up / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/7/70/Mummy.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Mummy"
-      },
-      {
-        "name": "Onmyoji",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Barrier",
-            "value": "Activations: 1\nMin Level Effect: All allies' DEF 25% up / battle start 20% chance\nMax Level Effect: All allies' DEF 25% up / battle start 30% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/c/ca/Onmyoji.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Onmyoji"
-      },
-      {
-        "name": "Pegasus Knight",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Ariel Dive",
-            "value": "Activations: 1\nMin Level Effect: Deal 150% Cool DMG to a single enemy / battle start 20% chance\nMax Level Effect: Deal 250% Cool DMG to a single enemy / battle start 30% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/9/97/Pegasus_Knight.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Pegasus_Knight"
-      },
-      {
-        "name": "Phalanx",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Formation",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 120% DMG to all enemies / 10% chance\nMax Level Effect: Deal 220% DMG to all enemies / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/3/32/Phalanx.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Phalanx"
-      },
-      {
-        "name": "Phantom",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Transparent",
-            "value": "Activations: 2\nMin Level Effect: Own DEF 100% up / 15% chance\nMax Level Effect: Own DEF 100% up / 20% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/e/ec/Phantom.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Phantom"
-      },
-      {
-        "name": "Pisces",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Star Ocean",
-            "value": "Activations: 1\nMin Level Effect: Confirm to receive rewards / 10% chance\nMax Level Effect: Confirm to receive rewards / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/5/5d/Pisces.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Pisces"
-      },
-      {
-        "name": "Sea Bishop",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Liberation",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 120% Light DMG to all enemies / 10% chance\nMax Level Effect: Deal 220% Light DMG to all enemies / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/5/51/Sea_Bishop.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Sea_Bishop"
-      },
-      {
-        "name": "Sharpshooter",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Far Snipe",
-            "value": "Activations: 1\nMin Level Effect: Critical DMG to a single enemy / 3% chance\nMax Level Effect: Critical DMG to a single enemy / 6% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/2/25/Sharpshooter.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Sharpshooter"
-      },
-      {
-        "name": "Shipwright",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Repair Hammer",
-            "value": "Activations: Infinite\nMin Level Effect: A single ally recovers 30% / 15% chance\nMax Level Effect: A single ally recovers 45% / 20% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/f/f9/Shipwright.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Shipwright"
-      },
-      {
-        "name": "Siren",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Inviting Melody",
-            "value": "Activations: 1\nMin Level Effect: All enemies' DEF 25% down / battle start 20% chance\nMax Level Effect: All enemies' DEF 25% down / battle start 30% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/0/0a/Siren.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Siren"
-      },
-      {
-        "name": "Space Cop",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Andromeda Cuffs",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/b/bc/Space_Cop.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Space_Cop"
-      },
-      {
-        "name": "Stonegirl",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Stone Shield",
-            "value": "Activations: 3\nMin Level Effect: Own Def 100% up / 20% chance\nMax Level Effect: Own Def 100% up / 30% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/2/2b/Stonegirl.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Stonegirl"
-      },
-      {
-        "name": "Swan",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Etoile",
-            "value": "Activations: Infinite\nMin Level Effect: All allies recover 15% / 10% chance\nMax Level Effect: All allies recover 25% / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/8/87/Swan.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Swan"
-      },
-      {
-        "name": "Swordsman",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Quick Draw",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% DMG to a single enemy / 10% chance\nMax Level Effect: Deal 250% DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/5/5a/Swordsman.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Swordsman"
-      },
-      {
-        "name": "Terra",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Avalanche",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 200% DMG to a single enemy / 10% chance\nMax Level Effect: Deal 300% DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/f/f5/Terra.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Terra"
-      },
-      {
-        "name": "Unicorn",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Heal Horn",
-            "value": "Activations: Infinite\nMin Level Effect: All allies recover 15% / 10% chance\nMax Level Effect: All allies recover 25% / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/7/7e/Unicorn.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Unicorn"
-      },
-      {
-        "name": "Zashiki Warashi",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Play Together",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/c/c7/Zashiki_Warashi.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Zashiki_Warashi"
-      },
-      {
-        "name": "Zombie",
-        "element": "Cool",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Zombie Bite",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% Cool DMG to a single enemy / 10% chance\nMax Level Effect: Deal 250% Cool DMG to a single enemy / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/c/c3/Zombie.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Zombie"
       },
       {
         "name": "Agent",
@@ -16163,175 +14772,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/Sellana"
       },
       {
-        "name": "Angel Child",
-        "element": "Light",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Perky Hammer",
-            "value": "Activations: Infinite\nMin Level Effect: All allies recover 15% / 10% chance\nMax Level Effect: All allies recover 25% / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/f/ff/Angel_Child.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Angel_Child"
-      },
-      {
-        "name": "Ariel (Light)",
-        "element": "Light",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Squall",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 20% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/7/74/Ariel_%28Light%29.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Ariel_(Light)"
-      },
-      {
-        "name": "Bishop",
-        "element": "Light",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Sacred light",
-            "value": "Activations: Infinite\nMin Level Effect: All allies recover 30% / 5% chance\nMax Level Effect: All allies recover 45% / 10% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/f/f0/Bishop.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Bishop"
-      },
-      {
-        "name": "Catty",
-        "element": "Light",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Drain Wisdom",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 120% Light DMG to a single enemy / Absorb 10% / 10% chance\nMax Level Effect: Deal 220% Light DMG to a single enemy / Absorb 10% / 15% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/4/4b/Catty.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Catty"
-      },
-      {
-        "name": "Cleric",
-        "element": "Light",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Heal",
-            "value": "Activations: Infinite\nMin Level Effect: A single ally recovers 30% / 10% chance\nMax Level Effect: A single ally recovers 45% / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/8/88/Cleric.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Cleric"
-      },
-      {
-        "name": "Dryad",
-        "element": "Light",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Sunshine",
-            "value": "Activations: Infinite\nMin Level Effect: A single ally recovers 30% / 10% chance\nMax Level Effect: A single ally recovers 45% / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/5/5c/Dryad.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Dryad"
-      },
-      {
-        "name": "Grave Keeper",
-        "element": "Light",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Graveyard Lantern",
-            "value": "Activations: 1\nMin Level Effect: Confirm to receive rewards / 10% chance\nMax Level Effect: Confirm to receive rewards / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/a/aa/Grave_Keeper.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Grave_Keeper"
-      },
-      {
-        "name": "Head Clerk",
-        "element": "Light",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Hot Towel Whip",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 120% Passion DMG to all enemies / 10% chance\nMax Level Effect: Deal 220% Passion DMG to all enemies / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/a/aa/Head_Clerk.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Head_Clerk"
-      },
-      {
-        "name": "Idol",
-        "element": "Light",
-        "rarity": "HN",
-        "skill": [
-          {
-            "name": "Skill: Everyone's idol",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Unit ATK +5% \nMax Level Effect: 【Autoskill】 Unit ATK +18% "
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/b/b8/Idol_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Idol"
-      },
-      {
-        "name": "Naturalist",
-        "element": "Light",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Storm Dance",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% Light DMG to a single enemy / 15% chance\nMax Level Effect: Deal 250% Light DMG to a single enemy / 20% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/2/2d/Naturalist.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Naturalist"
-      },
-      {
-        "name": "Pixie",
-        "element": "Light",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Prank",
-            "value": "Activations: 1\nMin Level Effect: Enemy loses 1 turn / 10% chance\nMax Level Effect: Enemy loses 1 turn / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/2/22/Pixie.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Pixie"
-      },
-      {
-        "name": "Priest",
-        "element": "Light",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Healing Light",
-            "value": "Activations: Infinite\nMin Level Effect: All allies recover 30% / near defeat 20% chance\nMax Level Effect: All allies recover 45% / near defeat 30% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/1/14/Priest.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Priest"
-      },
-      {
-        "name": "Village Maiden",
-        "element": "Light",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Epic Swindle",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/9/9b/Village_Maiden.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Village_Maiden"
-      },
-      {
         "name": "Aaron",
         "element": "Light",
         "rarity": "R",
@@ -23690,227 +22130,6 @@
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/c/c9/Sleepy_Hades.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Sleepy_Hades"
-      },
-      {
-        "name": "Cockroach",
-        "element": "Dark",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Val-spray",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% DMG to all enemies / 5% chance\nMax Level Effect: Deal 250% DMG to all enemies / 10% chance"
-          }
-        ],
-        "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/d/d9/Cockroach.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Cockroach"
-      },
-      {
-        "name": "Cutthroat",
-        "element": "Dark",
-        "rarity": "HN",
-        "skill": [
-          {
-            "name": "Skill: Soul Eater",
-            "value": "Activations: 1\nMin Level Effect: Own ATK 100% up / 10% chance\nMax Level Effect: Own ATK 100% up / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/c/cf/Cutthroat_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Cutthroat"
-      },
-      {
-        "name": "Cyclops",
-        "element": "Dark",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Painful Hit",
-            "value": "Activations: Infinite\nMin Level Effect: Critical DMG to a single enemy / 5% chance\nMax Level Effect: Critical DMG to a single enemy / 10% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/a/a9/Cyclops.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Cyclops"
-      },
-      {
-        "name": "Dark Elf",
-        "element": "Dark",
-        "rarity": "HN",
-        "skill": [
-          {
-            "name": "Skill: Eagle blast",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% Dark DMG to a single enemy / 15% chance\nMax Level Effect: Deal 250% Dark DMG to a single enemy / 20% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/d/d8/Dark_Elf_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Dark_Elf"
-      },
-      {
-        "name": "Dark Priest",
-        "element": "Dark",
-        "rarity": "HN",
-        "skill": [
-          {
-            "name": "Skill: Dark mist",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 120% Dark DMG to all enemies / 15% chance\nMax Level Effect: Deal 220% Dark DMG to all enemies / 20% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/e/ed/Dark_Priest_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Dark_Priest"
-      },
-      {
-        "name": "Dark Wizard",
-        "element": "Dark",
-        "rarity": "HN",
-        "skill": [
-          {
-            "name": "Skill: Explosion",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 150% Passion DMG to all enemies / 5% chance\nMax Level Effect: Deal 250% Passion DMG to all enemies / 10% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/8/80/Dark_Wizard_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Dark_Wizard"
-      },
-      {
-        "name": "Devil Child",
-        "element": "Dark",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Sweet Sucker",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 120% Dark DMG to a single enemy / Absorb 10% / 10% chance\nMax Level Effect: Deal 220% Dark DMG to a single enemy / Absorb 10% / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/1/16/Devil_Child.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Devil_Child"
-      },
-      {
-        "name": "Devil Summoner",
-        "element": "Dark",
-        "rarity": "HN",
-        "skill": [
-          {
-            "name": "Skill: Summon demon",
-            "value": "Activations: 1\nMin Level Effect: Own ATK 200% up / battle start 20% chance\nMax Level Effect: Own ATK 200% up / battle start 30% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/1/12/Devil_Summoner_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Devil_Summoner"
-      },
-      {
-        "name": "Doll Master",
-        "element": "Dark",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Marionette",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/6/65/Doll_Master.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Doll_Master"
-      },
-      {
-        "name": "Dragon Slayer",
-        "element": "Dark",
-        "rarity": "HN",
-        "skill": [
-          {
-            "name": "Skill: Dragon curse",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 120% DMG to a single enemy / Absorb 5% / 10% chance\nMax Level Effect: Deal 220% DMG to a single enemy / Absorb 5% / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/c/ce/Dragon_Slayer_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Dragon_Slayer"
-      },
-      {
-        "name": "Flatwoods",
-        "element": "Dark",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: 10 Foot-tall Monster",
-            "value": "Activations: 3\nMin Level Effect: All enemies' DEF 25% down/ 15% chance\nMax Level Effect: All enemies' DEF 25% down / 20% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/5/5f/Flatwoods.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Flatwoods"
-      },
-      {
-        "name": "Franken",
-        "element": "Dark",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Stitched Body",
-            "value": "Activations: 1\nMin Level Effect: Confirm to receive rewards / 10% Chance\nMax Level Effect: Confirm to receive rewards / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/f/fb/Franken.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Franken"
-      },
-      {
-        "name": "Homunculus",
-        "element": "Dark",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Paracelsus system",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 120% DMG to a single enemy / Absorb 5% / 10% chance\nMax Level Effect: Deal 220% DMG to a single enemy / Absorb 5% / 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/e/e5/Homunculus.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Homunculus"
-      },
-      {
-        "name": "Japanese Gambler",
-        "element": "Dark",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Full Metal Dice",
-            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 1 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 1 turn(s) / 15% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/b/b2/Japanese_Gambler.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Japanese_Gambler"
-      },
-      {
-        "name": "Lamia",
-        "element": "Dark",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Die together?",
-            "value": "Activations: Infinite\nMin Level Effect: Deal 250% Dark DMG to a single enemy / near defeat 10% chance\nMax Level Effect: Deal 350% Dark DMG to a single enemy / near defeat 15% chance"
-          }
-        ],
-        "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/5/5c/Lamia.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Lamia"
-      },
-      {
-        "name": "Obariyon",
-        "element": "Dark",
-        "rarity": "HN",
-        "skill": [
-          {
-            "name": "Skill: Shell-shocked",
-            "value": "Activations: 3\nMin Level Effect: Own DEF 100% up / 20% chance\nMax Level Effect: Own DEF 100% up / 30% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/a/a1/Obariyon_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Obariyon"
-      },
-      {
-        "name": "Red Hood",
-        "element": "Dark",
-        "rarity": "HN",
-        "skill": [
-          {
-            "name": "Skill: Hard Girl",
-            "value": "Activations: 3\nMin Level Effect: All enemies ATK 25% down / 5% chance\nMax Level Effect: All enemies ATK 25% down / 10% chance"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/c/c9/Red_Hood_H.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Red_Hood"
       },
       {
         "name": "Al",
@@ -33618,7 +31837,7 @@
           },
           {
             "name": "Awoken: ☆Shut-In Master",
-            "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 35% chance\nMax Level Effect: Unleash a single ally's skill / 45% chance\n"
+            "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 35% chance\nMax Level Effect: Unleash a single ally's skill / 45% chance"
           }
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/96/DIY_Ninja.png",
@@ -33902,5 +32121,513 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/1c/Biscotti.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Biscotti"
+      },
+      {
+        "name": "Theodora",
+        "element": "Light",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Axe of Thunder",
+            "value": "Activations: 1\nMin Level Effect: Deal 40% Light DMG 16 times to the enemy / 5% chance\nMax Level Effect: Deal 70% Light DMG 16 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Second Skill: Axe of Thunder",
+            "value": "Activations: 2\nEffect: 【Autoskill】All allies' ATK • DEF 200% up from the first turn / 100% chance / Max 2 time\n"
+          },
+          {
+            "name": "Awoken: ☆Axe of Thunder",
+            "value": "Activations: 1\nMin Level Effect: Deal 60% Light DMG 16 times to the enemy / 5% chance\nMax Level Effect: Deal 90% Light DMG 16 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Axe of Thunder",
+            "value": "Activations: 2\nEffect: 【Autoskill】All allies' ATK • DEF 250% up from the first turn / 100% chance / Max 2 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/ed/Theodora.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Theodora"
+      },
+      {
+        "name": "Thviti",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Boulder Sword",
+            "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 10% chance\nMax Level Effect: Unleash a single ally's skill / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/05/Thviti.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Thviti"
+      },
+      {
+        "name": "Gelgja",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Magic Bondage",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Light DMG 4 times to the enemy / 5% chance\nMax Level Effect: Deal 300% Light DMG 4 times to the enemy / 10% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Magic Bondage",
+            "value": "Activations: 1\nMin Level Effect: Deal 400% Light DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 400% Light DMG 4 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d6/Gelgja.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Gelgja"
+      },
+      {
+        "name": "Divine Gelgja",
+        "element": "Light",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Extreme Bondage",
+            "value": "Activations: 1\nMin Level Effect: Deal 400% Light DMG 5 times to the enemy / 15% chance\nMax Level Effect: Deal 400% Light DMG 5 times to the enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e7/Divine_Gelgja_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Divine_Gelgja"
+      },
+      {
+        "name": "Gjoll",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Flat-Chest Curse",
+            "value": "Activations: 2\nMin Level Effect: Deal 400% DMG to the enemy with the highest attack power with a simultaneous attack by all Light allies / 10% chance\nMax Level Effect: Deal 450% DMG to the enemy with the highest attack power with a simultaneous attack by all Light allies / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Flat-Chest Curse",
+            "value": "Activations: 2\nMin Level Effect: Deal 450% DMG to the enemy with the highest attack power with a simultaneous attack by all Light allies / 15% chance\nMax Level Effect: Deal 500% DMG to the enemy with the highest attack power with a simultaneous attack by all Light allies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/f5/Gjoll.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Gjoll"
+      },
+      {
+        "name": "True Wolf Skoll",
+        "element": "Light",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Blizzard Claws",
+            "value": "Activations: 1\nMin Level Effect: All Light allies' ATK 550% • DEF 200% up / 10% chance\nMax Level Effect: All Light allies' ATK 550% • DEF 200% up / 25% chance\n"
+          },
+          {
+            "name": "Second Skill: Blizzard Claws",
+            "value": "Activations: 1\nEffect: 【Autoskill】When own soldiers fall below 50%, resurrect and fully recover all allies / 30% / Max 1 time\n"
+          },
+          {
+            "name": "Awoken: ☆Blizzard Claws",
+            "value": "Activations: 1\nMin Level Effect: All Light allies' ATK 700% • DEF 200% up / 10% chance\nMax Level Effect: All Light allies' ATK 700% • DEF 200% up / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Blizzard Claws",
+            "value": "Activations: 1\nEffect: 【Autoskill】When own soldiers fall below 50%, resurrect and fully recover all allies / 40% / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/a1/True_Wolf_Skoll.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/True_Wolf_Skoll"
+      },
+      {
+        "name": "Andordice",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Alpine Arrow",
+            "value": "Activations: 1\nMin Level Effect: Deal 40% Dark DMG 8 times to the enemy / 10% chance\nMax Level Effect: Deal 40% Dark DMG 8 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Alpine Arrow",
+            "value": "Activations: 1\nMin Level Effect: Deal 40% Dark DMG 11 times to the enemy / 10% chance\nMax Level Effect: Deal 40% Dark DMG 11 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/19/Andordice.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Andordice"
+      },
+      {
+        "name": "Njord",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Chillin' Ride",
+            "value": "Activations: 1\nMin Level Effect:All Dark allies' ATK 600% up / 15% chance\nMax Level Effect: All Dark allies' ATK 600% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Chillin' Ride",
+            "value": "Activations: 1\nMin Level Effect: All Dark allies' ATK 650% up / 15% chance\nMax Level Effect: All Dark allies' ATK 650% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/9d/Njord.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Njord"
+      },
+      {
+        "name": "Nerthus",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Discovery Orb",
+            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 50% down / 15% chance\nMax Level Effect: All enemies' ATK 50% down / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Discovery Orb",
+            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 50% down / 20% chance\nMax Level Effect: All enemies' ATK 50% down / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/92/Nerthus.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Nerthus"
+      },
+      {
+        "name": "Soiree",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Lucky Bubbles",
+            "value": "Activations: 2\nMin Level Effect: Deal 450% Light DMG to all enemies / 20% chance\nMax Level Effect: Deal 450% Light DMG to all enemies / 30% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Lucky Bubbles",
+            "value": "Activations: 2\nMin Level Effect: Deal 550% Light DMG to all enemies / 25% chance\nMax Level Effect: Deal 550% Light DMG to all enemies / 35% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/70/Soiree.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Soiree"
+      },
+      {
+        "name": "Elsie",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Delivery Gift",
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Cool DMG to all enemies / Unable to move 3 turns / 30% chance\nMax Level Effect: Deal 300% Cool DMG to all enemies / Unable to move 3 turns / 45% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Delivery Gift",
+            "value": "Activations: 2\nMin Level Effect: Deal 350% Cool DMG to all enemies / Unable to move 3 turns / 45% chance\nMax Level Effect: Deal 400% Cool DMG to all enemies / Unable to move 3 turns / 55% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/84/Elsie.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Elsie"
+      },
+      {
+        "name": "Neena",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Cat-Cat Magic",
+            "value": "Activations: 1\nMin Level Effect: Deal 400% Passion DMG 3 times to the enemy / 10% chance\nMax Level Effect: Deal 400% Passion DMG 3 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Cat-Cat Magic",
+            "value": "Activations: 1\nMin Level Effect: Deal 500% Passion DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 500% Passion DMG 4 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/99/Neena.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Neena"
+      },
+      {
+        "name": "Mage Neena",
+        "element": "Passion",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Black Cat Curse",
+            "value": "Activations: 1\nMin Level Effect: Deal 500% Passion DMG 4 times to the enemy / 15% chance\nMax Level Effect: Deal 500% Passion DMG 4 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Black Cat Curse",
+            "value": "Activations: 1\nEffect: 【Autoskill】Own ATK 200% up after a successful attack / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/4f/Mage_Neena_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Mage_Neena"
+      },
+      {
+        "name": "Machina",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Fairy Attack",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Light DMG to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: Deal 150% Light DMG to all enemies / Unable to move 3 turns / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Fairy Attack",
+            "value": "Activations: 1\nMin Level Effect: Deal 200% Light DMG to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: Deal 200% Light DMG to all enemies / Unable to move 3 turns / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/bd/Machina.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Machina"
+      },
+      {
+        "name": "Helka",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Summoned Knife",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Passion allies' skills / 5% chance\nMax Level Effect: Unleash all Passion allies' skills / 25% chance\n"
+          },
+          {
+            "name": "Second Skill: Summoned Knife",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Passion allies' ATK400% • DEF200% up during every turn / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Summoned Knife",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Passion allies' skills / 10% chance\nMax Level Effect: Unleash all Passion allies' skills / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Summoned Knife",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Passion allies' ATK500% • DEF300% up during every turn / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/ab/Helka.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Helka"
+      },
+      {
+        "name": "Senna",
+        "element": "Light",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Illusionary Army",
+            "value": "Activations: 1\nMin Level Effect: All allies' ATK 700% • DEF 200% up / 5% chance\nMax Level Effect: All allies' ATK 700% • DEF 200% up / 20% chance\n"
+          },
+          {
+            "name": "Second Skill: Illusionary Army",
+            "value": "Activations: 1\nEffect: 【Autoskill】Deal DMG to each enemy equivalent to 30% of that enemy's remaining soldiers after a successful attack / 30% chance / Max 1 time\n"
+          },
+          {
+            "name": "Awoken: ☆Illusionary Army",
+            "value": "Activations: 1\nMin Level Effect: All allies' ATK 800% • DEF 300% up / 5% chance\nMax Level Effect: All allies' ATK 800% • DEF 300% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Illusionary Army",
+            "value": "Activations: 1\nEffect: 【Autoskill】Deal DMG to each enemy equivalent to 35% of that enemy's remaining soldiers after a successful attack / 35% chance / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/5e/Senna.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Senna"
+      },
+      {
+        "name": "Mikli",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: All-Purpose Pliers",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Dark DMG 3 times to the enemy / 10% chance\nMax Level Effect: Deal 150% Dark DMG 3 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/77/Mikli.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Mikli"
+      },
+      {
+        "name": "Pilot Mikli",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Bombing Support",
+            "value": "Activations: 1\nMin Level Effect: Deal 150% Dark DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 200% Dark DMG 4 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Bombing Support",
+            "value": "Activations: 1\nMin Level Effect: Deal 250% Dark DMG 6 times to the enemy / 15% chance\nMax Level Effect: Deal 300% Dark DMG 6 times to the enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/82/Pilot_Mikli.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Pilot_Mikli"
+      },
+      {
+        "name": "Detective Mikli",
+        "element": "Dark",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Pilot's Intuition",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Dark DMG 9 times to the enemy / 15% chance\nMax Level Effect: Deal 350% Dark DMG 9 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Pilot's Intuition",
+            "value": "Activations: 3\nEffect: 【Autoskill】Own ATK 80% up after every attack / Max 3 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/b5/Detective_Mikli_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Detective_Mikli"
+      },
+      {
+        "name": "Captain Mikli",
+        "element": "Dark",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Airship Lindwurm",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Dark DMG 12 times to the enemy / 15% chance\nMax Level Effect: Deal 350% Dark DMG 12 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Second Skill: Airship Lindwurm",
+            "value": "Activations: 3\nEffect: 【Autoskill】Own ATK 100% up after every attack / Max 3 times\n"
+          },
+          {
+            "name": "Awoken: ☆Airship Lindwurm",
+            "value": "Activations: 1\nMin Level Effect: Deal 350% Dark DMG 13 times to the enemy / 15% chance\nMax Level Effect: Deal 400% Dark DMG 13 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Airship Lindwurm",
+            "value": "Activations: 3\nEffect: 【Autoskill】Own ATK 100% up after every attack / Max 3 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/69/Captain_Mikli.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Captain_Mikli"
+      },
+      {
+        "name": "Commander Mikli",
+        "element": "Dark",
+        "rarity": "GLR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Airship Lindwurm",
+            "value": "Activations: 1\nMin Level Effect: Deal 350% Dark DMG 14 times to the enemy / 15% chance\nMax Level Effect: Deal 400% Dark DMG 14 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Airship Lindwurm",
+            "value": "Activations: 3\nEffect: 【Autoskill】Own ATK 200% up after every attack / Max 3 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/88/Virtuoso_Lu_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Virtuoso_Lu"
+      },
+      {
+        "name": "Krull",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Scrap Attack!",
+            "value": "Activations: 3\nMin Level Effect: Deal 400% Light DMG to all enemies / Unable to move 4 turns / 15% chance\nMax Level Effect: Deal 500% Light DMG to all enemies / Unable to move 4 turns / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Scrap Attack!",
+            "value": "Activations: 3\nMin Level Effect: Deal 500% Light DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Deal 600% Light DMG to all enemies / Unable to move 4 turns / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/60/Krull.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Krull"
+      },
+      {
+        "name": "Sky-High Krull",
+        "element": "Light",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Scrap Attack!",
+            "value": "Activations: 3\nMin Level Effect: Deal 500% Light DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Deal 600% Light DMG to all enemies / Unable to move 4 turns / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Scrap Attack!",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Light allies' ATK・DEF 100% up from the first turn / 100% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/4e/Sky-High_Krull_H.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Sky-High_Krull"
+      },
+      {
+        "name": "Strahler",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Celestial Avionics",
+            "value": "Activations: 1\nMin Level Effect: Activate Awoken Burst for all allies / 10% chance\nMax Level Effect: Activate Awoken Burst for all allies / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Celestial Avionics",
+            "value": "Activations: 1\nMin Level Effect: Activate Awoken Burst for all allies / 15% chance\nMax Level Effect: Activate Awoken Burst for all allies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/87/Strahler.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Strahler"
+      },
+      {
+        "name": "Sky-High Strahler",
+        "element": "Light",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Celestial Avionics",
+            "value": "Activations: 1\nMin Level Effect: Activate Awoken Burst for all allies / 15% chance\nMax Level Effect: Activate Awoken Burst for all allies / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Celestial Avionics",
+            "value": "Activations: 1\nEffect: 【Autoskill】Skill nullification of any enemy skills / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e3/Sky-High_Strahler_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Sky-High_Strahler"
+      },
+      {
+        "name": "Effole",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Volcano Buster",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 3 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Volcano Buster",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 3 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/47/Effole.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Effole"
+      },
+      {
+        "name": "Sky-High Effole",
+        "element": "Light",
+        "rarity": "GSR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Volcano Buster",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 3 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Volcano Buster",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Light allies' ATK 50% up/50% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/1d/Sky-High_Effole_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Sky-High_Effole"
+      },
+      {
+        "name": "Jorna",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Photo Op!",
+            "value": "Activations: 2\nMin Level Effect: Deal 400% DMG to the enemy with the highest attack power with a simultaneous attack by all Dark allies / 10% chance\nMax Level Effect: Deal 400% DMG to the enemy with the highest attack power with a simultaneous attack by all Dark allies / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Photo Op!",
+            "value": "Activations: 2\nMin Level Effect: Deal 450% DMG to the enemy with the highest attack power with a simultaneous attack by all Dark allies / 15% chance\nMax Level Effect: Deal 500% DMG to the enemy with the highest attack power with a simultaneous attack by all Dark allies / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Photo Op!",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/49/Jorna.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Jorna"
       }
     ]
