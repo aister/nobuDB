@@ -29166,32 +29166,6 @@
         "link": "http://valkyriecrusade.wikia.com/wiki/True_Wolf_Fenrir"
       },
       {
-        "name": "Gold Girl",
-        "element": "Special",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Buried Treasure",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Battle EXP +10% \nMax Level Effect: 【Autoskill】 Battle EXP +20%"
-          }
-        ],
-        "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/c/cd/Gold_Girl.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Gold_Girl"
-      },
-      {
-        "name": "Slime",
-        "element": "Special",
-        "rarity": "N",
-        "skill": [
-          {
-            "name": "Skill: Level Upper",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】 Battle EXP +10% \nMax Level Effect: 【Autoskill】 Battle EXP +20%"
-          }
-        ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/3/38/Slime.png",
-        "link": "http://valkyriecrusade.wikia.com/wiki/Slime"
-      },
-      {
         "name": "Medal Girl",
         "element": "Special",
         "rarity": "R",
