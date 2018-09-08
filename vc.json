@@ -32603,5 +32603,30 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/49/Jorna.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Jorna"
+      },
+	  {
+        "name": "Auster",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Angel's Belongings",
+            "value": "Activations: 1\nMin Level Effect: Deal 40% Passion DMG 16 times to the enemy / 5% chance\nMax Level Effect: Deal 70% Passion DMG 16 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Second Skill: Angel's Belongings",
+            "value": "Activations: 1\nEffect: 【Autoskill】Own ATK 400% up after every attack / Max 1 time\n"
+          },
+          {
+            "name": "Awoken: ☆Angel's Belongings",
+            "value": "Activations: 1\nMin Level Effect: Deal 60% Passion DMG 16 times to the enemy / 5% chance\nMax Level Effect: Deal 90% Passion DMG 16 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Angel's Belongings",
+            "value": "Activations: 1\nEffect: 【Autoskill】Own ATK 500% up after every attack / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/25/Auster.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Auster"
       }
     ]
