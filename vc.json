@@ -32604,7 +32604,7 @@
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/49/Jorna.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Jorna"
       },
-	  {
+      {
         "name": "Auster",
         "element": "Passion",
         "rarity": "LR",
@@ -32628,5 +32628,179 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/25/Auster.png",
         "link": "https://valkyriecrusade.wikia.com/wiki/Auster"
+      },
+      {
+        "name": "Archwitch Ymir",
+        "element": "Cool",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Dark Abyss",
+            "value": "Activations: 2\nMin Level Effect:  Deal 300% Cool DMG to all enemies / Unable to move 4 turns / 10% chance \nMax Level Effect:  Deal 600% Cool DMG to all enemies / Unable to move 4 turns / 30% chance \n"
+          },
+          {
+            "name": "Second Skill: Dark Abyss",
+            "value": "Activations: 2\nEffect: 【Autoskill】Reduce gain damage 90%\n"
+          },
+          {
+            "name": "Awoken: ☆Dark Abyss",
+            "value": "Activations: 2\nMin Level Effect:  Deal 350% Cool DMG to all enemies / Unable to move 4 turns / 10% chance \nMax Level Effect:  Deal 650% Cool DMG to all enemies / Unable to move 4 turns / 30% chance \n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Dark Abyss",
+            "value": "Activations: 2\nEffect: 【Autoskill】Reduce gain damage 90%\n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/79/Archwitch_Ymir.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Archwitch_Ymir"
+      },
+      {
+        "name": "Aster",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Starlight Way",
+            "value": "Activations: 2\nMin Level Effect:  Deal 300% DMG to a single enemy with a simultaneous attack by all allies / 10% chance \nMax Level Effect:  Deal 500% DMG to a single enemy with a simultaneous attack by all allies / 20% chance \n"
+          },
+          {
+            "name": "Awoken: ☆Starlight Way",
+            "value": "Activations: 2\nMin Level Effect:  Deal 350% DMG to a single enemy with a simultaneous attack by all allies / 10% chance \nMax Level Effect:  Deal 550% DMG to a single enemy with a simultaneous attack by all allies / 20% chance \n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Starlight Way",
+            "value": "Activations: 2\nEffect: 【Autoskill】All enemies' ATK • DEF 30% down after every attack / Max 2 times \n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/86/Aster.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Aster"
+      },
+      {
+        "name": "Coach Jigan",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆amity Crash",
+            "value": "Activations: 1\nMin Level Effect:  Deal 350% DMG to a single enemy with a simultaneous attack by all Cool allies / 20% chance \nMax Level Effect:  Deal 400% DMG to a single enemy with a simultaneous attack by all Cool allies / 25% chance \n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/5a/Coach_Jigan_H.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Coach_Jigan"
+      },
+      {
+        "name": "Coucke",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Hell's Dictionary",
+            "value": "Activations: 1\nMin Level Effect:  Fully resurrect a single ally / 10% chance \nMax Level Effect:  Fully resurrect a single ally / 15% chance \n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/ca/Coucke.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Coucke"
+      },
+      {
+        "name": "Minister Jigan",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Battle Love",
+            "value": "Activations: 1\nMin Level Effect:  Deal 250% DMG to a single enemy with a simultaneous attack by all Cool allies / 20% chance \nMax Level Effect:  Deal 300% DMG to a single enemy with a simultaneous attack by all Cool allies / 25% chance \n"
+          },
+          {
+            "name": "Awoken: ☆Battle Love",
+            "value": "Activations: 1\nMin Level Effect:  Deal 300% DMG to a single enemy with a simultaneous attack by all Cool allies / 20% chance \nMax Level Effect:  Deal 350% DMG to a single enemy with a simultaneous attack by all Cool allies / 25% chance \n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/b3/Minister_Jigan.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Minister_Jigan"
+      },
+      {
+        "name": "Minister Prikat",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Speed of Love",
+            "value": "Activations: 2\nMin Level Effect:  All Cool allies' ATK • DEF 250% up / 15% chance \nMax Level Effect:  All Cool allies' ATK • DEF 250% up / 20% chance \n"
+          },
+          {
+            "name": "Awoken: ☆Speed of Love",
+            "value": "Activations: 2\nMin Level Effect:  All Cool allies' ATK • DEF 300% up / 15% chance \nMax Level Effect:  All Cool allies' ATK • DEF 300% up / 20% chance \n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/6b/Minister_Prikat.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Minister_Prikat"
+      },
+      {
+        "name": "Prof. Prikat",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: ☆amity Arrow",
+            "value": "Activations: 2\nMin Level Effect:  All Cool allies' ATK • DEF 350% up / 15% chance \nMax Level Effect:  All Cool allies' ATK • DEF 350% up / 20% chance \n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/90/Prof._Prikat_H.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Prof._Prikat"
+      },
+      {
+        "name": "Stella",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Star Dancer",
+            "value": "Activations: 2\nMin Level Effect:  Unleash all allies' skills / 10% chance \nMax Level Effect:  Unleash all allies' skills / 15% chance \n"
+          },
+          {
+            "name": "Awoken: ☆Star Dancer",
+            "value": "Activations: 2\nMin Level Effect:  Unleash all allies' skills / 15% chance \nMax Level Effect:  Unleash all allies' skills / 20% chance \n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Star Dancer",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill / 30% chance \n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/31/Stella.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Stella"
+      },
+      {
+        "name": "Trasel",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Set Trap",
+            "value": "Activations: 3\nMin Level Effect:  Unleash all Cool allies' skills / 10% chance \nMax Level Effect:  Unleash all Cool allies' skills / 15% chance \n"
+          },
+          {
+            "name": "Awoken: ☆Set Trap",
+            "value": "Activations: 3\nMin Level Effect:  Unleash all Cool allies' skills / 15% chance \nMax Level Effect:  Unleash all Cool allies' skills / 20% chance \n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/7a/Trasel.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Trasel"
+      },
+      {
+        "name": "Tula",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Magic Magnums",
+            "value": "Activations: 1\nMin Level Effect:  A single ally's ATK 200% up / 15% chance \nMax Level Effect:  A single ally's ATK 200% up / 20% chance \n"
+          },
+          {
+            "name": "Awoken: ☆Magic Magnums",
+            "value": "Activations: 1\nMin Level Effect:  A single ally's ATK 300% up / 15% chance \nMax Level Effect:  A single ally's ATK 300% up / 20% chance \n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e8/Tula.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Tula"
       }
     ]
