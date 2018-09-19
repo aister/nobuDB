@@ -32640,7 +32640,7 @@
           },
           {
             "name": "Second Skill: Dark Abyss",
-            "value": "Activations: 2\nEffect: 【Autoskill】Reduce gain damage 90%\n"
+            "value": "Activations: 2\nEffect: 【Autoskill】Reduce gain damage 90%  Counter attack 900% / 30% chance\n"
           },
           {
             "name": "Awoken: ☆Dark Abyss",
@@ -32648,7 +32648,7 @@
           },
           {
             "name": "Awoken Second Skill: ☆Dark Abyss",
-            "value": "Activations: 2\nEffect: 【Autoskill】Reduce gain damage 90%\n"
+            "value": "Activations: 2\nEffect: 【Autoskill】Reduce gain damage 90% Counter attack 1500% / 30% chance\n"
           }
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/79/Archwitch_Ymir.png",
@@ -32681,7 +32681,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Awoken: ☆amity Crash",
+            "name": "Awoken: ☆Calamity Crash",
             "value": "Activations: 1\nMin Level Effect:  Deal 350% DMG to a single enemy with a simultaneous attack by all Cool allies / 20% chance \nMax Level Effect:  Deal 400% DMG to a single enemy with a simultaneous attack by all Cool allies / 25% chance \n"
           }
         ],
@@ -32741,7 +32741,7 @@
         "rarity": "UR",
         "skill": [
           {
-            "name": "Awoken: ☆amity Arrow",
+            "name": "Awoken: ☆Calamity Arrow",
             "value": "Activations: 2\nMin Level Effect:  All Cool allies' ATK • DEF 350% up / 15% chance \nMax Level Effect:  All Cool allies' ATK • DEF 350% up / 20% chance \n"
           }
         ],
