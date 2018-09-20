@@ -32802,5 +32802,115 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e8/Tula.png",
         "link": "https://valkyriecrusade.wikia.com/wiki/Tula"
+      },
+      {
+        "name": "Artemisia",
+        "element": "Cool",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Atonement Light",
+            "value": "Activations: 1\nMin Level Effect:  All Cool allies' ATK 550% • DEF 200% up / 10% chance \nMax Level Effect:  All Cool allies' ATK 550% • DEF 200% up / 25% chance \n"
+          },
+          {
+            "name": "Second Skill: Atonement Light",
+            "value": "Activations: 2\nEffect:  【Autoskill】 All enemies' ATK • DEF 30% down / 100% chance \n"
+          },
+          {
+            "name": "Awoken: ☆Atonement Light",
+            "value": "Activations: 1\nMin Level Effect:  All Cool allies' ATK 700% • DEF 200% up / 10% chance \nMax Level Effect:  All Cool allies' ATK 700% • DEF 200% up / 25% chance \n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Atonement Light",
+            "value": "Activations: 2\nEffect:  【Autoskill】 All enemies' ATK • DEF 40% down / 100% chance \n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/34/Artemisia.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Artemisia"
+      },
+      {
+        "name": "Ginette",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Seductive Oath",
+            "value": "Activations: 3\nMin Level Effect:  【Autoskill】 All allies recover 30% after a successfull attack / 100% chance / Max 3 times \nMax Level Effect:  【Autoskill】 All allies recover 35% after a successfull attack / 100% chance / Max 3 times \n"
+          },
+          {
+            "name": "Awoken: ☆Seductive Oath",
+            "value": "Activations: 3\nMin Level Effect:  【Autoskill】 All allies recover 35% after a successfull attack / 100% chance / Max 3 times \nMax Level Effect:  【Autoskill】 All allies recover 40% after a successfull attack / 100% chance / Max 3 times \n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/49/Ginette.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Ginette"
+      },
+      {
+        "name": "Liese",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Saintly Knuckles",
+            "value": "Activations: 2\nMin Level Effect:  Deal 250% Light DMG to all enemies / Unable to move 3 turns / 30% chance \nMax Level Effect:  Deal 300% Light DMG to all enemies / Unable to move 3 turns / 45% chance \n"
+          },
+          {
+            "name": "Awoken: ☆Saintly Knuckles",
+            "value": "Activations: 2\nMin Level Effect:  Deal 350% Light DMG to all enemies / Unable to move 3 turns / 45% chance \nMax Level Effect:  Deal 400% Light DMG to all enemies / Unable to move 3 turns / 55% chance \n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/23/Liese.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Liese"
+      },
+      {
+        "name": "Minette",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Minette's Shop",
+            "value": "Activations: 2\nMin Level Effect:  Deal 100% Passion DMG to all enemies / Absorb 20% / 30% chance \nMax Level Effect:  Deal 100% Passion DMG to all enemies / Absorb 20% / 35% chance \n"
+          },
+          {
+            "name": "Awoken: ☆Minette's Shop",
+            "value": "Activations: 2\nMin Level Effect:  Deal 150% Passion DMG to all enemies / Absorb 20% / 35% chance \nMax Level Effect:  Deal 150% Passion DMG to all enemies / Absorb 20% / 40% chance \n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/8e/Minette.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Minette"
+      },
+      {
+        "name": "Miranda",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Elegant Sword",
+            "value": "Activations: 1\nMin Level Effect:  Fully resurrect all allies / 10% chance \nMax Level Effect:  Fully resurrect all allies / 15% chance \n"
+          },
+          {
+            "name": "Awoken: ☆Elegant Sword",
+            "value": "Activations: 1\nMin Level Effect:  Fully resurrect all allies / 20% chance \nMax Level Effect:  Fully resurrect all allies / 25% chance \n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/1d/Miranda.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Miranda"
+      },
+      {
+        "name": "Nimble Miranda",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Awoken: Shameless Armor",
+            "value": "Activations: 2\nMin Level Effect:  Fully resurrect all allies / 20% chance \nMax Level Effect:  Fully resurrect all allies / 25% chance \n"
+          },
+          {
+            "name": "Awoken Second Skill: Shameless Armor",
+            "value": "Activations: 3\nEffect:  【Autoskill】 Skill nullification of enemy's non-attacking skill / 30% chance \n"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/f9/Nimble_Miranda_H.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Nimble_Miranda"
       }
     ]
