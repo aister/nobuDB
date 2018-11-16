@@ -23559,7 +23559,7 @@
             "value": "Activations: 2\nMin Level Effect: Critical Dark DMG to a single enemy / 15% chance\nMax Level Effect: Critical Dark DMG to a single enemy / 20% chance"
           }
         ],
-        "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/b/be/Camilla.png",
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/be/Camilla.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Camilla"
       },
       {
@@ -33762,5 +33762,217 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d5/Silver_Bell.png",
         "link": "https://valkyriecrusade.wikia.com/wiki/Silver_Bell"
+      },
+      {
+        "name": "Holy Whitecloth",
+        "element": "Cool",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Silk Road",
+            "value": "Activations: 4\nMin Level Effect: Unleash all allies' skills / 5% chance\nMax Level Effect: Unleash all allies' skills / 20% chance\n"
+          },
+          {
+            "name": "Second Skill: Silk Road",
+            "value": "Activations: 1\nEffect: 【Autoskill】All enemies' ATK • DEF 70% down from the first turn / 100% chance\n"
+          },
+          {
+            "name": "Awoken:☆Silk Road",
+            "value": "Activations: 4\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: Silk Road",
+            "value": "Activations: 1\nEffect: 【Autoskill】All enemies' ATK • DEF 80% down from the first turn / 100% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/03/Holy_Whitecloth.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Holy_Whitecloth"
+      },
+      {
+        "name": "Nehrin",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Driven to Tears",
+            "value": "Activations: 1\nMin Level Effect: A single ally's ATK 300% up / 10% chance\nMax Level Effect: A single ally's ATK 300% up / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/7b/Nehrin.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Nehrin"
+      },
+      {
+        "name": "Angry Nehrin",
+        "element": "Passion",
+        "rarity": "HSR",
+        "skill": [
+          {
+            "name": "Skill: Pure Punishment",
+            "value": "Activations: 1\nMin Level Effect: A single ally's ATK 400% up / 10% chance\nMax Level Effect: A single ally's ATK 400% up / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/83/Angry_Nehrin_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Angry_Nehrin"
+      },
+      {
+        "name": "Minister Kyula",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Team Kyula-Kyulu",
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 20% chance\nMax Level Effect: Unleash a single ally's skill / 25% chance\n"
+          },
+          {
+            "name": "Awoken:☆Team Kyula-Kyulu",
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 25% chance\nMax Level Effect: Unleash a single ally's skill / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/9f/Minister_Kyula.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Minister_Kyula"
+      },
+      {
+        "name": "Beautifier Kyula",
+        "element": "Passion",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Calamity Clean",
+            "value": "Activations: 4\nMin Level Effect: Unleash a single ally's skill / 25% chance\nMax Level Effect: Unleash a single ally's skill / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/66/Beautifier_Kyula_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Beautifier_Kyula"
+      },
+      {
+        "name": "Minister Kyulu",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Team Kyulu-Kyula",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Passion DMG 4 times to the enemy / 5% chance\nMax Level Effect: Deal 300% Passion DMG 4 times to the enemy / 10% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Team Kyulu-Kyula",
+            "value": "Activations: 1\nMin Level Effect: Deal 400% Passion DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 400% Passion DMG 4 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/8e/Minister_Kyulu.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Minister_Kyulu"
+      },
+      {
+        "name": "Beautifier Kyulu",
+        "element": "Passion",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Calamity Calm",
+            "value": "Activations: 1\nMin Level Effect: Deal 400% Passion DMG 5 times to the enemy / 15% chance\nMax Level Effect: Deal 400% Passion DMG 5 times to the enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/f3/Beautifier_Kyulu_H.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Beautifier_Kyulu"
+      },
+      {
+        "name": "Sister Meemori",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Tough Love",
+            "value": "Activations: 1\nMin Level Effect: Activate Awoken Burst for all allies / 5% chance\nMax Level Effect: Activate Awoken Burst for all allies / 10% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Tough Love",
+            "value": "Activations: 1\nMin Level Effect: Activate Awoken Burst for all allies / 10% chance\nMax Level Effect: Activate Awoken Burst for all allies / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/a3/Sister_Meemori.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Sister_Meemori"
+      },
+      {
+        "name": "Yurahime",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Giant Whirlpool",
+            "value": "Activations: 1\nMin Level Effect: All Passion allies' ATK 550% • DEF 200% up / 10% chance\nMax Level Effect: All Passion allies' ATK 550% • DEF 200% up / 25% chance\n"
+          },
+          {
+            "name": "Second Skill: Giant Whirlpool",
+            "value": "Activations: 1\nEffect: 【Autoskill】All enemies' ATK 50% down after every attack / 50% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Giant Whirlpool",
+            "value": "Activations: 1\nMin Level Effect: All Passion allies' ATK 700% • DEF 200% up / 10% chance\nMax Level Effect: All Passion allies' ATK 700% • DEF 200% up / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Giant Whirlpool",
+            "value": "Activations: 1\nEffect: 【Autoskill】All enemies' ATK 60% down after every attack / 60% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/fc/Yurahime.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Yurahime"
+      },
+      {
+        "name": "Whale",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Deep Decorations",
+            "value": "Activations: 3\nMin Level Effect: All allies recover 100% / 30% chance\nMax Level Effect: All allies recover 100% / 35% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Deep Decorations",
+            "value": "Activations: 3\nMin Level Effect: All allies recover 100% / 35% chance\nMax Level Effect: All allies recover 100% / 40% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/c6/Whale.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Whale"
+      },
+      {
+        "name": "Hirluka",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Homing Torpedoes",
+            "value": "Activations: 1\nMin Level Effect: All allies' ATK 500% up / 15% chance\nMax Level Effect: All allies' ATK 500% up / 25% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Homing Torpedoes",
+            "value": "Activations: 1\nMin Level Effect: All allies' ATK 600% up / 20% chance\nMax Level Effect: All allies' ATK 600% up / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Homing Torpedoes",
+            "value": "Activations: 1\nEffect: 【Autoskill】When own soldiers fall below a certain amount, all allies recover 100% / 50% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/a8/Hirluka.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Hirluka"
+      },
+      {
+        "name": "Mariest",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Deep Blessing",
+            "value": "Activations: 2\nMin Level Effect: Deal 500% DMG to a single enemy with a simultaneous attack by all allies / 10% chance\nMax Level Effect: Deal 500% DMG to a single enemy with a simultaneous attack by all allies / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Deep Blessing",
+            "value": "Activations: 2\nMin Level Effect: Deal 600% DMG to a single enemy with a simultaneous attack by all allies / 15% chance\nMax Level Effect: Deal 600% DMG to a single enemy with a simultaneous attack by all allies / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Deep Blessing",
+            "value": "Activations: 2\nEffect: 【Autoskill】All enemies' ATK • DEF 30% down after every attack"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/22/Mariest.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Mariest"
       }
     ]
