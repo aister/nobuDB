@@ -33974,5 +33974,140 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/22/Mariest.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Mariest"
+      },
+      {
+        "name": "Lisbeth",
+        "element": "Dark",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Armor Purge",
+            "value": "Activations: 1\nMin Level Effect: Deal 40% Dark DMG 16 times to the enemy / 5% chance\nMax Level Effect: Deal 70% Dark DMG 16 times to the enemy / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Armor Purge",
+            "value": "Activations: Infinite\nEffect: 【Autoskill】Unit's all Dark ATK • DEF +300%\n"
+          },
+          {
+            "name": "Awoken: ☆Armor Purge",
+            "value": "Activations: 1\nMin Level Effect: Deal 60% Dark DMG 16 times to the enemy / 5% chance\nMax Level Effect: Deal 90% Dark DMG 16 times to the enemy / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Armor Purge",
+            "value": "Activations: Infinite\nEffect: 【Autoskill】Unit's all Dark ATK • DEF +350%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/c7/Lisbeth.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Lisbeth"
+      },
+      {
+        "name": "Asto Vidatu",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Sea Tonic",
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Dark DMG to all enemies / Unable to move 3 turns / 30% chance\nMax Level Effect: Deal 300% Dark DMG to all enemies / Unable to move 3 turns / 45% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Sea Tonic",
+            "value": "Activations: 2\nMin Level Effect: Deal 350% Dark DMG to all enemies / Unable to move 3 turns / 45% chance\nMax Level Effect: Deal 400% Dark DMG to all enemies / Unable to move 3 turns / 55% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/1c/Asto_Vidatu.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Asto_Vidatu"
+      },
+      {
+        "name": "Eir Maid",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Desire to Serve",
+            "value": "Activations: 2\nMin Level Effect: Deal 100% Light DMG to all enemies / Absorb 20% / 30% chance\nMax Level Effect: Deal 100% Light DMG to all enemies / Absorb 20% / 35% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Desire to Serve",
+            "value": "Activations: 2\nMin Level Effect: Deal 150% Light DMG to all enemies / Absorb 20% / 35% chance\nMax Level Effect: Deal 150% Light DMG to all enemies / Absorb 20% / 40% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/7f/Eir_Maid.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Eir_Maid"
+      },
+      {
+        "name": "Temari",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Offering Scheme",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Dark allies' skills / 5% chance\nMax Level Effect: Unleash all Dark allies' skills / 10% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Offering Scheme",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Dark allies' skills / 10% chance\nMax Level Effect: Unleash all Dark allies' skills / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/02/Temari.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Temari"
+      },
+      {
+        "name": "Autumn Temari",
+        "element": "Dark",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆More Offerings!",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Dark allies' skills / 15% chance\nMax Level Effect: Unleash all Dark allies' skills / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆More Offerings!",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Dark allies' ATK 100% up from the first turn / 100% chance / Max 1 time"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/93/Autumn_Temari_H.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Autumn_Temari"
+      },
+      {
+        "name": "Illumi",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Maid Magic",
+            "value": "Activations: 3\nMin Level Effect: 【Autoskill】All allies recover 30% after a successfull attack / 100% chance / Max 3 times\nMax Level Effect: 【Autoskill】All allies recover 35% after a successfull attack / 100% chance / Max 3 times\n"
+          },
+          {
+            "name": "Awoken: ☆Maid Magic",
+            "value": "Activations: 3\nMin Level Effect: 【Autoskill】All allies recover 35% after a successfull attack / 100% chance / Max 3 times\nMax Level Effect: 【Autoskill】All allies recover 40% after a successfull attack / 100% chance / Max 3 times"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/52/Illumi.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Illumi"
+      },
+      {
+        "name": "Popple",
+        "element": "Cool",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Sweet Change",
+            "value": "Activations: 1\nMin Level Effect: Deal 90% Cool DMG 9 times to the enemy / 10% chance\nMax Level Effect: Deal 90% Cool DMG 9 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Second Skill: Sweet Change",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Cool allies' ATK 400% • DEF 200% up during every turn / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Sweet Change",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Cool DMG 10 times to the enemy / 15% chance\nMax Level Effect: Deal 100% Cool DMG 10 times to the enemy / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Sweet Change",
+            "value": "Activations: 1\nMEffect: 【Autoskill】All Cool allies' ATK 500% • DEF 300% up during every turn / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/9f/Popple.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Popple"
       }
     ]
