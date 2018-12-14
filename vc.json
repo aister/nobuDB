@@ -2337,7 +2337,7 @@
         "skill": [
           {
             "name": "Skill: Great Green",
-            "value": "Activations: 3\nMin Level Effect: Unleash single Allies skill / 15% chance\nMax Level Effect: Unleash single Allies skill / 20% chance"
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 15% chance\nMax Level Effect: Unleash a single ally's skill / 20% chance"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/f/f7/Green_Christmas_H.png",
@@ -3450,11 +3450,11 @@
         "skill": [
           {
             "name": "Skill: Spring of Awakening",
-            "value": "Activations: 3\nMin Level Effect: Unleash single Allies skill / 15%\nMax Level Effect: Unleash single Allies skill / 20%\n"
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 15%\nMax Level Effect: Unleash a single ally's skill / 20%\n"
           },
           {
             "name": "Awoken: ☆Spring of Awakening",
-            "value": "Activations: 3\nMin Level Effect: Unleash single Allies skill / 20% chance\nMax Level Effect: Unleash single Allies skill / 25% chance\n"
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 20% chance\nMax Level Effect: Unleash a single ally's skill / 25% chance\n"
           },
           {
             "name": "Amalgamated: Mystic Bathing",
@@ -3898,11 +3898,11 @@
         "skill": [
           {
             "name": "Skill: Tasty Memories",
-            "value": "Activations: 2\nMin Level Effect: "
+            "value": "Activations: 2\nMin Level Effect: 【Autoskill】Skill nullification of any enemy skills / 50% chance\nMax Level Effect: 【Autoskill】Skill nullification of any enemy skills / 65% chance\n"
           },
           {
             "name": "Awoken: ☆Tasty Memories",
-            "value": "Activations: 2\nMin Level Effect: "
+            "value": "Activations: 2\nMin Level Effect: 【Autoskill】Skill nullification of any enemy skills / 60% chance\nMax Level Effect: 【Autoskill】Skill nullification of any enemy skills / 80% chance"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/7/79/Bookworm.png",
@@ -4407,7 +4407,7 @@
           },
           {
             "name": "Awoken Second Skill: ☆Dimensional Adapt",
-            "value": "Activations: 5\nMin Level Effect: 【Autoskill】When own soldiers fall below the maximum amount, recover 20% of own soldiers / 100% chance\nMax Level Effect: 【Autoskill】When own soldiers fall below the maximum amount, recover 20% of own soldiers / 100% chance"
+            "value": "Activations: 5\nEffect: 【Autoskill】When own soldiers fall below the maximum amount, recover 20% of own soldiers / 100% chance"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/1/1b/Dimension_Fiancee_H.png",
@@ -4781,11 +4781,11 @@
         "skill": [
           {
             "name": "Skill: Nectar Drops",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 5% chance\nMax Level Effect: Skills of all allies are unleashed / 10% chance\n"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 5% chance\nMax Level Effect: Unleash all allies' skills / 10% chance\n"
           },
           {
             "name": "Awoken: ☆Nectar Drops",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 10% chance\nMax Level Effect: Skills of all allies are unleashed / 15% chance"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 15% chance"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/9/90/Hebe.png",
@@ -4934,7 +4934,7 @@
           },
           {
             "name": "Awoken: ☆Blade Barrage",
-            "value": "Activations: 2\nMin Level Effect: 250% Passion ATK to all enemies / Unable to move 3 turn(s) / 10% chance\nMax Level Effect: 300% Passion ATK to all enemies / Unable to move 3 turn(s) / 15% chance"
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Passion DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 300% Passion DMG to all enemies / Unable to move 3 turns / 15% chance"
           }
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/9/91/Jack_the_Ripper.png",
@@ -4951,7 +4951,7 @@
           },
           {
             "name": "Awoken: ☆Lapis Lazuli",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 10% chance\nMax Level Effect: Skills of all allies are unleashed / 15% chance"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 15% chance"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/7/77/Jewel_Girl.png",
@@ -5546,7 +5546,7 @@
           },
           {
             "name": "Awoken: ☆Dark Express",
-            "value": "Activations: 2\nMin Level Effect: 150% Passion ATK to all enemies / Unable to move 3 turn(s) / 15% chance\nMax Level Effect: 200% Passion ATK to all enemies / Unable to move 3 turn(s) / 20% chance"
+            "value": "Activations: 2\nMin Level Effect: Deal 150% Passion DMG to all enemies / Unable to move 3 turn(s) / 15% chance\nMax Level Effect: Deal 200% Passion DMG to all enemies / Unable to move 3 turn(s) / 20% chance"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/b/b5/Moira.png",
@@ -5767,11 +5767,11 @@
         "skill": [
           {
             "name": "Skill: Divine Footbath",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 5% chance\nMax Level Effect: Skills of all allies are unleashed / 10% chance\n"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 5% chance\nMax Level Effect: Unleash all allies' skills / 10% chance\n"
           },
           {
             "name": "Awoken: ☆Divine Footbath",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 10% chance\nMax Level Effect: Skills of all allies are unleashed / 15% chance"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 15% chance"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/a/a3/Pala.png",
@@ -6851,7 +6851,7 @@
           },
           {
             "name": "Awoken Second Skill: ☆True Spirit Eye",
-            "value": "Activations: Always On\nMin Level Effect: 【Autoskill】Unit DEF +300%\nMax Level Effect: 【Autoskill】Unit DEF +300%"
+            "value": "Activations: Always On\nEffect: 【Autoskill】Unit DEF +300%"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/f/f5/Winged_Vigilent_H.png",
@@ -7777,7 +7777,7 @@
         "skill": [
           {
             "name": "Skill: Blessed Light",
-            "value": "Activations: 2\nMin Level Effect: Unleash single Allies skill / 5% chance\nMax Level Effect: Unleash single Allies skill / 10% chance"
+            "value": "Activations: 2\nMin Level Effect: Unleash a single ally's skill / 5% chance\nMax Level Effect: Unleash a single ally's skill / 10% chance"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/e/e3/Illuminatia.png",
@@ -10479,7 +10479,7 @@
         "skill": [
           {
             "name": "Skill: Racing Umbrella",
-            "value": "Activations: 1\nMin Level Effect: "
+            "value": "Activations: 1\nMin Level Effect: 【Autoskill】Skill nullification of any enemy skills / 35%\nMax Level Effect: 【Autoskill】Skill nullification of any enemy skills / 50%"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/9/9f/Race_Queen.png",
@@ -12918,11 +12918,11 @@
         "skill": [
           {
             "name": "Skill: Hundred Hands",
-            "value": "Activations: 2\nMin Level Effect: 200% Cool ATK to all enemies / Unable to move 3 turn(s) / 10% chance\nMax Level Effect: 250% Cool ATK to all enemies / Unable to move 3 turn(s) / 15% chance\n"
+            "value": "Activations: 2\nMin Level Effect: Deal 200% Cool DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 250% Cool DMG to all enemies / Unable to move 3 turns / 15% chance\n"
           },
           {
             "name": "Awoken: ☆Hundred Hands",
-            "value": "Activations: 2\nMin Level Effect: 250% Cool ATK to all enemies / Unable to move 3 turn(s) / 10% chance\nMax Level Effect: 300% Cool ATK to all enemies / Unable to move 3 turn(s) / 15% chance"
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Cool DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 300% Cool DMG to all enemies / Unable to move 3 turns / 15% chance"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/3/34/Kericoff.png",
@@ -13645,11 +13645,11 @@
         "skill": [
           {
             "name": "Skill: Regea Live!",
-            "value": "Activations: 2\nMin Level Effect: 150% Cool ATK to all enemies / Unable to move 3 turn(s) / 10% chance\nMax Level Effect: 200% Cool ATK to all enemies / Unable to move 3 turn(s) / 15% chance\n"
+            "value": "Activations: 2\nMin Level Effect: Deal 150% Cool DMG to all enemies / Unable to move 3 turn(s) / 10% chance\nMax Level Effect: Deal 200% Cool DMG to all enemies / Unable to move 3 turn(s) / 15% chance\n"
           },
           {
             "name": "Awoken: ☆Regea Live!",
-            "value": "Activations: 2\nMin Level Effect: 150% Cool ATK to all enemies / Unable to move 3 turn(s) / 15% chance\nMax Level Effect: 200% Cool ATK to all enemies / Unable to move 3 turn(s) / 20% chance"
+            "value": "Activations: 2\nMin Level Effect: Deal 150% Cool DMG to all enemies / Unable to move 3 turn(s) / 15% chance\nMax Level Effect: Deal 200% Cool DMG to all enemies / Unable to move 3 turn(s) / 20% chance"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/e/e1/Regea.png",
@@ -13968,11 +13968,11 @@
         "skill": [
           {
             "name": "Skill: Tableware Storm",
-            "value": "Activations: 2\nMin Level Effect: 200% Cool ATK to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: 250% Cool ATK to all enemies / Unable to move 3 turns / 15% chance\n"
+            "value": "Activations: 2\nMin Level Effect: Deal 200% Cool DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 250% Cool DMG to all enemies / Unable to move 3 turns / 15% chance\n"
           },
           {
             "name": "Awoken: ☆Tableware Storm",
-            "value": "Activations: 2\nMin Level Effect: 250% Cool ATK to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: 300% Cool ATK to all enemies / Unable to move 3 turns / 20% chance"
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Cool DMG to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: Deal 300% Cool DMG to all enemies / Unable to move 3 turns / 20% chance"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/a/a4/Table_Master.png",
@@ -15805,7 +15805,7 @@
         "skill": [
           {
             "name": "Skill: Romantic Blessing",
-            "value": "Activations: 2\nMin Level Effect: Unleash single Allies skill / 5% chance\nMax Level Effect: Unleash single Allies skill / 10% chance"
+            "value": "Activations: 2\nMin Level Effect: Unleash a single ally's skill / 5% chance\nMax Level Effect: Unleash a single ally's skill / 10% chance"
           }
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/a/ab/Romance.png",
@@ -18655,11 +18655,11 @@
         "skill": [
           {
             "name": "Skill: Magic Horn",
-            "value": "Activations: 1\nMin Level Effect: "
+            "value": "Activations: 1\nMin Level Effect: 【Autoskill】Skill nullification of any enemy skills / 35% chance\nMax Level Effect: 【Autoskill】Skill nullification of any enemy skills / 50% chance\n"
           },
           {
             "name": "Awoken: ☆Magic Horn",
-            "value": "Activations: 2\nMin Level Effect: "
+            "value": "Activations: 2\nMin Level Effect: 【Autoskill】Skill nullification of any enemy skills / 40% chance\nMax Level Effect: 【Autoskill】Skill nullification of any enemy skills / 55% chance"
           }
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/f/fa/Al-mi%27raj.png",
@@ -19395,11 +19395,11 @@
         "skill": [
           {
             "name": "Skill: Sweet Dream",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 5% chance\nMax Level Effect: Skills of all allies are unleashed / 10% chance\n"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 5% chance\nMax Level Effect: Unleash all allies' skills / 10% chance\n"
           },
           {
             "name": "Awoken: ☆Sweet Dream",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 10% chance\nMax Level Effect: Skills of all allies are unleashed / 15% chance"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 15% chance"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/3/39/Dream_Pillow.png",
@@ -19450,7 +19450,7 @@
           },
           {
             "name": "Awoken: ☆Smile Parade",
-            "value": "Activations: 2\nMin Level Effect: 150% Light ATK to all enemies / Unable to move 3 turn(s) / 15% chance\nMax Level Effect: 200% Light ATK to all enemies / Unable to move 3 turn(s) / 20% chance"
+            "value": "Activations: 2\nMin Level Effect: Deal 150% Light DMG to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: Deal 200% Light DMG to all enemies / Unable to move 3 turns / 20% chance"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/d/d7/Drum_Major.png",
@@ -19463,11 +19463,11 @@
         "skill": [
           {
             "name": "Skill: Fortunate Fishing",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 5% chance\nMax Level Effect: Skills of all allies are unleashed / 10% chance\n"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 5% chance\nMax Level Effect: Unleash all allies' skills / 10% chance\n"
           },
           {
             "name": "Awoken: ☆Fortunate Fishing",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 10% chance\nMax Level Effect: Skills of all allies are unleashed / 15% chance"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 15% chance"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/7/77/Ebisu.png",
@@ -19510,11 +19510,11 @@
         "skill": [
           {
             "name": "Skill: Faerie Ring",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 5% chance\nMax Level Effect: Skills of all allies are unleashed / 10% chance\n"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 5% chance\nMax Level Effect: Unleash all allies' skills / 10% chance\n"
           },
           {
             "name": "Awoken: ☆Faerie Ring",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 10% chance\nMax Level Effect: Skills of all allies are unleashed / 15% chance"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 15% chance"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/0/01/Fairy_Princess.png",
@@ -19926,11 +19926,11 @@
         "skill": [
           {
             "name": "Skill: Star Maker",
-            "value": "Activations: 3\nMin Level Effect: Unleash single Allies skill / 20% chance\nMax Level Effect: Unleash single Allies skill / 25% chance\n"
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 20% chance\nMax Level Effect: Unleash a single ally's skill / 25% chance\n"
           },
           {
             "name": "Awoken: ☆Star Maker",
-            "value": "Activations: 3\nMin Level Effect: Unleash single Allies skill / 25% chance\nMax Level Effect: Unleash single Allies skill / 30% chance"
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 25% chance\nMax Level Effect: Unleash a single ally's skill / 30% chance"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/2/2b/Hyper_Alchemist.png",
@@ -20138,7 +20138,7 @@
           },
           {
             "name": "Awoken: ☆Tangled Yarn",
-            "value": "Activations: 2\nMin Level Effect: 250% Light ATK to all enemies / Unable to move 3 turn(s) / 20% chance\nMax Level Effect: 350% Light ATK to all enemies / Unable to move 3 turn(s) / 25% chance"
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Light DMG to all enemies / Unable to move 3 turns / 20% chance\nMax Level Effect: Deal 350% Light DMG to all enemies / Unable to move 3 turns / 25% chance"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/e/ea/Kikimora.png",
@@ -20372,7 +20372,7 @@
         "skill": [
           {
             "name": "Skill: Lion's Luck",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 5% chance\nMax Level Effect: Skills of all allies are unleashed / 10% chance\n"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 5% chance\nMax Level Effect: Unleash all allies' skills / 10% chance\n"
           },
           {
             "name": "Awoken: ☆Lion's Luck",
@@ -20822,11 +20822,11 @@
         "skill": [
           {
             "name": "Skill: Heroic Sketch",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 5% chance\nMax Level Effect: Skills of all allies are unleashed / 10% chance\n"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 5% chance\nMax Level Effect: Unleash all allies' skills / 10% chance\n"
           },
           {
             "name": "Awoken: ☆Heroic Sketch",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 10% chance\nMax Level Effect: Skills of all allies are unleashed / 15% chance"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 15% chance"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/2/24/Painter.png",
@@ -24213,7 +24213,7 @@
         "skill": [
           {
             "name": "Skill: Tropical Juice",
-            "value": "Activations: 3\nMin Level Effect: Unleash single Allies skill / 15% chance\nMax Level Effect: Unleash single Allies skill / 20% chance"
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 15% chance\nMax Level Effect: Unleash a single ally's skill / 20% chance"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/b/bb/Hammock_Babe.png",
@@ -25556,11 +25556,11 @@
         "skill": [
           {
             "name": "Skill: Soul Forge",
-            "value": "Activations: 3\nMin Level Effect: Unleash single Allies skill / 20% chance\nMax Level Effect: Unleash single Allies skill / 25% chance\n"
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 20% chance\nMax Level Effect: Unleash a single ally's skill / 25% chance\n"
           },
           {
             "name": "Awoken: ☆Soul Forge",
-            "value": "Activations: 3\nMin Level Effect: Unleash single Allies skill / 25% chance\nMax Level Effect: Unleash single Allies skill / 30% chance"
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 25% chance\nMax Level Effect: Unleash a single ally's skill / 30% chance"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/a/a6/Weaponsmith.png",
@@ -25752,11 +25752,11 @@
         "skill": [
           {
             "name": "Skill: Searchlight",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 5% chance\nMax Level Effect: Skills of all allies are unleashed / 10% chance\n"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 5% chance\nMax Level Effect: Unleash all allies' skills / 10% chance\n"
           },
           {
             "name": "Awoken: ☆Searchlight",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 10% chance\nMax Level Effect: Skills of all allies are unleashed / 15% chance"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 15% chance"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/6/64/Anglerfish.png",
@@ -25986,11 +25986,11 @@
         "skill": [
           {
             "name": "Skill: Behind Blue Eyes",
-            "value": "Activations: 3\nMin Level Effect: Unleash single Allies skill / 25% chance\nMax Level Effect: Unleash single Allies skill / 30% chance\n"
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 25% chance\nMax Level Effect: Unleash a single ally's skill / 30% chance\n"
           },
           {
             "name": "Awoken: ☆Behind Blue Eyes",
-            "value": "Activations: 3\nMin Level Effect: Unleash single Allies skill / 30% chance\nMax Level Effect: Unleash single Allies skill / 35% chance"
+            "value": "Activations: 3\nMin Level Effect: Unleash a single ally's skill / 30% chance\nMax Level Effect: Unleash a single ally's skill / 35% chance"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/d/d4/Blue_Eyes.png",
@@ -26508,7 +26508,7 @@
           },
           {
             "name": "Awoken: ☆Dolly Innocence",
-            "value": "Activations: 2\nMin Level Effect: 250% Dark ATK to all enemies / Unable to move 4 turn(s) / 15% chance\nMax Level Effect: 350% Dark ATK to all enemies / Unable to move 4 turn(s) / 20% chance"
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Dark DMG to all enemies / Unable to move 4 turns / 15% chance\nMax Level Effect: Deal 350% Dark DMG to all enemies / Unable to move 4 turns / 20% chance"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/3/37/Darling_Doll.png",
@@ -26750,11 +26750,11 @@
         "skill": [
           {
             "name": "Skill: Prank Potion",
-            "value": "Activations: 2\nMin Level Effect: 150% Dark ATK to all enemies / Unable to move 3 turn(s) / 10% chance\nMax Level Effect: 200% Dark ATK to all enemies / Unable to move 3 turn(s) / 15% chance\n"
+            "value": "Activations: 2\nMin Level Effect: Deal 150% Dark DMG to all enemies / Unable to move 3 turns / 10% chance\nMax Level Effect: Deal 200% Dark DMG to all enemies / Unable to move 3 turns / 15% chance\n"
           },
           {
             "name": "Awoken: ☆Prank Potion",
-            "value": "Activations: 2\nMin Level Effect: 150% Dark ATK to all enemies / Unable to move 3 turn(s) / 15% chance\nMax Level Effect: 200% Dark ATK to all enemies / Unable to move 3 turn(s) / 20% chance"
+            "value": "Activations: 2\nMin Level Effect: Deal 150% Dark DMG to all enemies / Unable to move 3 turns / 15% chance\nMax Level Effect: Deal 200% Dark DMG to all enemies / Unable to move 3 turns / 20% chance"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/4/41/Foras.png",
@@ -27060,11 +27060,11 @@
         "skill": [
           {
             "name": "Skill: Tearjerker",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 5% chance\nMax Level Effect: Skills of all allies are unleashed / 10% chance\n"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 5% chance\nMax Level Effect: Unleash all allies' skills / 10% chance\n"
           },
           {
             "name": "Awoken: ☆Tearjerker",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 10% chance\nMax Level Effect: Skills of all allies are unleashed / 15% chance"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 15% chance"
           }
         ],
         "image": "https://vignette3.wikia.nocookie.net/valkyriecrusade/images/1/1a/Hamlet.png",
@@ -27638,11 +27638,11 @@
         "skill": [
           {
             "name": "Skill: Lore of the Abyss",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 5% chance\nMax Level Effect: Skills of all allies are unleashed / 10% chance\n"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 5% chance\nMax Level Effect: Unleash all allies' skills / 10% chance\n"
           },
           {
             "name": "Awoken: ☆Lore of the Abyss",
-            "value": "Activations: 1\nMin Level Effect: Skills of all allies are unleashed / 10% chance\nMax Level Effect: Skills of all allies are unleashed / 15% chance"
+            "value": "Activations: 1\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 15% chance"
           }
         ],
         "image": "https://vignette1.wikia.nocookie.net/valkyriecrusade/images/7/78/Necronomicon.png",
@@ -27846,7 +27846,7 @@
           },
           {
             "name": "Awoken: ☆Toxic Shock",
-            "value": "Activations: 1\nMin Level Effect: 300% Dark ATK to all enemies / Unable to move 2 turn(s) / battle start 25% chance\nMax Level Effect: 400% Dark ATK to all enemies / Unable to move 2 turn(s) / battle start 35% chance"
+            "value": "Activations: 1\nMin Level Effect: Deal 300% Dark DMG to all enemies / Unable to move 2 turns / Battle start 25% chance\nMax Level Effect: Deal 400% Dark DMG to all enemies / Unable to move 2 turns / Battle start 35% chance"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/0/00/Poison_Claw.png",
@@ -34371,5 +34371,191 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/b3/Pres_Calamity.png",
         "link": "http://valkyriecrusade.wikia.com/wiki/Pres_Calamity"
+      },
+      {
+        "name": "Emp Cleopatra",
+        "element": "Dark",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Healing Orders",
+            "value": "Activations: 4\nMin Level Effect: Unleash all allies' skills / 5% chance\nMax Level Effect: Unleash all allies' skills / 20% chance\n"
+          },
+          {
+            "name": "Second Skill: Healing Orders",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Unit ATK • DEF +300%\n"
+          },
+          {
+            "name": "Awoken: ☆Healing Orders",
+            "value": "Activations: 4\nMin Level Effect: Unleash all allies' skills / 10% chance\nMax Level Effect: Unleash all allies' skills / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Healing Orders",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Unit ATK • DEF +350%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e5/Emp_Cleopatra.png",
+        "link": "http://valkyriecrusade.wikia.com/wiki/Emp_Cleopatra"
+      },
+      {
+        "name": "Cochineal",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Red Thunderbolt",
+            "value": "Activations: 3\nMin Level Effect: Deal 250% Light DMG to all enemies / 15% chance\nMax Level Effect: Deal 250% Light DMG to all enemies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/54/Cochineal.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Cochineal"
+      },
+      {
+        "name": "Agent Koh",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Assassin Knife",
+            "value": "Activations: Infinite\nMin Level Effect: Deal 350% DMG to all enemies / 10% chance\nMax Level Effect: Deal 400% DMG to all enemies / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Assassin Knife",
+            "value": "Activations: Infinite\nMin Level Effect: Deal 400% DMG to all enemies / 10% chance\nMax Level Effect: Deal 450% DMG to all enemies / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/32/Agent_Koh.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Agent_Koh"
+      },
+      {
+        "name": "Christmas Koh",
+        "element": "Light",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Assassin Disguise",
+            "value": "Activations: Infinite\nMin Level Effect: Deal 500% DMG to all enemies / 10% chance\nMax Level Effect: Deal 550% DMG to all enemies / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/a3/Christmas_Koh_H.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Christmas_Koh"
+      },
+      {
+        "name": "Azalea",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Bloodbath Blade",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Light DMG 6 times to the enemy / 15% chance\nMax Level Effect: Deal 100% Light DMG 6 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Bloodbath Blade",
+            "value": "Activations: 1\nMin Level Effect: Deal 100% Light DMG 8 times to the enemy / 15% chance\nMax Level Effect: Deal 100% Light DMG 8 times to the enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/bb/Azalea.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Azalea"
+      },
+      {
+        "name": "Itsuki",
+        "element": "Light",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Demon Realm Gate",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 5 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 5 turn(s) / 25% chance\n"
+          },
+          {
+            "name": "Second Skill: Demon Realm Gate",
+            "value": "Activations: 1\nEffect: 【Autoskill】Deal DMG to each enemy equivalent to 15% of that enemy's remaining soldiers after a successful attack / 10% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Demon Realm Gate",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 6 turn(s) / 20% chance\nMax Level Effect: All enemies can't move for 6 turn(s) / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Demon Realm Gate",
+            "value": "Activations: 2\nEffect: 【Autoskill】Deal DMG to each enemy equivalent to 15% of that enemy's remaining soldiers after a successful attack / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/8d/Itsuki.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Itsuki"
+      },
+      {
+        "name": "Rudy",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Fluffy Horns",
+            "value": "Activations: 2\nMin Level Effect: Deal 400% DMG to the enemy with the highest attack power with a simultaneous attack by all allies / 20% chance\nMax Level Effect: Deal 450% DMG to the enemy with the highest attack power with a simultaneous attack by all allies / 25% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Fluffy Horns",
+            "value": "Activations: 2\nMin Level Effect: Deal 500% DMG to the enemy with the highest attack power with a simultaneous attack by all allies / 20% chance\nMax Level Effect: Deal 550% DMG to the enemy with the highest attack power with a simultaneous attack by all allies / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e2/Rudy.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Rudy"
+      },
+      {
+        "name": "Yule",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Ornament Shower",
+            "value": "Activations: 1\nMin Level Effect: All allies' ATK 500% up / 15% chance\nMax Level Effect: All allies' ATK 500% up / 25% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Ornament Shower",
+            "value": "Activations: 1\nMin Level Effect: All allies' ATK 600% up / 20% chance\nMax Level Effect: All allies' ATK 600% up / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/0c/Yule.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Yule"
+      },
+      {
+        "name": "Croissant",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Peasant Force",
+            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 50% down / 15% chance\nMax Level Effect: All enemies' ATK 50% down / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Peasant Force",
+            "value": "Activations: 1\nMin Level Effect: All enemies' ATK 50% down / 20% chance\nMax Level Effect: All enemies' ATK 50% down / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/a0/Croissant.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Croissant"
+      },
+      {
+        "name": "Platy",
+        "element": "Light",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Love Gift",
+            "value": "Activations: 1\nMin Level Effect: All Light allies' ATK 500% • DEF 250% up / 5% chance\nMax Level Effect: All Light allies' ATK 500% • DEF 250% up / 15% chance\n"
+          },
+          {
+            "name": "Second Skill: Love Gift",
+            "value": "Activations: 2\nEffect: 【Autoskill】All allies recover 75% after a successfull attack / 100% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Love Gift",
+            "value": "Activations: 1\nMin Level Effect: All Light allies' ATK 600% • DEF 300% up / 15% chance\nMax Level Effect: All Light allies' ATK 600% • DEF 300% up / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Love Gift",
+            "value": "Activations: 2\nEffect: 【Autoskill】All allies recover 100% after a successfull attack / 100% chance"
+          }
+        ],
+        "image": "",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Platy"
       }
     ]
