@@ -34557,5 +34557,116 @@
         ],
         "image": "",
         "link": "https://valkyriecrusade.wikia.com/wiki/Platy"
+      },
+      {
+        "name": "Dark Audrey",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Dark Marionette",
+            "value": "Activations: 2\nMin Level Effect: All Cool allies' ATK • DEF 300% up / 15% chance\nMax Level Effect: All Cool allies' ATK • DEF 300% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Dark Marionette",
+            "value": "Activations: 2\nMin Level Effect: All Cool allies' ATK • DEF 350% up / 15% chance\nMax Level Effect: All Cool allies' ATK • DEF 350% up / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/48/Dark_Audrey.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Dark_Audrey"
+      },
+      {
+        "name": "Hero Audrey",
+        "element": "Cool",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Light Marionette",
+            "value": "Activations: 2\nMin Level Effect: All Cool allies' ATK • DEF 350% up / 15% chance\nMax Level Effect: All Cool allies' ATK • DEF 350% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Light Marionette",
+            "value": "Activations: 2\nEffect: 【Autoskill】All enemies' ATK • DEF 30% down after every attack / 50% chance"
+          }
+
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/54/Hero_Audrey_H.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Hero_Audrey"
+      },
+      {
+        "name": "Saya",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Little Present",
+            "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 30% chance\nMax Level Effect: Unleash a single ally's skill / 40% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Little Present",
+            "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 35% chance\nMax Level Effect: Unleash a single ally's skill / 45% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/ce/Saya.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Saya"
+      },
+      {
+        "name": "Lily",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Snowman Squad",
+            "value": "Activations: 2\nMin Level Effect: Deal 450% Passion DMG to all enemies / 20% chance\nMax Level Effect: Deal 450% Passion DMG to all enemies / 30% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Snowman Squad",
+            "value": "Activations: 2\nMin Level Effect: Deal 550% Passion DMG to all enemies / 25% chance\nMax Level Effect: Deal 550% Passion DMG to all enemies / 35% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/0/0a/Lily.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Lily"
+      },
+      {
+        "name": "Traytis",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Xmas Mystery",
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Light DMG to all enemies / Unable to move 3 turns / 30% chance\nMax Level Effect: Deal 300% Light DMG to all enemies / Unable to move 3 turns / 45% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Xmas Mystery",
+            "value": "Activations: 2\nMin Level Effect: Deal 350% Light DMG to all enemies / Unable to move 3 turns / 45% chance\nMax Level Effect: Deal 400% Light DMG to all enemies / Unable to move 3 turns / 55% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/58/Traytis.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Traytis"
+      },
+      {
+        "name": "Christmas Len",
+        "element": "Dark",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Everlasting Flower",
+            "value": "Activations: 1\nMin Level Effect: Deal 200% Dark DMG to all enemies / Unable to move 5 turns / 10% chance\nMax Level Effect: Deal 500% Dark DMG to all enemies / Unable to move 5 turns / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Everlasting Flower",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of any enemy skills / 60% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Everlasting Flower",
+            "value": "Activations: 1\nMin Level Effect: Deal 250% Dark DMG to all enemies / Unable to move 5 turns / 10% chance\nMax Level Effect: Deal 550% Dark DMG to all enemies / Unable to move 5 turns / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Everlasting Flower",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of any enemy skills / 70% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/2f/Christmas_Len.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Christmas_Len"
       }
     ]
