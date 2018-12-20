@@ -34555,7 +34555,7 @@
             "value": "Activations: 2\nEffect: 【Autoskill】All allies recover 100% after a successfull attack / 100% chance"
           }
         ],
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/82/Platy.png",
         "link": "https://valkyriecrusade.wikia.com/wiki/Platy"
       },
       {
@@ -34668,5 +34668,22 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/2f/Christmas_Len.png",
         "link": "https://valkyriecrusade.wikia.com/wiki/Christmas_Len"
+      },
+      {
+        "name": "Disk Jockey",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Deadly DJ",
+            "value": "Activations: 1\nMin Level Effect: All Light allies' ATK 400% up / 10% chance\nMax Level Effect: All Light allies' ATK 400% up / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Deadly DJ",
+            "value": "Activations: 1\nMin Level Effect: All Light allies' ATK 500% up / 10% chance\nMax Level Effect: All Light allies' ATK 500% up / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e9/Disk_Jockey.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Disk_Jockey"
       }
     ]
