@@ -34282,7 +34282,7 @@
         "skill": [
           {
             "name": "Awoken: ☆Cheap Frying Pan",
-            "value": "Activations: \nMin Level Effect: Activate Awoken Burst for all allies / 15% chance\nMax Level Effect: Activate Awoken Burst for all allies / 15% chance\n"
+            "value": "Activations: 1\nMin Level Effect: Activate Awoken Burst for all allies / 15% chance\nMax Level Effect: Activate Awoken Burst for all allies / 15% chance\n"
           },
           {
             "name": "Awoken Second Skill: ☆Cheap Frying Pan",
@@ -34333,11 +34333,11 @@
         "skill": [
           {
             "name": "Skill: 3-Star Review",
-            "value": "Activations: \nMin Level Effect: Deal 400% DMG to the enemy with the highest attack power with a simultaneous attack by all Cool allies / 10% chance\nMax Level Effect: Deal 400% DMG to the enemy with the highest attack power with a simultaneous attack by all Cool allies / 15% chance\n"
+            "value": "Activations: 2\nMin Level Effect: Deal 400% DMG to the enemy with the highest attack power with a simultaneous attack by all Cool allies / 10% chance\nMax Level Effect: Deal 400% DMG to the enemy with the highest attack power with a simultaneous attack by all Cool allies / 15% chance\n"
           },
           {
             "name": "Awoken: ☆3-Star Review",
-            "value": "Activations: \nMin Level Effect: Deal 500% DMG to the enemy with the highest attack power with a simultaneous attack by all Cool allies / 15% chance\nMax Level Effect: Deal 500% DMG to the enemy with the highest attack power with a simultaneous attack by all Cool allies / 20% chance\n"
+            "value": "Activations: 2\nMin Level Effect: Deal 500% DMG to the enemy with the highest attack power with a simultaneous attack by all Cool allies / 15% chance\nMax Level Effect: Deal 500% DMG to the enemy with the highest attack power with a simultaneous attack by all Cool allies / 20% chance\n"
           },
           {
             "name": "Awoken Second Skill: ☆3-Star Review",
@@ -34588,7 +34588,6 @@
             "name": "Awoken Second Skill: ☆Light Marionette",
             "value": "Activations: 2\nEffect: 【Autoskill】All enemies' ATK • DEF 30% down after every attack / 50% chance"
           }
-
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/54/Hero_Audrey_H.png",
         "link": "https://valkyriecrusade.wikia.com/wiki/Hero_Audrey"
@@ -34685,5 +34684,309 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e9/Disk_Jockey.png",
         "link": "https://valkyriecrusade.wikia.com/wiki/Disk_Jockey"
+      },
+      {
+        "name": "Ibuki",
+        "element": "Light",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Fine Sake",
+            "value": "Activations: 1\nMin Level Effect: Deal 40% Light DMG 16 times to the enemy / 5% chance\nMax Level Effect: Deal 70% Light DMG 16 times to the enemy / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Fine Sake",
+            "value": "Activations: 3\nEffect: 【Autoskill】Deal 300% DMG to all enemies after an attack / Unable to move 3 turns / Can't be nullified / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Fine Sake",
+            "value": "Activations: 1\nMin Level Effect: Deal 60% Light DMG 16 times to the enemy / 5% chance\nMax Level Effect: Deal 90% Light DMG 16 times to the enemy / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Fine Sake",
+            "value": "Activations: 3\nEffect: 【Autoskill】Deal 400% DMG to all enemies after an attack / Unable to move 3 turns / Can't be nullified / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/75/Ibuki.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Ibuki"
+      },
+      {
+        "name": "Holy Night Hades",
+        "element": "Cool",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Unholy Xmas",
+            "value": "Activations: 1\nMin Level Effect: Deal 40% Cool DMG 18 times to the enemy / 5% chance\nMax Level Effect: Deal 70% Cool DMG 18 times to the enemy / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Unholy Xmas",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Unit's all Cool ATK • DEF +350%\n"
+          },
+          {
+            "name": "Awoken: ☆Unholy Xmas",
+            "value": "Activations: 1\nMin Level Effect: Deal 60% Cool DMG 18 times to the enemy / 5% chance\nMax Level Effect: Deal 90% Cool DMG 18 times to the enemy / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Unholy Xmas",
+            "value": "Activations: Always On\nEffect: 【Autoskill】Unit's all Cool ATK • DEF +400%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/2/24/Holy_Night_Hades.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Holy_Night_Hades"
+      },
+      {
+        "name": "Sazanami",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Resounding Drum",
+            "value": "Activations: 1\nMin Level Effect: Deal 200% DMG to the enemy with the highest attack power with a simultaneous attack by all Dark allies / 10% chance\nMax Level Effect: Deal 250% DMG to the enemy with the highest attack power with a simultaneous attack by all Dark allies / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/dc/Sazanami.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Sazanami"
+      },
+      {
+        "name": "Aboro",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Heavenly Dance",
+            "value": "Activations: 1\nMin Level Effect: Deal 300% DMG to the enemy with the highest attack power with a simultaneous attack by all Dark allies / 10% chance\nMax Level Effect: Deal 350% DMG to the enemy with the highest attack power with a simultaneous attack by all Dark allies / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Heavenly Dance",
+            "value": "Activations: 2\nMin Level Effect: Deal 300% DMG to the enemy with the highest attack power with a simultaneous attack by all Dark allies / 15% chance\nMax Level Effect: Deal 350% DMG to the enemy with the highest attack power with a simultaneous attack by all Dark allies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/6d/Aboro.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Aboro"
+      },
+      {
+        "name": "Sexy Aboro",
+        "element": "Dark",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Ultimate Dance",
+            "value": "Activations: 2\nMin Level Effect: Deal 500% DMG to the enemy with the highest attack power with a simultaneous attack by all allies / 20% chance\nMax Level Effect: Deal 550% DMG to the enemy with the highest attack power with a simultaneous attack by all allies / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Ultimate Dance",
+            "value": "Activations: 2\nEffect: 【Autoskill】Deal 200% Dark DMG to all enemies after an attack / Unable to move 2 turns / Can't be nullified / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/71/Sexy_Aboro_H.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Sexy_Aboro"
+      },
+      {
+        "name": "Akebono",
+        "element": "Dark",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Enchanted Sunrise",
+            "value": "Activations: 2\nMin Level Effect: Deal 600% DMG to the enemy with the highest attack power with a simultaneous attack by all allies / 10% chance\nMax Level Effect: Deal 800% DMG to the enemy with the highest attack power with a simultaneous attack by all allies / 20% chance\n"
+          },
+          {
+            "name": "Second Skill: Enchanted Sunrise",
+            "value": "Activations: 2\nEffect: 【Autoskill】Deal 350% Dark DMG to all enemies after an attack / Unable to move 2 turns / Can't be nullified / 30% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Enchanted Sunrise",
+            "value": "Activations: 2\nMin Level Effect: Activate Awoken Burst for all allies and deal 500% DMG to the enemy with the highest attack power with a simultaneous attack / 10% chance\nMax Level Effect: Activate Awoken Burst for all allies and deal 600% DMG to the enemy with the highest attack power with a simultaneous attack / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Enchanted Sunrise",
+            "value": "Activations: 3\nEffect: 【Autoskill】Deal 400% Dark DMG to all enemies after an attack / Unable to move 2 turns / Can't be nullified / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/8c/Akebono.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Akebono"
+      },
+      {
+        "name": "Sunrise Akebono",
+        "element": "Dark",
+        "rarity": "GLR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Enchanted Sunrise",
+            "value": "Activations: 2\nMin Level Effect: Activate Awoken Burst for all allies and deal 600% DMG to the enemy with the highest attack power with a simultaneous attack / 10% chance\nMax Level Effect: Activate Awoken Burst for all allies and deal 700% DMG to the enemy with the highest attack power with a simultaneous attack / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Enchanted Sunrise",
+            "value": "Activations: 3\nEffect: 【Autoskill】Deal 400% Dark DMG to all enemies after an attack / Unable to move 2 turns / Can't be nullified / 35% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e4/Sunrise_Akebono_H.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Sunrise_Akebono"
+      },
+      {
+        "name": "Nagi",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Frenzied Voice",
+            "value": "Activations: 1\nMin Level Effect: All Dark allies' ATK • DEF 200% up / 10% chance\nMax Level Effect: All Dark allies' ATK • DEF 200% up / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Frenzied Voice",
+            "value": "Activations: 1\nMin Level Effect: All Dark allies' ATK • DEF 300% up / 15% chance\nMax Level Effect: All Dark allies' ATK • DEF 300% up / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Frenzied Voice",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/db/Nagi.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Nagi"
+      },
+      {
+        "name": "Hatsuharu",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Thousand Tails",
+            "value": "Activations: 3\nMin Level Effect: Deal 400% Light DMG to all enemies / Unable to move 4 turns / 15% chance\nMax Level Effect: Deal 500% Light DMG to all enemies / Unable to move 4 turns / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Thousand Tails",
+            "value": "Activations: 3\nMin Level Effect: Max Level Effect: Deal 500% Light DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Max Level Effect: Deal 600% Light DMG to all enemies / Unable to move 4 turns / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/f3/Hatsuharu.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Hatsuharu"
+      },
+      {
+        "name": "Sunray Hatsuharu",
+        "element": "Light",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Thousand Tails",
+            "value": "Activations: 3\nMin Level Effect: Max Level Effect: Deal 500% Light DMG to all enemies / Unable to move 4 turns / 20% chance\nMax Level Effect: Max Level Effect: Deal 600% Light DMG to all enemies / Unable to move 4 turns / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Thousand Tails",
+            "value": "Activations: 4\nEffect: 【Autoskill】Own ATK 60% up after every attack"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/be/Sunray_Hatsuharu_H.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Sunray_Hatsuharu"
+      },
+      {
+        "name": "Nanakusa",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Heavenly Blade",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Light allies' skills / 10% chance\nMax Level Effect: Unleash all Light allies' skills / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Heavenly Blade",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Light allies' skills / 15% chance\nMax Level Effect: Unleash all Light allies' skills / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/b/b0/Nanakusa.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Nanakusa"
+      },
+      {
+        "name": "Sunray Nanakusa",
+        "element": "Light",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Heavenly Blade",
+            "value": "Activations: 2\nMin Level Effect: Unleash all Light allies' skills / 15% chance\nMax Level Effect: Unleash all Light allies' skills / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Heavenly Blade",
+            "value": "Activations: 1\nEffect: 【Autoskill】When own soldiers fall below a certain amount, all allies recover 100% / 50% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/7/75/Sunray_Nanakusa_H.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Sunray_Nanakusa"
+      },
+      {
+        "name": "Suzu",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Boary Projector",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 3 turn(s) / 10% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Boary Projector",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 3 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/18/Suzu.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Suzu"
+      },
+      {
+        "name": "Sunray Suzu",
+        "element": "Light",
+        "rarity": "GSR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Boary Projector",
+            "value": "Activations: 2\nMin Level Effect: All enemies can't move for 3 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Boary Projector",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Light icon allies' ATK 50% up / 50% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d3/Sunray_Suzu_H.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Sunray_Suzu"
+      },
+      {
+        "name": "Hazuki",
+        "element": "Light",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Sacred Fortunes",
+            "value": "Activations: 1\nMin Level Effect: Activate Awoken Burst for all allies / 10% chance\nMax Level Effect: Activate Awoken Burst for all allies / 25% chance\n"
+          },
+          {
+            "name": "Second Skill: Sacred Fortunes",
+            "value": "Activations: 1\nEffect: 【Autoskill】All allies' ATK • DEF 100% up from the first turn / 100% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Sacred Fortunes",
+            "value": "Activations: 1\nMin Level Effect: Activate Awoken Burst for all allies / 15% chance\nMax Level Effect: Activate Awoken Burst for all allies / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Sacred Fortunes",
+            "value": "Activations: 1\nEffect: 【Autoskill】All allies' ATK • DEF 150% up from the first turn / 100% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/97/Hazuki.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Hazuki"
+      },
+      {
+        "name": "Aquavera",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Not-for-marriage",
+            "value": "Activations: 1\nMin Level Effect: Deal 200% Light DMG 3 times to the enemy / 10% chance\nMax Level Effect: Deal 200% Light DMG 3 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Not-for-marriage",
+            "value": "Activations: 1\nMin Level Effect: Deal 200% Light DMG 4 times to the enemy / 15% chance\nMax Level Effect: Deal 200% Light DMG 4 times to the enemy / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/fe/Aquavera.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Aquavera"
       }
     ]
