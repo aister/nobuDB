@@ -2355,6 +2355,14 @@
           {
             "name": "Awoken: ☆Royal Genetics",
             "value": "Activations: Infinite\nMin Level Effect: Deal 300% Passion DMG to all enemies / 20% chance\nMax Level Effect: Deal 350% Passion DMG to all enemies / 25% chance"
+          },
+          {
+            "name": "Reborn: ★Royal Genetics",
+            "value": "Activations: Infinite\nMin Level Effect: Deal 400% Passion DMG to all enemies / 30% chance\nMax Level Effect: Deal 450% Passion DMG to all enemies / 35% chance\n"
+          },
+          {
+            "name": "Reborn Second Skill: ★Royal Genetics",
+            "value": "Activations: 1\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill / 30% chance"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/f/f8/Griffin.png",
@@ -3852,6 +3860,14 @@
           {
             "name": "Awoken Second Skill: ☆Woodland Harmony",
             "value": "Activations: 2\nEffect: Skill nullification of enemy's attacking skill / 30% chance"
+          },
+          {
+            "name": "Reborn: ★Woodland Harmony",
+            "value": "Activations: 4\nMin Level Effect: Unleash a single ally's skill / 35% chance\nMax Level Effect: Unleash a single ally's skill / 40% chance\n"
+          },
+          {
+            "name": "Reborn Second Skill: ★Woodland Harmony",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of enemy's attacking skill / 40% chance"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/6/69/Arpa.png",
@@ -5245,6 +5261,14 @@
           {
             "name": "Awoken Second Skill: ☆Lucky Number",
             "value": "Activations: 1\nEffect: 【Autoskill】When own soldiers fall below a certain amount, all allies recover 100% / 50% chance"
+          },
+          {
+            "name": "Reborn: ★Lucky Number",
+            "value": "Activations: 3\nMin Level Effect: All allies' ATK • DEF 100% up after every attack / Max 3 times\nMax Level Effect: All allies' ATK • DEF 120% up after every attack / Max 3 times\n"
+          },
+          {
+            "name": "Reborn Second Skill: ★Lucky Number",
+            "value": "Activations: 3\nEffect: When own soldiers fall below a certain amount, all allies recover 100% / 60% chance【Autoskill】"
           }
         ],
         "image": "https://vignette4.wikia.nocookie.net/valkyriecrusade/images/f/fa/Letta.png",
@@ -7027,6 +7051,14 @@
           {
             "name": "Awoken Second Skill: ☆Stellar Impact",
             "value": "Activations: 2\nEffect: 【Autoskill】All enemies' ATK • DEF 30% down / 100% chance"
+          },
+          {
+            "name": "Reborn: ★Stellar Impact",
+            "value": "Activations: 2\nMin Level Effect: All Passion allies' ATK 800% • DEF 300% up / 15% chance\nMax Level Effect: All Passion allies' ATK 800% • DEF 300% up / 45% chance\n"
+          },
+          {
+            "name": "Reborn Second Skill: ★Stellar Impact",
+            "value": "Activations: 2\nEffect: 【Autoskill】All enemies' ATK • DEF 50% down / 100% chance"
           }
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/88/Tamiel.png",
@@ -7102,6 +7134,14 @@
           {
             "name": "Second Skill: ☆Valkyrie Rod",
             "value": "Activations: 5\nEffect: 【Autoskill】Skill nullification of any enemy skills / 70% chance"
+          },
+          {
+            "name": "Reborn: ★Valkyrie Rod",
+            "value": "Activations: 7\nMin Level Effect: Unleash a single ally's skill / 25% chance\nMax Level Effect: Unleash a single ally's skill / 45% chance\n"
+          },
+          {
+            "name": "Reborn Second Skill: ★Valkyrie Rod",
+            "value": "Activations: 7\nEffect: 【Autoskill】Skill nullification of any enemy skills / 80% chance"
           }
         ],
         "image": "https://vignette2.wikia.nocookie.net/valkyriecrusade/images/8/8a/Wise_Oracle.png",
@@ -29659,6 +29699,14 @@
           {
             "name": "Awoken Second Skill: ☆Lucky Roulette",
             "value": "Activations: Infinite\nEffect: 【Autoskill】Unit's all Passion ATK • DEF +350%"
+          },
+          {
+            "name": "Reborn: ★Lucky Roulette",
+            "value": "Activations: 2\nMin Level Effect: Deal 100% Passion DMG 17 times to the enemy / 10% chance\nMax Level Effect: Deal 120% Passion DMG 17 times to the enemy / 35% chance\n"
+          },
+          {
+            "name": "Reborn Second Skill: ★Lucky Roulette",
+            "value": "Activations: Infinite\nEffect: 【Autoskill】Unit's all Passion ATK • DEF +400%"
           }
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/6/63/Lucky_Fortuna.png",
@@ -34988,5 +35036,209 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/f/fe/Aquavera.png",
         "link": "https://valkyriecrusade.wikia.com/wiki/Aquavera"
+      },
+      {
+        "name": "Lonely Nagatsuki",
+        "element": "Light",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Lunar Radiance",
+            "value": "Activations: 2\nMin Level Effect: Deal 200% Light DMG to all enemies / Unable to move 4 turns / 10% chance\nMax Level Effect: Deal 500% Light DMG to all enemies / Unable to move 4 turns / 15% chance\n"
+          },
+          {
+            "name": "Second Skill: Lunar Radiance",
+            "value": "Activations: 2\nEffect: 【Autoskill】Deal 200% LightDMG to all enemies after an attack / Unable to move 2 turns / Can't be nullified / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Lunar Radiance",
+            "value": "Activations: 2\nMin Level Effect: Deal 300% Light DMG to all enemies / Unable to move 6 turns / 15% chance\nMax Level Effect: Deal 600% Light DMG to all enemies / Unable to move 6 turns / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Lunar Radiance",
+            "value": "Activations: 3\nEffect: 【Autoskill】Deal 200% LightDMG to all enemies after an attack / Unable to move 2 turns / Can't be nullified / 25% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/1/16/Lonely_Nagatsuki.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Lonely_Nagatsuki"
+      },
+      {
+        "name": "Mauve",
+        "element": "Passion",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Vial Toss",
+            "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 30% chance\nMax Level Effect: Unleash a single ally's skill / 40% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Vial Toss",
+            "value": "Activations: 1\nMin Level Effect: Unleash a single ally's skill / 35% chance\nMax Level Effect: Unleash a single ally's skill / 45% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/4/4e/Mauve.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Mauve"
+      },
+      {
+        "name": "Solferino",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Maymay Bullet",
+            "value": "Activations: 2\nMin Level Effect: Deal 350% DMG to a single enemy with a simultaneous attack by all Passion allies / 10% chance\nMax Level Effect: Deal 400% DMG to a single enemy with a simultaneous attack by all Passion allies / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Maymay Bullet",
+            "value": "Activations: 2\nMin Level Effect: Deal 450% DMG to a single enemy with a simultaneous attack by all Passion allies / 15% chance\nMax Level Effect: Deal 500% DMG to a single enemy with a simultaneous attack by all Passion allies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/a/af/Solferino.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Solferino"
+      },
+      {
+        "name": "General Sumire",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Demonic Blade",
+            "value": "Activations: 3\nMin Level Effect: Deal 350% Passion DMG to all enemies / Absorb 30% / 30% chance\nMax Level Effect: Deal 350% Passion DMG to all enemies / Absorb 30% / 40% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Demonic Blade",
+            "value": "Activations: 3\nMin Level Effect: Deal 450% Passion DMG to all enemies / Absorb 30% / 30% chance\nMax Level Effect: Deal 450% Passion DMG to all enemies / Absorb 30% / 40% chance\n"
+          },
+          {
+            "name": "Reborn: ★Demonic Blade",
+            "value": "Activations: 4\nMin Level Effect: Deal 550% Passion DMG to all enemies / Absorb 30% / 30% chance\nMax Level Effect: Deal 550% Passion DMG to all enemies / Absorb 30% / 40% chance\n"
+          },
+          {
+            "name": "Reborn Second Skill: ★Demonic Blade",
+            "value": "Activations: 2\nEffect: 【Autoskill】Activate Awoken Burst 2 turns for all allies after an attack / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/82/General_Sumire.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/General_Sumire"
+      },
+      {
+        "name": "Disaster",
+        "element": "Passion",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Massacre Time",
+            "value": "Activations: 1\nMin Level Effect: Deal 500% Passion DMG 4 times to all enemies / 10% chance\nMax Level Effect: Deal 600% Passion DMG 4 times to all enemies / 20% chance\n"
+          },
+          {
+            "name": "Second Skill: Massacre Time",
+            "value": "Activations: 3\nEffect: 【Autoskill】Reduce gain damage 90% Counter attack 2000% / 30% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Massacre Time",
+            "value": "Activations: 2\nMin Level Effect: Deal 500% Passion DMG 4 times to all enemies / 15% chance\nMax Level Effect: Deal 600% Passion DMG 4 times to all enemies / 25% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Massacre Time",
+            "value": "Activations: 3\nEffect: 【Autoskill】Reduce gain damage 90% Counter attack 2500%\n"
+          },
+          {
+            "name": "Reborn: ★Massacre Time",
+            "value": "Activations: 3\nMin Level Effect: Deal 700% Passion DMG 4 times to all enemies / 20% chance\nMax Level Effect: Deal 800% Passion DMG 4 times to all enemies / 30% chance\n"
+          },
+          {
+            "name": "Reborn Second Skill: ★Massacre Time",
+            "value": "Activations: 4\nEffect: 【Autoskill】Reduce gain damage 99% Counter attack 3000% / 35% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e2/Disaster.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Disaster"
+      },
+      {
+        "name": "Bestia",
+        "element": "Cool",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Comrade Combo",
+            "value": "Activations: 3\nMin Level Effect: Deal 500% Cool DMG to all enemies / 20% chance\nMax Level Effect: Deal 550% Cool DMG to all enemies / 30% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Comrade Combo",
+            "value": "Activations: 3\nMin Level Effect: Deal 550% Cool DMG to all enemies / 20% chance\nMax Level Effect: Deal 600% Cool DMG to all enemies / 30% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Comrade Combo",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Cool allies' ATK • DEF 100% up from the first turn / 100% chance\n"
+          },
+          {
+            "name": "Reborn: ★Comrade Combo",
+            "value": "Activations: 3\nMin Level Effect: Deal 650% Cool DMG to all enemies / 25% chance\nMax Level Effect: Deal 700% Cool DMG to all enemies / 35% chance\n"
+          },
+          {
+            "name": "Reborn Second Skill: ★Comrade Combo",
+            "value": "Activations: 1\nEffect: 【Autoskill】All Cool allies' ATK • DEF 150% up from the first turn / 100% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/d/d3/Bestia.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Bestia"
+      },
+      {
+        "name": "Evaughn",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: 100-Ton Hammer",
+            "value": "Activations: 4\nMin Level Effect: Unleash all Cool allies' skills / 20% chance\nMax Level Effect: Unleash all Cool allies' skills / 30% chance\n"
+          },
+          {
+            "name": "Awoken: ☆100-Ton Hammer",
+            "value": "Activations: 4\nMin Level Effect: Unleash all Cool allies' skills / 30% chance\nMax Level Effect: Unleash all Cool allies' skills / 40% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆100-Ton Hammer",
+            "value": "Activations: Infinite\nEffect: 【Autoskill】Unit's all Cool ATK • DEF +150%\n"
+          },
+          {
+            "name": "Reborn: ★100-Ton Hammer",
+            "value": "Activations: 4\nMin Level Effect: Unleash all Cool allies' skills / 40% chance\nMax Level Effect: Unleash all Cool allies' skills / 50% chance\n"
+          },
+          {
+            "name": "Reborn Second Skill: ★100-Ton Hammer",
+            "value": "Activations: 4\nEffect: 【Autoskill】Unit's all Cool ATK • DEF +200%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e8/Evaughn.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Evaughn"
+      },
+      {
+        "name": "Greeme",
+        "element": "Cool",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Magic Love Letter",
+            "value": "Activations: 4\nMin Level Effect: All Cool allies' ATK 650% • DEF 450% up / 30% chance\nMax Level Effect: All Cool allies' ATK 650% • DEF 450% up / 40% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Magic Love Letter",
+            "value": "Activations: 4\nMin Level Effect: All Cool allies' ATK 700% • DEF 500% up / 30% chance\nMax Level Effect: All Cool allies' ATK 700% • DEF 500% up / 40% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Magic Love Letter",
+            "value": "Activations: 2\nEffect: 【Autoskill】Skill nullification of any enemy skills / 30% chance\n"
+          },
+          {
+            "name": "Reborn: ★Magic Love Letter",
+            "value": "Activations: 4\nMin Level Effect: All Cool allies' ATK 800% • DEF 600% up / 40% chance\nMax Level Effect: All Cool allies' ATK 800% • DEF 600% up / 50% chance\n"
+          },
+          {
+            "name": "Reborn Second Skill: ★Magic Love Letter",
+            "value": "Activations: 3\nEffect: 【Autoskill】Skill nullification of any enemy skills / 30% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/5a/Greeme.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Greeme"
       }
     ]
