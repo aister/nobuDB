@@ -35240,5 +35240,165 @@
         ],
         "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/5a/Greeme.png",
         "link": "https://valkyriecrusade.wikia.com/wiki/Greeme"
+      },
+      {
+        "name": "Teaspoon ",
+        "element": "Light",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Faerie Spoon",
+            "value": "Activations: 3\nMin Level Effect: Fully recovers all allies / 10% chance\nMax Level Effect: Fully recovers all allies / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Faerie Spoon",
+            "value": "Activations: 4\nMin Level Effect: Fully recovers all allies / 15% chance\nMax Level Effect: Fully recovers all allies / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/9/92/Teaspoon.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Teaspoon"
+      },
+      {
+        "name": "Hermia ",
+        "element": "Cool",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Kitty Scythe",
+            "value": "Activations: 2\nMin Level Effect: Deal 600% Cool DMG 10 times to the enemy / 30% chance\nMax Level Effect: Deal 700% Cool DMG 10 times to the enemy / 40% chance\n"
+          },
+          {
+            "name": "Second Skill: Kitty Scythe",
+            "value": "Activations: Infinite\nEffect: 【Autoskill】Unit's all Cool ATK • DEF +200%\n"
+          },
+          {
+            "name": "Awoken: ☆Kitty Scythe",
+            "value": "Activations: 3\nMin Level Effect: Deal 700% Cool DMG 12 times to the enemy / 30% chance\nMax Level Effect: Deal 800% Cool DMG 12 times to the enemy / 40% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Kitty Scythe",
+            "value": "Activations: Infinite\nEffect: 【Autoskill】Unit's all Cool ATK • DEF +250%\n"
+          },
+          {
+            "name": "Reborn: ☆Kitty Scythe",
+            "value": "Activations: 3\nMin Level Effect: Min Level Effect: Deal 800% Cool DMG 12 times to the enemy / 30% chance\nMax Level Effect: Min Level Effect: Deal 900% Cool DMG 12 times to the enemy / 40% chance\n"
+          },
+          {
+            "name": "Reborn Second Skill: ☆Kitty Scythe",
+            "value": "Activations: Infinite\nEffect: 【Autoskill】Unit's all Cool icon ATK • DEF +300%"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/30/Hermia.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Hermia"
+      },
+      {
+        "name": "Lapfel",
+        "element": "Light",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Soul Steal",
+            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 3 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 3 turn(s) / 20% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Soul Steal",
+            "value": "Activations: 1\nMin Level Effect: All enemies can't move for 4 turn(s) / 15% chance\nMax Level Effect: All enemies can't move for 4 turn(s) / 20% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/5a/Lapfel.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Lapfel"
+      },
+      {
+        "name": "Maek",
+        "element": "Dark",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Be My Friend",
+            "value": "Activations: 1\nMin Level Effect: Deal 400% Dark DMG 3 times to the enemy / 10% chance\nMax Level Effect: Deal 400% Dark DMG 3 times to the enemy / 15% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Be My Friend",
+            "value": "Activations: 1\nMin Level Effect: Deal 500% Dark DMG 4 times to the enemy / 10% chance\nMax Level Effect: Deal 500% Dark DMG 4 times to the enemy / 15% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/5/5f/Maek.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Maek"
+      },
+      {
+        "name": "Dressy Maek",
+        "element": "Dark",
+        "rarity": "GUR",
+        "skill": [
+          {
+            "name": "Awoken: ☆Hold My Hand",
+            "value": "Activations: 2\nMin Level Effect: Deal 500% Dark DMG 4 times to the enemy / 15% chance\nMax Level Effect: Deal 500% Dark DMG 4 times to the enemy / 20% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Hold My Hand",
+            "value": "Activations: 2\nEffect: 【Autoskill】Own ATK 200% up after every attack"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/e/e7/Dressy_Maek_H.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Dressy_Maek"
+      },
+      {
+        "name": "Nine Tails ",
+        "element": "Cool",
+        "rarity": "LR",
+        "skill": [
+          {
+            "name": "Skill: Nine-Tail Dance",
+            "value": "Activations: 3\nMin Level Effect: Resurrect and fully recover all allies / 20% chance\nMax Level Effect: Resurrect and fully recover all allies / 30% chance\n"
+          },
+          {
+            "name": "Second Skill: Nine-Tail Dance",
+            "value": "Activations: 2\nEffect: 【Autoskill】Reduce gain damage 70% Counter attack 900% for 2 received attack turns / 30%chance\n"
+          },
+          {
+            "name": "Awoken: ☆Nine-Tail Dance",
+            "value": "Activations: 4\nMin Level Effect: Resurrect and fully recover all allies / 30% chance\nMax Level Effect: Resurrect and fully recover all allies / 35% chance\n"
+          },
+          {
+            "name": "Awoken Second Skill: ☆Nine-Tail Dance",
+            "value": "Activations: 2\nEffect: 【Autoskill】Reduce gain damage 90% Counter attack 1000% for 2 received attack turns / 30%chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/8/83/Nine_Tails.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Nine_Tails"
+      },
+      {
+        "name": "Quinty",
+        "element": "Dark",
+        "rarity": "SR",
+        "skill": [
+          {
+            "name": "Skill: Annihilating Blade",
+            "value": "Activations: 2\nMin Level Effect: Deal 100% Dark DMG to all enemies / Absorb 20% / 30% chance\nMax Level Effect: Deal 100% Dark DMG to all enemies / Absorb 20% / 35% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Annihilating Blade",
+            "value": "Activations: 2\nMin Level Effect: Deal 150% Dark DMG to all enemies / Absorb 20% / 35% chance\nMax Level Effect: Deal 150% Dark DMG to all enemies / Absorb 20% / 40% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/3/31/Quinty.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Quinty"
+      },
+      {
+        "name": "Watanuki",
+        "element": "Passion",
+        "rarity": "UR",
+        "skill": [
+          {
+            "name": "Skill: Lucky Accessory",
+            "value": "Activations: 2\nMin Level Effect: Deal 250% Passion DMG to all enemies / Unable to move 3 turns / 30% chance\nMax Level Effect: Deal 300% Passion DMG to all enemies / Unable to move 3 turns / 45% chance\n"
+          },
+          {
+            "name": "Awoken: ☆Lucky Accessory",
+            "value": "Activations: 2\nMin Level Effect: Deal 350% Passion DMG to all enemies / Unable to move 3 turns / 45% chance\nMax Level Effect: Deal 400% Passion DMG to all enemies / Unable to move 3 turns / 55% chance"
+          }
+        ],
+        "image": "https://vignette.wikia.nocookie.net/valkyriecrusade/images/c/c9/Watanuki.png",
+        "link": "https://valkyriecrusade.wikia.com/wiki/Watanuki"
       }
     ]
